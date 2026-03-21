@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkleadcase=self.webpackChunkleadcase||[]).push([[230],{4228:function(e,a,c){c.r(a);var l=c(6540),s=c(4810);a.default=()=>((0,l.useEffect)(()=>{(0,s.oo)("/",{replace:!0})},[]),null)}}]);
+//# sourceMappingURL=component---src-pages-library-js-224e05fa0ff121e304c8.js.map
