@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, withPrefix } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import Layout from '../components/Layout'
 
@@ -68,7 +68,7 @@ const TopicTemplate = ({ data }) => {
               )}
               {(c.image?.localUrl || c.image?.url) && (
                 <img
-                  src={c.image.localUrl || c.image.url}
+                  src={c.image.localUrl ? withPrefix(c.image.localUrl) : c.image.url}
                   alt={c.title || ''}
                   style={{
                     display: 'block',

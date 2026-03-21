@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { Link, withPrefix } from 'gatsby'
 import * as styles from './Header.module.css'
 
 const Header = () => {
@@ -7,7 +7,7 @@ const Header = () => {
     <header className={styles.header}>
       <div className={`container ${styles.inner}`}>
         <Link to="/" className={styles.logo}>
-          <img src="/logo.svg" alt="Leadcase" className={styles.logoMark} />
+          <img src={withPrefix('/logo.svg')} alt="Leadcase" className={styles.logoMark} />
           Leadcase
         </Link>
         <nav className={styles.nav}>

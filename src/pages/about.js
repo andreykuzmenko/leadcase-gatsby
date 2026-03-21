@@ -1,4 +1,5 @@
 import React from 'react'
+import { withPrefix } from 'gatsby'
 import Layout from '../components/Layout'
 
 const AboutPage = () => {
@@ -21,7 +22,7 @@ const AboutPage = () => {
           <div style={{ display: 'flex', gap: 24, marginTop: 20, alignItems: 'flex-start', flexWrap: 'wrap' }}>
             <div style={{ width: '25%', minWidth: 140, flexShrink: 0 }}>
               <img
-                src="/andrii-kuzmenko.jpg"
+                src={withPrefix('/andrii-kuzmenko.jpg')}
                 alt="Andrii Kuzmenko"
                 style={{ width: '100%', borderRadius: 50 }}
               />
