@@ -1,0 +1,106 @@
+{
+  "whatDescription": "- You have trust issues with a customer, team or colleague",
+  "howDescription": "- The link between trust and transparency\n- What to do to increase trust",
+  "tags": [
+    {
+      "id": "3749668a368afb56",
+      "title": "Communication",
+      "key": "Communication",
+      "orderRank": 1
+    }
+  ],
+  "links": [],
+  "cards": [
+    {
+      "id": "dcce6a56d22ef860",
+      "title": "😫 Problems with trust",
+      "text": "<p>How often do you face a situation where you have no trust in your relationship with a client, colleague, or manager? As a result, they question your decisions, nitpick, and demotivate you or your team.</p><p>What is missing in the relationship to make your cooperation long and fruitful?</p><p>The <strong>matrix of trust and transparency </strong>will help to deal with this.</p><p>Let's try to look at the example of working with a client. This, in turn, can be applied to colleagues, managers, and other stakeholders.</p>",
+      "orderRank": 1,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "8afe24a338ccb781",
+      "title": "Low trust and low transparency",
+      "text": "<p>New client relationships usually start in a square of low trust and low transparency. Even if the other side says they trust you as themselves, you haven't worked together yet, and there's minimal trust.\"</p><p><em>To increase trust, start building transparency.</em></p><h3>How to increase transparency.</h3><ul><li><strong>First meeting. </strong>Introduce the client to your team, and tell about the processes and approaches used.</li><li><strong>Communication plan. </strong>Discuss the tools and frequency of meetings.</li><li><strong>Progress reporting. </strong>Discuss the template and frequency of progress reports.</li><li><strong>Results. </strong>Show the client the results of the work done at regular intervals</li></ul>",
+      "orderRank": 2,
+      "isPublished": false,
+      "image": {
+        "id": "57d106543d0467c4",
+        "name": "matrix.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/57d106543d0467c4",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/57d106543d0467c4.png"
+      }
+    },
+    {
+      "id": "f0f346e8fc19cc0f",
+      "title": "Low trust and high transparency",
+      "text": "<p>If we have managed to increase transparency, we move to square B (low trust and high transparency) - the customer has begun to understand the project's<em> What, How, and Why</em>. The most important thing is not to slow down. And, of course, the <strong>result </strong>is an essential element for increasing trust.</p><h3>What can help?</h3><p>If an unforeseen problem arises on the project, try to find solutions before going to the customer. In any case, you need to talk about issues openly, not hide them. Your proactivity in terms of problem-solving will show engagement.</p>",
+      "orderRank": 3,
+      "isPublished": false,
+      "image": {
+        "id": "8586ba64c58a860",
+        "name": "trust1.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/8586ba64c58a860",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/8586ba64c58a860.png"
+      }
+    },
+    {
+      "id": "4685c0d8ade6039d",
+      "title": "High trust and high transparency",
+      "text": "<p>If you've moved to the <strong>high trust and transparency</strong> square, the most important thing is not to relax and keep all agreements.</p><p><strong>Trust</strong> is the best thing that can come from cooperation.</p>",
+      "orderRank": 4,
+      "isPublished": false,
+      "image": {
+        "id": "30f093eeee4c85b0",
+        "name": "trust2.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/30f093eeee4c85b0",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/30f093eeee4c85b0.png"
+      }
+    },
+    {
+      "id": "c0bb3aceec0c49bb",
+      "title": "High trust and low transparency",
+      "text": "<p>On long projects, the relationship with the client can slip into a square of high trust and low transparency. The client may start to distance themselves from the project work due to trust at some point. The main danger here is that if we somehow let the client down, we can fall back to the very beginning (square A), losing everything we've built with such effort. This will affect not only your relationship with the customer but also your team's motivation.</p><p>Keep transparency at a high level at all times!</p>",
+      "orderRank": 5,
+      "isPublished": false,
+      "image": {
+        "id": "7a5ed96b985d863d",
+        "name": "trust3.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/7a5ed96b985d863d",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/7a5ed96b985d863d.png"
+      }
+    },
+    {
+      "id": "ecaae8b99e838379",
+      "title": "👉 How to apply the tool?",
+      "text": "<ol><li>Draw a 2-by-2 matrix on a piece of paper with the axes of Trust and Transparency.</li><li>Put a dot in the square where you think the relationship with the customer of your work is. It could be an external customer, an internal customer, a neighboring department, or your boss.</li><li>Ask yourself the question: \"Why do you think so?\", \"Why do you think your relationship is there?\", \"Do you think there is enough transparency and no trust?\", \"Then why is there no trust?\", \"By what signs do you understand that the customer is sufficiently aware of your work?\"</li></ol><p><strong>The best way to understand where your relationship is to ask.</strong></p>",
+      "orderRank": 6,
+      "isPublished": false,
+      "image": null
+    }
+  ],
+  "exerciseId": null,
+  "isSaved": false,
+  "id": "fd1f2153d231efb9",
+  "title": "Matrix of trust and transparency",
+  "description": "Build relationships with people through transparency to have a high level of trust",
+  "slug": "trust-and-transparency",
+  "image": {
+    "id": "feeaa1fdac34fdc1",
+    "name": "trust-transparency.png",
+    "url": "https://inpocketapp.blob.core.windows.net/deck-images/feeaa1fdac34fdc1",
+    "height": 400,
+    "width": 400
+  },
+  "topicType": null,
+  "imageUrl": "/images/trust-and-transparency.png"
+}

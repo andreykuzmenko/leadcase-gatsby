@@ -1,0 +1,109 @@
+:root {
+  --color-primary: #1a56db;
+  --color-primary-dark: #1342a8;
+  --color-text: #111827;
+  --color-text-muted: #6b7280;
+  --color-border: #e5e7eb;
+  --color-bg: #ffffff;
+  --color-bg-subtle: #f9fafb;
+  --color-tag: #eff6ff;
+  --color-tag-text: #1d4ed8;
+
+  --font-sans: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
+  --max-width: 1200px;
+  --nav-height: 60px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.6;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  border: none;
+  background: none;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding: 0 16px;
+  }
+}
+
+/* Rich text from topic cards */
+.card-text p {
+  margin-bottom: 12px;
+}
+
+.card-text p:last-child {
+  margin-bottom: 0;
+}
+
+.card-text ul,
+.card-text ol {
+  padding-left: 20px;
+  margin-bottom: 12px;
+  list-style: disc;
+}
+
+.card-text li {
+  margin-bottom: 6px;
+  line-height: 1.6;
+}
+
+.card-text strong {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.card-text a {
+  color: var(--color-primary);
+  text-decoration: underline;
+}

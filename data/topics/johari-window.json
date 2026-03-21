@@ -1,0 +1,154 @@
+{
+  "whatDescription": "- You want to identify areas for development and understand how you are perceived by others",
+  "howDescription": "- The connection between how you present yourself and how others perceive you\n- What to do to increase trust and understanding with people\n",
+  "tags": [
+    {
+      "id": "39a372e8a8fb8d65",
+      "title": "Self-awareness",
+      "key": "Self-Awareness",
+      "orderRank": 1
+    },
+    {
+      "id": "1bfa34ee8c2c4f2c",
+      "title": "Coaching",
+      "key": "Coaching",
+      "orderRank": 2
+    }
+  ],
+  "links": [
+    {
+      "id": "201c5675efafc39a",
+      "title": "The Johari Window Model – How To Become A Great Communicator",
+      "url": "https://upskillcoach.com/blog/what-is-the-johari-window/",
+      "minutes": 7
+    },
+    {
+      "id": "e632e6ee7ac6ff3a",
+      "title": "The Johari Window Exercise - Increase self-awareness and team awareness",
+      "url": "https://www.fearlessculture.design/blog-posts/the-johari-window",
+      "minutes": 7
+    }
+  ],
+  "cards": [
+    {
+      "id": "d8ccc4ec55bda4ee",
+      "title": "💡 What is Johari's window?",
+      "text": "<p>In 1955, two American psychologists, Joseph Luft and Harrington Ingham developed a technique that allows people to understand better the relationship between their personal qualities and how others perceive them. According to the method called the Johari Window, each person has four zones:</p><p>😀 Open area</p><p>🤐 Hidden (Facade)</p><p>🙄 Unknown</p><p>😵 Blind spot</p><p>Let's explore how applying this tool allows you to look inside yourself, find your weaknesses, and understand how to strengthen your strengths.</p>",
+      "orderRank": 1,
+      "isPublished": false,
+      "image": {
+        "id": "355bf78c1fb4c36c",
+        "name": "matrix3.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/355bf78c1fb4c36c",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/355bf78c1fb4c36c.png"
+      }
+    },
+    {
+      "id": "4d185389a9f74f8e",
+      "title": "😀 Open area",
+      "text": "<p>The first square is \"open. This square represents actions, behaviors, and information known to the person and those around them.</p><p>This information is publicly available. The larger the square, the more information about the individual is known, and the more effective and productive the relationships between people will be.</p>",
+      "orderRank": 2,
+      "isPublished": false,
+      "image": {
+        "id": "6bf78dfd96e7e798",
+        "name": "matrix3_2.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/6bf78dfd96e7e798",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/6bf78dfd96e7e798.png"
+      }
+    },
+    {
+      "id": "124ea250944f8432",
+      "title": "🤐 Hidden zone",
+      "text": "<p>Information from this zone is known only to the person himself. It can be personal information that a person prefers to keep hidden.</p><p>Feelings, ambitions, dreams, and opinions may be hidden from the group by the individual for fear of a negative reaction. Once a person trusts others, they can reveal some hidden information.</p>",
+      "orderRank": 3,
+      "isPublished": false,
+      "image": {
+        "id": "dc2f7e8121d3c292",
+        "name": "matrix3_1.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/dc2f7e8121d3c292",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/dc2f7e8121d3c292.png"
+      }
+    },
+    {
+      "id": "6f6c800c0e2e8a35",
+      "title": "🙄 Unknown zone",
+      "text": "<p>This zone includes information that is unknown to the person or others. It includes feelings, abilities, and talents that are hidden from everyone and can manifest in a certain situation. The unknown zone is the possibility of introspection, the possibility of constant growth, and the possibility of finding hidden reserves in oneself.</p><p>This zone can be reduced by identifying previously unknown abilities, mastering new knowledge and skills, expanding one's comfort zone</p>",
+      "orderRank": 4,
+      "isPublished": false,
+      "image": {
+        "id": "af9991ef4fbbef64",
+        "name": "matrix3_4.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/af9991ef4fbbef64",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/af9991ef4fbbef64.png"
+      }
+    },
+    {
+      "id": "1c920d40749ea555",
+      "title": "😵 Blind spot",
+      "text": "<p>Activities and behaviors in the blind spot are known to others, but the person is unaware of them. Information in the blind spot can be positive or negative and include hidden strengths or areas for improvement.</p><p>The blind spot can be reduced by getting feedback, which is a starting point for change.</p>",
+      "orderRank": 5,
+      "isPublished": false,
+      "image": {
+        "id": "c2cb1647bda48887",
+        "name": "matrix3_3.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/c2cb1647bda48887",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/c2cb1647bda48887.png"
+      }
+    },
+    {
+      "id": "4c6d80511bf54edd",
+      "title": "📐 Dimensions of different zones",
+      "text": "<p>While the matrix has four sections, their sizes will vary in practice. The following factors influence this:</p><ul><li>What you share with other people.</li><li>How well others know you.</li><li>How well you know yourself.</li></ul>",
+      "orderRank": 6,
+      "isPublished": false,
+      "image": {
+        "id": "11a2440f46b23a6e",
+        "name": "matrix3_5.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/11a2440f46b23a6e",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/11a2440f46b23a6e.png"
+      }
+    },
+    {
+      "id": "9f57bd23f1810892",
+      "title": "🎯 What should you strive for?",
+      "text": "<p>Ideally, aim to maximize the open zone, which promotes clarity in interactions and builds trust between people.</p><p>A few tactics to increase the open zone:</p><ul><li><strong>Shrink the hidden zone</strong> by publicly showing qualities you know about yourself and presenting yourself to others from a previously unknown perspective.</li><li><strong>Shrink the blind spot</strong> by asking questions about yourself to others and analyzing the feedback.</li><li><strong>Shrink the unknown zone</strong> by listing qualities you would like to acquire. Another option is to ask people in your environment, \"What are you missing?\"</li></ul>",
+      "orderRank": 7,
+      "isPublished": false,
+      "image": {
+        "id": "5ba928c234f981e3",
+        "name": "matrix3_6.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/5ba928c234f981e3",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/5ba928c234f981e3.png"
+      }
+    }
+  ],
+  "exerciseId": null,
+  "isSaved": false,
+  "id": "eccfb9e11b8ce003",
+  "title": "The Johari Window",
+  "description": "Analyze the relationship between your personal qualities and how they are perceived by others",
+  "slug": "johari-window",
+  "image": {
+    "id": "da34956dfe26d1a1",
+    "name": "Djoharu.png",
+    "url": "https://inpocketapp.blob.core.windows.net/deck-images/da34956dfe26d1a1",
+    "height": 400,
+    "width": 400
+  },
+  "topicType": null,
+  "imageUrl": "/images/johari-window.png"
+}

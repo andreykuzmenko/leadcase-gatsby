@@ -1,0 +1,93 @@
+{
+  "whatDescription": "",
+  "howDescription": "",
+  "tags": [
+    {
+      "id": "1bfa34ee8c2c4f2c",
+      "title": "Coaching",
+      "key": "Coaching",
+      "orderRank": 1
+    }
+  ],
+  "links": [],
+  "cards": [
+    {
+      "id": "cb38bd424daf3128",
+      "title": "🎓 Learning challenges",
+      "text": "<p>Have you ever faced a situation where you felt your learning and adaptation methods were inadequate?</p><p>Maybe it's a recurring issue at work or a personal development goal that seems unattainable. The key to overcoming these challenges often lies not in the external solutions but in how we process and learn from our experiences. This is where <strong>Kolb's Experiential Learning Cycle</strong>, a powerful framework developed by David A. Kolb, becomes invaluable.</p><p>The model offers a <strong>systematic approach to learning from experiences</strong>, turning everyday events and challenges into profound learning opportunities.</p>",
+      "orderRank": 1,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "eca0b2e70ece9a1c",
+      "title": "📖 Kolb's Framework",
+      "text": "<p><strong>Kolb's cycle</strong> consists of four interconnected stages, each critical for comprehensive learning:</p><ol><li><span style=\"color: var(--tw-prose-bold);\">Concrete Experience (CE)</span></li><li>Reflective Observation (RO)</li><li><span style=\"color: var(--tw-prose-bold);\">Abstract Conceptualization (AC)</span></li><li><span style=\"color: var(--tw-prose-bold);\">Active Experimentation (AE)</span></li></ol><p>Let's review the details of each stage.</p>",
+      "orderRank": 2,
+      "isPublished": false,
+      "image": {
+        "id": "969e33f3d24d0b85",
+        "name": "kolb.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/969e33f3d24d0b85",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/969e33f3d24d0b85.png"
+      }
+    },
+    {
+      "id": "65542df4ed8c6bf8",
+      "title": "🧪 Concrete Experience",
+      "text": "<p>This stage involve<strong>s direct involvement</strong> in a new experience or situation. It's about immersing oneself in an activity without bias or preconceptions.</p><p><strong>Example in a Business Context</strong></p><p>A marketing manager decides to run a new type of social media campaign, using platforms they haven't used before.</p><p><strong>Example in Education</strong></p><p>A student participates in a group project that involves creating a documentary film, something they have never done.</p>",
+      "orderRank": 3,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "616cebabd765800",
+      "title": "👀 Reflective Observation",
+      "text": "<p>After experiencing, this stage involves stepping back to observe and reflect on that experience. It's critical to view the experience from different perspectives.</p><p><strong>Example in a Business Context</strong></p><p>After the campaign, the marketing manager reviews the analytics, gathers team feedback, and reflects on the campaign's performance compared to previous methods.</p><p><strong>Example in Education</strong></p><p>The student reflects on the group dynamics, their role in the project, and the challenges they faced in film-making.</p>",
+      "orderRank": 4,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "b07e9e2fbb2e7509",
+      "title": "🤔 Abstract Conceptualization",
+      "text": "<p>This is the stage of<strong> learning from the experience</strong>. The individual conceptualizes the experience and tries to understand what happened by integrating new observations into their existing knowledge.</p><p><strong>Example in a Business Context</strong></p><p>The marketing manager concludes that certain social media platforms are more effective for their target demographic and that visual content drives more engagement.</p><p><strong>Example in Education</strong></p><p>The student realizes the importance of clear communication in a team and the need for better time management in collaborative projects.</p>",
+      "orderRank": 5,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "f9833e483203b373",
+      "title": "⚗️ Active Experimentation",
+      "text": "<p>The final stage involves<strong> applying the learnings</strong> to the world. Here, one tests the concepts and theories formed in the previous stage in new situations.</p><p><strong>Example in a Business Context</strong></p><p>In future campaigns, the marketing manager uses the insights gained to optimize content and choose the right platforms, testing different strategies based on the earlier campaign's analysis.</p><p><strong>Example in Education</strong></p><p>In the next group project, the student takes initiative in setting clear communication protocols and time management strategies, applying the lessons learned from the documentary project.</p>",
+      "orderRank": 6,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "10c3686f63f34dfa",
+      "title": "👉 Step-by-Step Guide",
+      "text": "<p>To effectively apply Kolb's cycle, follow these steps:</p><p><strong>Engage Actively in New Experiences</strong>: Be open to trying new methods or engaging in different situations, whether professionally or personally.</p><p><strong>Reflect Systematically</strong>: After each experience, take the time to reflect on it systematically. Consider what went well, what didn’t, and why.</p><p><strong>Develop and Adapt Theories</strong>: Use your reflections to develop new theories or adapt existing ones. Think about how these insights can be applied in different contexts.</p><p><strong>Experiment and Implement</strong>: Test your new theories or ideas in real-world scenarios to assess their effectiveness.</p><p><strong>Repeat the Cycle</strong>: After experimenting, start the cycle again with new experiences, ensuring continuous learning and improvement.</p><p>By consistently applying Kolb's cycle, you can transform your approach to learning and problem-solving, leading to significant personal and professional growth.</p>",
+      "orderRank": 7,
+      "isPublished": false,
+      "image": null
+    }
+  ],
+  "exerciseId": null,
+  "isSaved": false,
+  "id": "f136100e388a38c9",
+  "title": "Kolb's Learning Cycle",
+  "description": "Transform experiences into continuous, impactful learning journeys",
+  "slug": "kolbs-cycle",
+  "image": {
+    "id": "2b875b016af54b13",
+    "name": "kolb.png",
+    "url": "https://inpocketapp.blob.core.windows.net/deck-images/2b875b016af54b13",
+    "height": 400,
+    "width": 400
+  },
+  "topicType": null,
+  "imageUrl": "/images/kolbs-cycle.png"
+}

@@ -1,0 +1,115 @@
+{
+  "whatDescription": "• At the beginning of the conflict situation, to better understand what motivates different sides.\n• Later, to identify what factors the intervention might be directed toward.\n• At any time, to show how a change in one aspect might affect another.",
+  "howDescription": "• How to analyze and resolve conflict",
+  "tags": [
+    {
+      "id": "3749668a368afb56",
+      "title": "Communication",
+      "key": "Communication",
+      "orderRank": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "9c2c3277b740692d",
+      "title": "Understanding and Working with Conflict",
+      "url": "https://workingwithconflict.wordpress.com/2013/04/15/conflict-analysis-tools/",
+      "minutes": 5
+    },
+    {
+      "id": "506c859140e394b7",
+      "title": "Using the “Onion” as a Tool of Analysis",
+      "url": "https://werise-toolkit.org/en/system/tdf/pdf/tools/Using-The-Onion-as-a-Tool-of-Analysis.pdf?file=1&force=",
+      "minutes": 20
+    },
+    {
+      "id": "3969dea2ca66bfdf",
+      "title": "The Conflict Layer Model",
+      "url": "http://www.free-management-ebooks.com/news/conflict-layer-model/",
+      "minutes": 5
+    }
+  ],
+  "cards": [
+    {
+      "id": "564b4b002288a25a",
+      "title": "😡 Conflict situations",
+      "text": "<p>Conflicts can arise in even the most successful and unified teams. In some cases, these conflicts can be beneficial, leading to conversations and the development of creative solutions. However, negative conflicts can have a detrimental impact on productivity, engagement, team morale, and the organization's overall success.</p><p>If you have become a party to a conflict or, as a leader, you need to help the team members resolve a conflict, then the <strong>Conflict Analysis Method</strong> may be helpful in your arsenal. It employs the metaphor of an <strong>onion </strong>to recognize the various layers of the conflict.</p>",
+      "orderRank": 1,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "731674e4b614a3e0",
+      "title": "🧅 Onion ",
+      "text": "<p>Similar to an onion, in every conflict there are visible parts but also protected inner elements.</p><p><strong>The Onion Method</strong> helps to reveal the hidden elements lying at the basis of conflict resolution - the needs of the people. Without resolving them, the conflicts remain unchanged.</p><h3>The Three Layers of the Onion:</h3><ol><li>Positions</li><li>Interests</li><li>Needs</li></ol><h3>Let's examine each of them separately.</h3>",
+      "orderRank": 2,
+      "isPublished": false,
+      "image": {
+        "id": "89b9f6d49024f467",
+        "name": "onion.png",
+        "url": "https://inpocketapp.blob.core.windows.net/card-images/89b9f6d49024f467",
+        "height": 732,
+        "width": 990,
+        "localUrl": "/images/cards/89b9f6d49024f467.png"
+      }
+    },
+    {
+      "id": "e81c707ce81870b5",
+      "title": "🗣 Positions",
+      "text": "<p><strong>The position</strong> can be seen without weapons, the behavior, and the words of your interlocutor. Position is presented so that a person can be seen or heard. And for this, a person can shout, swear, cry, laugh, say non-constructive phrases or say nothing but press with their silence and ignoring.</p>",
+      "orderRank": 3,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "4ab630771160a195",
+      "title": "👤 Interests",
+      "text": "<p><strong>Interests</strong> are what a person wants to achieve as a result of interaction, what drives us. The person understands their interests more or less and very often does not burden themselves with giving these interests a constructive form. So, in the end, we get strange behavior, incomprehensible claims, etc.</p><p>Along with needs, people can hide them because they fear that if they become known, it can weaken their ability to negotiate. Nevertheless, it is often easier to find common ground around interests than around rigid positions.</p>",
+      "orderRank": 4,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "3c24757eafd64df",
+      "title": "💎 Needs",
+      "text": "<p>At the center of the spiral are <strong>needs,</strong> our essential requirements, the most important and decisive elements that people or a group must satisfy in a conflict.</p><p>Once we have determined and clearly understood our needs and interests and those of \"the other,\" we can identify additional and better alternatives for agreement.</p>",
+      "orderRank": 5,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "627663d8e5ca7ca7",
+      "title": "💡 How to apply the model?",
+      "text": "<p>Analyzing the conflict, draw (on a sheet or in your mind) a lily and start filling it in. The first layer is fixed. We see and hear it; it is our \"given\" in the equation with two unknowns. Then think about what interests your interlocutor tries to satisfy with this position. And then try to identify unsatisfied needs.</p><h3>Example</h3><p><strong>Position</strong> \"You never listen to me\" contains the <strong>interest</strong> in the interlocutor being a more attentive and active listener. As an option, <strong>needs</strong> need to be met: respect, acceptance, and love.</p>",
+      "orderRank": 6,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "599bf6dc8e962f47",
+      "title": "🧠 Satisfaction of needs",
+      "text": "<p>If you're facing the conflictive behavior of your interlocutor at work or home, it's important to understand that an <strong>unsatisfied need provokes this behavior</strong>. To solve the situation, this need must be satisfied.</p><p>It's almost impossible to guess what the person wants. Even more, he doesn't know as well. But we can understand this by simple human communication – asking questions, expressing sincere interest in answers, empathy, and active listening.</p>",
+      "orderRank": 8,
+      "isPublished": false,
+      "image": null
+    }
+  ],
+  "exerciseId": null,
+  "isSaved": false,
+  "id": "c24532e1ecdb73c1",
+  "title": "Onion: Conflict Resolution",
+  "description": "Reveal people's needs that they want to satisfy in a conflict",
+  "slug": "onion",
+  "image": {
+    "id": "66178f35b92210e",
+    "name": "onion.png",
+    "url": "https://inpocketapp.blob.core.windows.net/deck-images/66178f35b92210e",
+    "height": 400,
+    "width": 400
+  },
+  "topicType": {
+    "id": "3311b60fa485ab3c",
+    "name": "Tool"
+  },
+  "imageUrl": "/images/onion.png"
+}

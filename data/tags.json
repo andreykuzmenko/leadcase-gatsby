@@ -1,0 +1,50 @@
+[
+  {
+    "id": "26d7b0aa808b5ffb",
+    "title": "Team activation",
+    "key": "Team-Activation",
+    "orderRank": 0
+  },
+  {
+    "id": "3749668a368afb56",
+    "title": "Communication",
+    "key": "Communication",
+    "orderRank": 1
+  },
+  {
+    "id": "1bfa34ee8c2c4f2c",
+    "title": "Coaching",
+    "key": "Coaching",
+    "orderRank": 2
+  },
+  {
+    "id": "39a372e8a8fb8d65",
+    "title": "Self-awareness",
+    "key": "Self-Awareness",
+    "orderRank": 4
+  },
+  {
+    "id": "1d1bd4b4fb82bf98",
+    "title": "Change Management",
+    "key": "Change-Management",
+    "orderRank": 5
+  },
+  {
+    "id": "180d1e7b4f69fec4",
+    "title": "Decision-Making",
+    "key": "Decision-Making",
+    "orderRank": 6
+  },
+  {
+    "id": "739802a30772edca",
+    "title": "Facilitation",
+    "key": "Facilitation",
+    "orderRank": 11
+  },
+  {
+    "id": "40802ed2a553f4c",
+    "title": "Problem solving",
+    "key": "Problem-Solving",
+    "orderRank": 12
+  }
+]

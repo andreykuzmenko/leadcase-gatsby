@@ -1,0 +1,96 @@
+{
+  "whatDescription": "• You want to implement a culture of feedback exchange in the team",
+  "howDescription": "• How to organize a workshop for the team",
+  "tags": [
+    {
+      "id": "26d7b0aa808b5ffb",
+      "title": "Team activation",
+      "key": "Team-Activation",
+      "orderRank": 1
+    }
+  ],
+  "links": [
+    {
+      "id": "623239b8211a9fca",
+      "title": "The Feedback Game, Modified",
+      "url": "https://medium.com/designstrat/the-feedback-game-modified-a9608473ea89",
+      "minutes": 8
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1309fa069f177c2",
+      "title": "💎 Feedback",
+      "text": "<p><strong style=\"color: rgb(51, 51, 51);\">Regular and effective feedback</strong><span style=\"color: rgb(51, 51, 51);\"> is one of the most important components of people's and teams' development. That is why the exchange of feedback should be a part of each team's culture. It refers to both positive feedback and corrective feedback. </span></p><p><span style=\"color: rgb(51, 51, 51);\">What is also important is to form a habit of exchanging feedback between people directly. This is much more complicated than the traditional approach through a manager since communication between people directly requires trust and readiness to show own vulnerability. </span></p><p>If you decide to develop a culture of openness in your team, it will be useful to try <strong>Feedback Circle</strong> with your team.</p><p>Let's take a look at how to organize such a meeting.</p>",
+      "orderRank": 0,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "52513d33c1cf8916",
+      "title": "🖋 1. Prepare the space",
+      "text": "<p>If you meet offline, then you will need a board or a flipchart on which you need to split the space into the number of participants, and where their names are written.</p><p>Each participant will need tools for keeping records. Larger sheets than a standard sticker will be better.</p><p><em>In an online format, the space can be organized in a service like Miro.</em></p>",
+      "orderRank": 2,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "42fc24d26a649da9",
+      "title": "🎯 2. Explain the rules",
+      "text": "<p>All participants should write down the answers to two questions with respect to their colleagues other than themselves:</p><ol><li><span style=\"color: rgb(51, 51, 51);\">What is good about your colleague, and what, in your opinion, should they keep doing?</span></li><li>What should your colleague change/develop?</li></ol><p>Each entry should be made on a separate sheet and include enough information to clarify what is being referred to.</p><p>Ask people to <strong>focus on the behavior</strong> and give feedback on the behavior of others that should be sustained or changed.</p><p>Depending on the size of the group, allocate 10 to 20 minutes to this part.</p>",
+      "orderRank": 3,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "b6edec15fa31d45c",
+      "title": "🔖 3. Collect records",
+      "text": "<p>When the time is up, ask the participants to post their entries under the name of the corresponding person.</p>",
+      "orderRank": 4,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "f3a87efac7e48dd4",
+      "title": "🧐 4. Check the results",
+      "text": "<p><span style=\"color: rgb(51, 51, 51);\">Ask each participant </span><strong style=\"color: rgb(51, 51, 51);\">to approach their area and read the entries.</strong></p><p><span style=\"color: rgb(51, 51, 51);\">If they don’t understand what’s written, suggest they ask the author to provide more explanations with lots of examples of behavior. Remember, the examples must be real behavior you can associate with the description.</span></p>",
+      "orderRank": 5,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "3e3eb6e8f0756f3d",
+      "title": "💭 5. Share your impressions",
+      "text": "<p><span style=\"color: rgb(51, 51, 51);\">Ask people to </span><strong style=\"color: rgb(51, 51, 51);\">share their impressions</strong><span style=\"color: rgb(51, 51, 51);\"> from the feedback they've read.</span></p><p><span style=\"color: rgb(51, 51, 51);\">Most likely, they've gained new insights into their own behavior, how it positively/negatively impacted their personal growth, and perhaps, influenced other team members.</span></p><p><span style=\"color: rgb(51, 51, 51);\">Ask everyone to remove all the stickers with their name tag underneath, if you met offline.</span></p>",
+      "orderRank": 6,
+      "isPublished": false,
+      "image": null
+    },
+    {
+      "id": "e3047decca1ec72a",
+      "title": "👉 What else?",
+      "text": "<p>If you are organizing such a meeting for the first time, it is essential to understand that such an approach may be quite uncomfortable for some team members, especially if there is a lack of trust or it needs to be fixed in the team. It may be helpful for you to talk about the idea with your colleagues before organizing the meeting.</p><p><strong>As a leader, you can take steps first</strong>, thus setting an example of a vulnerability that, in turn, <span style=\"color: rgb(51, 51, 51);\">will speed up the formation of an organizational culture in which people will be more open to each other.</span></p>",
+      "orderRank": 7,
+      "isPublished": false,
+      "image": null
+    }
+  ],
+  "exerciseId": null,
+  "isSaved": false,
+  "id": "acd090a5cf3e883e",
+  "title": " Feedback Circle",
+  "description": "Build a culture of feedback sharing in the team.",
+  "slug": "feedback-circle",
+  "image": {
+    "id": "80d18f0d9a2335a3",
+    "name": "feedback circle.png",
+    "url": "https://inpocketapp.blob.core.windows.net/deck-images/80d18f0d9a2335a3",
+    "height": 400,
+    "width": 400
+  },
+  "topicType": {
+    "id": "242966f84c4b8420",
+    "name": "Workshop"
+  },
+  "imageUrl": "/images/feedback-circle.png"
+}
