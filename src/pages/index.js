@@ -76,7 +76,7 @@ const IndexPage = ({ data, location }) => {
                 border: '1.5px solid',
                 borderColor: activeTag === null ? '#10b981' : 'var(--color-border)',
                 background: activeTag === null ? '#10b981' : '#fff',
-                color: activeTag === null ? '#064e3b' : 'var(--color-text)',
+                color: activeTag === null ? '#111827' : 'var(--color-text)',
                 transition: 'all 0.15s',
                 cursor: 'pointer',
               }}
@@ -95,7 +95,7 @@ const IndexPage = ({ data, location }) => {
                   border: '1.5px solid',
                   borderColor: activeTag === tag.key.toLowerCase() ? '#10b981' : 'var(--color-border)',
                   background: activeTag === tag.key.toLowerCase() ? '#10b981' : '#fff',
-                  color: activeTag === tag.key.toLowerCase() ? '#064e3b' : 'var(--color-text)',
+                  color: activeTag === tag.key.toLowerCase() ? '#111827' : 'var(--color-text)',
                   transition: 'all 0.15s',
                   cursor: 'pointer',
                 }}
