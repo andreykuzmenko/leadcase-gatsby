@@ -18,10 +18,6 @@ links:
   - title: What Is the GROW Coaching Model? (Incl. Examples)
     url: 'https://positivepsychology.com/grow-coaching-model/'
     minutes: 15
-whatDescription: • You are developing people in the team.
-howDescription: |-
-  • How to use the GROW coaching model?
-  • Questions that may be useful at each stage of the GROW model.
 ---
 ## 💪 Development of people
 

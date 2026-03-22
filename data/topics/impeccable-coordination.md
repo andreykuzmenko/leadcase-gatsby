@@ -15,13 +15,6 @@ links:
     url: >-
       https://businesssimulations.com/articles/making-and-managing-commitments-the-most-essential-team-leadership-skill
     minutes: 3
-whatDescription: |-
-  - You have problems with commitments you have made that are not being met
-  - You or your colleagues cannot refuse a request
-howDescription: |-
-  - The Impeccable Coordination Approach to Commitment Handling
-  - How to formulate requests for commitment
-  - How to make commitments
 ---
 ## 🤦‍♂️ Empty Promises
 

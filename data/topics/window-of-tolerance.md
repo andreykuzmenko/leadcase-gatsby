@@ -17,12 +17,6 @@ links:
     url: >-
       https://www.psychologytoday.com/intl/blog/making-the-whole-beautiful/202205/what-is-the-window-tolerance-and-why-is-it-so-important
     minutes: 4
-whatDescription: >-
-  - You react emotionally to stressful situations, which in turn affects your
-  personal and work relationships with people
-howDescription: |-
-  - Model "Window of tolerance"
-  - Methods of expanding the range of emotional reactions to stressful events
 ---
 ## 🤯 Emotions
 

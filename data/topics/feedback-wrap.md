@@ -12,8 +12,6 @@ links:
   - title: How to apply a Feedback Wrap
     url: 'https://management30.com/practice/feedback-wraps/'
     minutes: 3
-whatDescription: • Вы хотите дать корректирующую обратную связь коллеге
-howDescription: • Формат обратной связи Feedback Wrap
 ---
 ## 💎 The importance of feedback
 

@@ -8,10 +8,6 @@ description: >-
 tags:
   - Communication
 links: []
-whatDescription: '- You have trust issues with a customer, team or colleague'
-howDescription: |-
-  - The link between trust and transparency
-  - What to do to increase trust
 ---
 ## 😫 Problems with trust
 

@@ -15,8 +15,6 @@ links:
   - title: Brainwriting Template
     url: 'https://miro.com/templates/brainwriting/'
     minutes: 3
-whatDescription: You have difficulty engaging team members in brainstorming sessions
-howDescription: How to involve the whole team in the brainstorming process
 ---
 ## 👀 The effectiveness of brainstorming sessions
 

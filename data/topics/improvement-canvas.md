@@ -18,8 +18,6 @@ links:
     url: >-
       https://medium.com/@simastorgovickis/the-improvement-kata-canvas-98d7f6f07822
     minutes: 10
-whatDescription: • Your team has problems/challenges that it needs to solve
-howDescription: • The "Improvement Canvas" Problem-Solving Method
 ---
 ## 🤯 Solving problems
 

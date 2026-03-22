@@ -12,10 +12,6 @@ links:
   - title: Identify dynamics of effective teams
     url: 'https://rework.withgoogle.com/print/guides/5721312655835136/'
     minutes: 10
-whatDescription: |-
-  - You want to understand how willing people are to talk openly about problems
-  - You want to understand if people trust each other
-howDescription: '- How to check the level of security in the team'
 ---
 ## ⛑ Lack of trust
 

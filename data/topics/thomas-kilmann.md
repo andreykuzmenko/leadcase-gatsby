@@ -13,10 +13,6 @@ links:
   - title: Thomas Kilmann Conflict Model
     url: 'https://managementweekly.org/thomas-kilmann-conflict-resolution-model/'
     minutes: 8
-whatDescription: '- You want to improve your conflict resolution skills with people'
-howDescription: |-
-  - Five conflict resolution tactics
-  - How to choose tactics depending on your goals
 ---
 ## 😤 Conflict behavior
 

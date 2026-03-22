@@ -18,13 +18,6 @@ links:
     url: >-
       https://klaxoon.com/community-content/moving-motivators-a-management-tool-to-understand-your-teams-motivations
     minutes: 5
-whatDescription: |-
-  • Вы хотите узнать, что мотивирует людей в команде 
-  • Вы хотите понять, как изменения будут сказываться на их мотивации
-howDescription: |-
-  • Как определить важность разных мотиваторов для людей
-  • Внутрення и внешняя мотивация
-  • 10 внутренних мотиваторов
 ---
 ## 📢 Change management
 

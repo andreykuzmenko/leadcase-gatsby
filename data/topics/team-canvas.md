@@ -13,16 +13,6 @@ links:
   - title: How To Use Team Canvas
     url: 'http://theteamcanvas.com/use/'
     minutes: 5
-whatDescription: >-
-  • You are creating a new team or launching a new project
-
-  • You are bringing in new team members
-
-  • There are conflicts in the team due to different approaches to working
-  together.
-howDescription: >-
-  • Strategic tool that helps members of the team align project objectives and
-  work collaboratively.
 ---
 ## 🎓 What is Team Canvas?
 

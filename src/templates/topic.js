@@ -128,8 +128,6 @@ export const query = graphql`
       topicType
       tagTitles
       tagIds
-      whatDescription
-      howDescription
       links
       cards
       localImage {

@@ -18,14 +18,6 @@ links:
   - title: The Conflict Layer Model
     url: 'http://www.free-management-ebooks.com/news/conflict-layer-model/'
     minutes: 5
-whatDescription: >-
-  • At the beginning of the conflict situation, to better understand what
-  motivates different sides.
-
-  • Later, to identify what factors the intervention might be directed toward.
-
-  • At any time, to show how a change in one aspect might affect another.
-howDescription: • How to analyze and resolve conflict
 ---
 ## 😡 Conflict situations
 

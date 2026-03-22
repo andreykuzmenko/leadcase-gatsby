@@ -74,8 +74,6 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
       topicType: fm.topicType || null,
       tagIds: tagObjects.map(t => t.id),
       tagTitles: tagObjects.map(t => t.title),
-      whatDescription: fm.whatDescription || '',
-      howDescription: fm.howDescription || '',
       links: JSON.stringify(fm.links || []),
       cards: JSON.stringify(cards),
       id: createNodeId(`Topic-${fm.id}`),

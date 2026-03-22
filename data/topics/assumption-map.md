@@ -16,10 +16,6 @@ links:
     url: >-
       https://www.playbookux.com/validate-your-assumptions-with-an-assumptions-map/
     minutes: 4
-whatDescription: '- You have an idea and want to work out the risks of its implementation'
-howDescription: |-
-  - How to use the Uncertainty/Risk Matrix to work out assumptions
-  - How to plan actions depending on your understanding of the situation
 ---
 ## 💰 Business risks
 

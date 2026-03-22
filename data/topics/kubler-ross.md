@@ -13,10 +13,6 @@ links:
   - title: Understanding the Kubler-Ross Change Curve
     url: 'https://www.cleverism.com/understanding-kubler-ross-change-curve/'
     minutes: 7
-whatDescription: Do you plan to implement organizational changes?
-howDescription: |-
-  • Kubler-Ross Model of Reacting to Change
-  • Stages of Accepting Changes
 ---
 ## 🥶 Response to changes
 

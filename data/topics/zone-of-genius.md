@@ -16,10 +16,6 @@ links:
     url: >-
       https://collinmathilde.medium.com/how-to-find-your-zone-of-genius-68378d493320
     minutes: 5
-whatDescription: >-
-  • You are bored/tired with what you do and want to find an occupation that
-  will bring energy to your life
-howDescription: • How to find a zone of genius
 ---
 ## 🤔 What are you good at?
 

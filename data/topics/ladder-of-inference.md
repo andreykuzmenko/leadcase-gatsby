@@ -17,10 +17,6 @@ links:
   - title: The Ladder of Inference
     url: 'https://thesystemsthinker.com/the-ladder-of-inference/'
     minutes: 3
-whatDescription: '- You draw quick conclusions that turn out to be wrong as a result'
-howDescription: |
-  - The 7 steps of the ladder of reasoning
-  - How not to jump to conclusions
 ---
 ## ❌ Errors in decision making
 

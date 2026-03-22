@@ -13,10 +13,6 @@ links:
   - title: 'RSA ANIMATE: Drive: The surprising truth about what motivates us'
     url: 'https://www.youtube.com/watch?v=u6XAPnuFjJc'
     minutes: 11
-whatDescription: '- You want to understand what motivates other people'
-howDescription: |-
-  - The three components of intrinsic motivation
-  - Strategies to increase intrinsic motivation
 ---
 ## 🤑 What is your motivation?
 

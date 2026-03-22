@@ -12,13 +12,6 @@ links:
   - title: David Rock's SCARF Model
     url: 'https://www.mindtools.com/pages/article/SCARF.htm'
     minutes: 10
-whatDescription: |-
-  - You have problems building relationships with people
-  - You are planning organizational changes
-  - You want to motivate people more
-howDescription: |-
-  - How communication affects people positively or negatively
-  - Five human social needs and their impact on motivation
 ---
 ## ✨ Maximizing reward and minimizing threat
 

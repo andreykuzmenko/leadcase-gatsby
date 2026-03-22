@@ -18,10 +18,6 @@ links:
   - title: Start Stop Continue Retrospective
     url: 'https://www.retrium.com/retrospective-techniques/start-stop-continue'
     minutes: 5
-whatDescription: '• You want to improve processes, communication, or approaches in your team'
-howDescription: >-
-  • How to analyze the experience and decide what needs to be changed or
-  improved in the future
 ---
 ## 🤔 Experience analysis
 

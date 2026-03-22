@@ -13,10 +13,6 @@ links:
   - title: '7 quick and easy steps to creating a decision matrix, with examples'
     url: 'https://asana.com/resources/decision-matrix-examples'
     minutes: 6
-whatDescription: |-
-  • You need to choose an option among several alternatives
-  • When a decision must be made based on several criteria
-howDescription: • How to make a decision by weighing different factors
 ---
 ## 🤔 Making decisions
 

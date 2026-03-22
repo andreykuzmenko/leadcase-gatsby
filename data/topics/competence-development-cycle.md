@@ -12,10 +12,6 @@ links:
   - title: The Conscious Competence Ladder
     url: 'https://www.mindtools.com/pages/article/newISS_96.htm'
     minutes: 10
-whatDescription: '• Вы хотите понять, как развиваются компетенции '
-howDescription: |-
-  • Четырехуровневая модель развития компетенции
-  • Ловушка неосознанного перехода между стадиями
 ---
 ## 🤯 Overcoming Learning Challenges
 

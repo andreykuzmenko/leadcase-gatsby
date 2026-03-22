@@ -16,11 +16,6 @@ links:
     url: >-
       https://www.andycleff.com/2021/02/personal-maps-getting-to-know-the-whole-human-being/
     minutes: 4
-whatDescription: |-
-  - You want to increase the level of trust and understanding in the team
-  - When starting a new team
-  - When adding new people to the team
-howDescription: '- How to rally a team with the help of personal cards'
 ---
 ## 🤝 Team relations
 

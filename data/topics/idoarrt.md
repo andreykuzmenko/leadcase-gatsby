@@ -21,13 +21,6 @@ links:
   - title: 'IDOARRT: Lead Effective Meetings'
     url: 'https://miro.com/miroverse/idoarrt-lead-effective-meetings/'
     minutes: 2
-whatDescription: |-
-  • You want to plan a group meeting
-  • You want to make the meeting as effective as possible
-  • Your colleagues are complaining about the uselessness of group meetings
-howDescription: >-
-  • What should be taken into consideration when preparing a meeting in order to
-  get the most out of it
 ---
 ## 🗑️ Waste of time
 

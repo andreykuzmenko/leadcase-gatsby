@@ -22,12 +22,6 @@ links:
     url: >-
       https://www.fearlessculture.design/blog-posts/make-good-decisions-faster-move-from-consensus-to-consent
     minutes: 10
-whatDescription: >-
-  - You have trouble making decisions in your group
-
-  - You are looking for an effective method of decision making that incorporates
-  the opinions of all participants
-howDescription: '- How to Make Consent Decisions'
 ---
 ## 🤯 Difficulties in decision-making
 

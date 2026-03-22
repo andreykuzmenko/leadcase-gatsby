@@ -18,13 +18,6 @@ links:
   - title: Skills Market
     url: 'https://pipdecks.com/pages/skills-market'
     minutes: 2
-whatDescription: |-
-  - You are launching a new team
-  - You want team members to recognize the strengths of others
-  - You want to increase the level of trust in the team
-howDescription: |-
-  - You learn the strengths of team members
-  - You learn where people want to develop
 ---
 ## 💎 Hidden potential
 

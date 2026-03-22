@@ -15,12 +15,6 @@ links:
   - title: The Johari Window Exercise - Increase self-awareness and team awareness
     url: 'https://www.fearlessculture.design/blog-posts/the-johari-window'
     minutes: 7
-whatDescription: >-
-  - You want to identify areas for development and understand how you are
-  perceived by others
-howDescription: |
-  - The connection between how you present yourself and how others perceive you
-  - What to do to increase trust and understanding with people
 ---
 ## 💡 What is Johari's window?
 

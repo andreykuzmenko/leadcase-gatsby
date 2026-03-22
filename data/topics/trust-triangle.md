@@ -9,8 +9,6 @@ links:
   - title: Begin with Trust
     url: 'https://hbr.org/2020/05/begin-with-trust'
     minutes: 10
-whatDescription: '- You have a problem with people''s trust or you want to increase it'
-howDescription: '- Three main drivers of trust'
 ---
 ## 💪 Leadership and trust
 

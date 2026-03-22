@@ -10,8 +10,6 @@ links:
   - title: 'The Feedback Game, Modified'
     url: 'https://medium.com/designstrat/the-feedback-game-modified-a9608473ea89'
     minutes: 8
-whatDescription: • You want to implement a culture of feedback exchange in the team
-howDescription: • How to organize a workshop for the team
 ---
 ## 💎 Feedback
 

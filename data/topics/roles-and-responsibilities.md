@@ -20,8 +20,6 @@ links:
     url: >-
       https://hackernoon.com/a-guide-on-how-to-facilitate-a-roles-and-responsibilities-workshop-ftce3t6f
     minutes: 7
-whatDescription: '- You want to clarify roles and responsibilities on the team'
-howDescription: '- How to conduct a team workshop to clarify roles and responsibilities'
 ---
 ## 😤 Source of conflicts
 

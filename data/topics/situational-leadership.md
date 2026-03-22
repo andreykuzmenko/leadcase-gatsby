@@ -16,15 +16,6 @@ links:
   - title: 'Situational leadership: What it is and how to build it'
     url: 'https://www.betterup.com/blog/situational-leadership-examples'
     minutes: 10
-whatDescription: >-
-  - You have trouble choosing the right approach to people with different levels
-  of development
-
-  - People complain that you micromanage them or they don't get support
-howDescription: |-
-  - How people develop
-  - Leadership Styles
-  - How to choose a leadership style depending on the situation
 ---
 ## 👥 Flexibility in leadership
 

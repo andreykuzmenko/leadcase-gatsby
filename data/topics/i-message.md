@@ -15,8 +15,6 @@ links:
   - title: I-message
     url: 'https://en.wikipedia.org/wiki/I-message'
     minutes: 7
-whatDescription: • Your approach to feedback giving leads to conflicts
-howDescription: • The "I-Message" communication method
 ---
 ## 😡 Conflicts
 

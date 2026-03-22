@@ -14,8 +14,6 @@ links:
     url: >-
       https://uxdesign.cc/visualizing-the-systems-behind-our-designs-7a7c95b4cfb2
     minutes: 3
-whatDescription: • You are implementing system changes in the organization or team.
-howDescription: • How to implement changes for a long-term effect
 ---
 ## 💡 The essence of the idea
 

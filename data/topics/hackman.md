@@ -26,10 +26,6 @@ links:
     url: >-
       https://drive.google.com/file/d/12VZjZdvLCKVKKoFHOrlUtLZKQYwwka2I/view?usp=sharing
     minutes: 1
-whatDescription: |-
-  - You want to improve team efficiency
-  - You are planning to launch a new team
-howDescription: '- Factors that affect the effectiveness of the team'
 ---
 ## 💪 Effective teams
 

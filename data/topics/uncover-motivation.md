@@ -10,8 +10,6 @@ links:
   - title: 'Uncover Motivations 1:1'
     url: 'https://miro.com/miroverse/uncover-motivations-1-1/'
     minutes: 1
-whatDescription: '- Have you noticed that a member of your team has lost motivation'
-howDescription: '- How to find reasons to demotivate people'
 ---
 ## 🔐 Motivating people
 
