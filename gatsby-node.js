@@ -39,8 +39,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
   tags.forEach(tag => {
     createNode({
       ...tag,
-      apiId: tag.id,
-      id: createNodeId(`Tag-${tag.id}`),
+      id: createNodeId(`Tag-${tag.key}`),
       internal: {
         type: 'Tag',
         contentDigest: createContentDigest(tag),
@@ -68,18 +67,17 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
     const cards = parseCards(body)
 
     createNode({
-      apiId: fm.id,
       title: (fm.title || '').trim(),
       description: fm.description || '',
       slug: fm.slug,
       orderRank: orderMap[fm.slug] ?? 999,
       topicType: fm.topicType || null,
-      tagIds: tagObjects.map(t => t.id),
+      tagIds: tagObjects.map(t => t.key),
       tagTitles: tagObjects.map(t => t.title),
       links: JSON.stringify(fm.links || []),
       related: fm.related || [],
       cards: JSON.stringify(cards),
-      id: createNodeId(`Topic-${fm.id}`),
+      id: createNodeId(`Topic-${fm.slug}`),
       internal: {
         type: 'Topic',
         contentDigest: createContentDigest(raw),

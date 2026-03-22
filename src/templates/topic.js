@@ -149,7 +149,6 @@ const TopicTemplate = ({ data }) => {
 export const query = graphql`
   query TopicQuery($slug: String!, $relatedSlugs: [String!]) {
     topic: topic(slug: { eq: $slug }) {
-      apiId
       title
       description
       slug
