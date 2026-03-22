@@ -114,9 +114,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   const result = await graphql(`
     query {
-      allTopic {
+      allTopic(sort: { orderRank: ASC }) {
         nodes {
           slug
+          tagIds
         }
       }
     }
@@ -127,12 +128,19 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return
   }
 
+  const allTopics = result.data.allTopic.nodes
   const topicTemplate = require.resolve('./src/templates/topic.js')
-  result.data.allTopic.nodes.forEach(({ slug }) => {
+
+  allTopics.forEach(({ slug, tagIds }) => {
+    const relatedSlugs = allTopics
+      .filter(t => t.slug !== slug && t.tagIds.some(id => tagIds.includes(id)))
+      .slice(0, 6)
+      .map(t => t.slug)
+
     createPage({
       path: `/topics/${slug}`,
       component: topicTemplate,
-      context: { slug },
+      context: { slug, relatedSlugs },
     })
   })
 

@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql, withPrefix, Link } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import Layout from '../components/Layout'
+import TopicCard from '../components/TopicCard'
 
 const card = {
   background: '#fff',
@@ -16,6 +17,7 @@ const TopicTemplate = ({ data }) => {
   const cards = JSON.parse(topic.cards || '[]')
   const links = JSON.parse(topic.links || '[]')
   const image = getImage(topic.localImage)
+  const related = data.related?.nodes || []
 
   return (
     <Layout>
@@ -112,6 +114,32 @@ const TopicTemplate = ({ data }) => {
             </div>
           )}
 
+          {/* Related topics */}
+          {related.length > 0 && (
+            <div style={{ marginTop: 40 }}>
+              <h2 style={{ fontSize: 20, fontWeight: 700, marginBottom: 16, color: 'var(--color-text)' }}>
+                Related topics
+              </h2>
+              <div style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))',
+                gap: 16,
+              }}>
+                {related.map(t => (
+                  <TopicCard
+                    key={t.slug}
+                    slug={t.slug}
+                    title={t.title}
+                    description={t.description}
+                    image={getImage(t.localImage)}
+                    topicType={t.topicType}
+                    tagTitles={t.tagTitles || []}
+                  />
+                ))}
+              </div>
+            </div>
+          )}
+
         </div>
       </div>
     </Layout>
@@ -119,7 +147,7 @@ const TopicTemplate = ({ data }) => {
 }
 
 export const query = graphql`
-  query TopicQuery($slug: String!) {
+  query TopicQuery($slug: String!, $relatedSlugs: [String!]) {
     topic: topic(slug: { eq: $slug }) {
       apiId
       title
@@ -133,6 +161,20 @@ export const query = graphql`
       localImage {
         childImageSharp {
           gatsbyImageData(width: 90, height: 90, layout: FIXED, placeholder: NONE)
+        }
+      }
+    }
+    related: allTopic(filter: { slug: { in: $relatedSlugs } }) {
+      nodes {
+        slug
+        title
+        description
+        topicType
+        tagTitles
+        localImage {
+          childImageSharp {
+            gatsbyImageData(width: 90, height: 90, layout: FIXED, placeholder: NONE)
+          }
         }
       }
     }
