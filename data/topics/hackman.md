@@ -29,38 +29,94 @@ links:
 ---
 ## 💪 Effective teams
 
-<p>Effective, cohesive teams are the lifeblood of successful companies. This is why leaders devote a lot of time and effort to making their teams more productive and efficient.</p><p>Unfortunately, the effort expended often has little effect because it goes in the wrong direction.</p><p><strong>What does it take to make a team effective? </strong></p><p>Richard Hackman, a professor at Harvard University, has spent years of research identifying <strong>six factors</strong> that contribute to effective teamwork.</p>
+Effective, cohesive teams are the lifeblood of successful companies. This is why leaders devote a lot of time and effort to making their teams more productive and efficient.
+
+Unfortunately, the effort expended often has little effect because it goes in the wrong direction.
+
+**What does it take to make a team effective?**
+
+Richard Hackman, a professor at Harvard University, has spent years of research identifying **six factors** that contribute to effective teamwork.
 
 ## 🔍 Hackman Model
 
 <!-- image: /images/cards/6a057d0672e791ef.png -->
 
-<p>According to<strong> Hackman's model</strong>, the factors that play a key role in team effectiveness are as follows:</p><ol><li>A real team</li><li>A compelling purpose</li><li>The right people</li><li>The Norms of Conduct</li><li>Supporting context</li><li>Team Coaching</li></ol>
+According to **Hackman's model**, the factors that play a key role in team effectiveness are as follows:
+
+1.  A real team
+2.  A compelling purpose
+3.  The right people
+4.  The Norms of Conduct
+5.  Supporting context
+6.  Team Coaching
 
 ## ⛹️ 1. A real team
 
-<p>A team is considered "real" when it meets the following characteristics:</p><ul><li><strong style="color: rgb(41, 41, 41);">Bounded</strong><strong>.</strong> It should be clear to team members who is part of the team and who is responsible for the product or service the team is working on. No temporary and random people.</li><li><strong style="color: rgb(41, 41, 41);">Interdependent</strong><strong>.</strong>The tasks that team members work on require coordination and collaborative effort. People work on tasks together, interacting regularly.</li><li><strong style="color: rgb(41, 41, 41);">Stable</strong><strong>.</strong> Membership lasts for some time. After all, by working together for a while, the team develops a shared pool of knowledge, incorporating an understanding of each other's strengths and weaknesses, which impacts effectiveness.</li></ul>
+A team is considered "real" when it meets the following characteristics:
+
+-   **Bounded****.** It should be clear to team members who is part of the team and who is responsible for the product or service the team is working on. No temporary and random people.
+-   **Interdependent****.**The tasks that team members work on require coordination and collaborative effort. People work on tasks together, interacting regularly.
+-   **Stable****.** Membership lasts for some time. After all, by working together for a while, the team develops a shared pool of knowledge, incorporating an understanding of each other's strengths and weaknesses, which impacts effectiveness.
 
 ## 🎯 2. A compelling purpose
 
-<p>The best goals, regardless of the specifics of the team, have three important attributes:</p><ul><li><strong style="color: rgb(41, 41, 41);">Clear</strong><strong>.</strong> As you work through the tasks, a clear goal helps you make good decisions. It is also important that the goal is not too detailed because this will leave a little room for team members to give it a personal touch and make it their own.</li><li><strong style="color: rgb(41, 41, 41);">Challenging</strong><strong>.</strong> The best goals require team members to go to the limit of their abilities. At the same time, they should remain achievable.</li><li><strong>Important. </strong>When people feel their work is important, they put more effort into achieving the team result.</li></ul>
+The best goals, regardless of the specifics of the team, have three important attributes:
+
+-   **Clear****.** As you work through the tasks, a clear goal helps you make good decisions. It is also important that the goal is not too detailed because this will leave a little room for team members to give it a personal touch and make it their own.
+-   **Challenging****.** The best goals require team members to go to the limit of their abilities. At the same time, they should remain achievable.
+-   **Important.** When people feel their work is important, they put more effort into achieving the team result.
 
 ## 🤜 3. The right people
 
-<p>The people who make up a team will significantly impact the results it will deliver.</p><p><strong>Selecting people, it is essential to cover two areas:</strong></p><ol><li>Knowledge and skills.</li><li>Values and interpersonal skills.</li></ol><p>Often teams are formed based on the availability of resources. In that case, the focus is primarily on knowledge. If only knowledge is taken into account without considering people's values and communication skills, you can end up with a team that is prone to conflict.</p>
+The people who make up a team will significantly impact the results it will deliver.
+
+**Selecting people, it is essential to cover two areas:**
+
+1.  Knowledge and skills.
+2.  Values and interpersonal skills.
+
+Often teams are formed based on the availability of resources. In that case, the focus is primarily on knowledge. If only knowledge is taken into account without considering people's values and communication skills, you can end up with a team that is prone to conflict.
 
 ## 👮 4. Norms of Conduct
 
-<p>Each team needs to develop <strong>shared norms of behavior</strong> that will bring order and focus to its members' interactions. Behavioral norms let team members know what behavior is allowed and forbidden. Since most people attach importance to what other team members think of them, they will follow the general rules.</p><p>In the process, the leader's job is to monitor and correct the behavior of those team members who do not adhere to the agreements.</p><p><em>According to a study by Richard Hackman, group norms have the most significant effect on team productivity.</em></p>
+Each team needs to develop **shared norms of behavior** that will bring order and focus to its members' interactions. Behavioral norms let team members know what behavior is allowed and forbidden. Since most people attach importance to what other team members think of them, they will follow the general rules.
+
+In the process, the leader's job is to monitor and correct the behavior of those team members who do not adhere to the agreements.
+
+_According to a study by Richard Hackman, group norms have the most significant effect on team productivity._
 
 ## 🙏 5. Supporting context
 
-<p>The supporting context has a significant impact on team behavior and performance.</p><p>Support that is important to provide to the team:</p><ol><li><strong>Information</strong>. To do their job and make the best decisions, the team must have access to the information they need.</li><li><strong>Technical and training resources.</strong> Even carefully selected team members will only have some of the knowledge and skills they need to do their job, so people must have opportunities to develop and use the tools they need to do their job.</li><li><strong>Material resources.</strong> If a team lacks resources (money, people, space, equipment), it will affect their capabilities and results. All people like to have their merits recognized and acknowledged. In many cases, this is more important than financial rewards.</li></ol>
+The supporting context has a significant impact on team behavior and performance.
+
+Support that is important to provide to the team:
+
+1.  **Information**. To do their job and make the best decisions, the team must have access to the information they need.
+2.  **Technical and training resources.** Even carefully selected team members will only have some of the knowledge and skills they need to do their job, so people must have opportunities to develop and use the tools they need to do their job.
+3.  **Material resources.** If a team lacks resources (money, people, space, equipment), it will affect their capabilities and results. All people like to have their merits recognized and acknowledged. In many cases, this is more important than financial rewards.
 
 ## 🧢 6. Team Coaching
 
-<p>Every team will face different challenges along the way. At such times, a leader can use coaching to overcome challenges and seize opportunities as they arise.</p><p><strong>Five brief principles for using coaching:</strong></p><ol><li><strong>Choose the right time.</strong> When a team starts, it is incredibly open to motivational interventions. As the work progresses, you can begin to focus on performance issues. When the work is done, focus on training and skill development issues.</li><li><strong>Find root-causes</strong>. If you feel like someone is working half-assed, it's essential to understand the reasons instead of trying to get people to work. What if the reason is the large size of the team?</li><li><strong>Work with anxiety.</strong> No one likes to live with anxiety and uncertainty, but the best leaders pause to allow people to learn useful lessons.</li><li><strong>Use your style.</strong> There is no right coaching or fixed rules. Try, learn, experiment.</li><li><strong>Involve team members in coaching. </strong>Use the potential of other team members to coach colleagues.</li></ol>
+Every team will face different challenges along the way. At such times, a leader can use coaching to overcome challenges and seize opportunities as they arise.
+
+**Five brief principles for using coaching:**
+
+1.  **Choose the right time.** When a team starts, it is incredibly open to motivational interventions. As the work progresses, you can begin to focus on performance issues. When the work is done, focus on training and skill development issues.
+2.  **Find root-causes**. If you feel like someone is working half-assed, it's essential to understand the reasons instead of trying to get people to work. What if the reason is the large size of the team?
+3.  **Work with anxiety.** No one likes to live with anxiety and uncertainty, but the best leaders pause to allow people to learn useful lessons.
+4.  **Use your style.** There is no right coaching or fixed rules. Try, learn, experiment.
+5.  **Involve team members in coaching.** Use the potential of other team members to coach colleagues.
 
 ## 👉 60-30-10 rule
 
-<p>The six factors are the <strong>necessary conditions</strong> to improve team performance. Equally important is when to start working on them.</p><p>Richard Hackman identified <strong>three key steps and their impact on team performance</strong>:</p><ol><li>Prework - 60%</li><li>Launch - 30%</li><li>Coaching - 10%</li></ol><p>The numbers mean that by the time participants get to work, it is essential that the conditions that most powerfully shape team behavior and performance are worked through. 30% will depend on the team's launch and only 10% will be in the hands of the leader to influence the situation as the team progresses.</p><p>Hence the important conclusion: <strong>team effectiveness begins with careful preparation!</strong></p>
+The six factors are the **necessary conditions** to improve team performance. Equally important is when to start working on them.
+
+Richard Hackman identified **three key steps and their impact on team performance**:
+
+1.  Prework - 60%
+2.  Launch - 30%
+3.  Coaching - 10%
+
+The numbers mean that by the time participants get to work, it is essential that the conditions that most powerfully shape team behavior and performance are worked through. 30% will depend on the team's launch and only 10% will be in the hands of the leader to influence the situation as the team progresses.
+
+Hence the important conclusion: **team effectiveness begins with careful preparation!**

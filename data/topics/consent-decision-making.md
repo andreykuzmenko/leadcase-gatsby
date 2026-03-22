@@ -25,52 +25,128 @@ links:
 ---
 ## 🤯 Difficulties in decision-making
 
-<p>Decision-making by a team can be quite a complex and painful process, especially when people are focused on finding the perfect solution. In addition, teams very often try to get the support of all their members, trying to come to a consensus. This, in turn, can make the initial idea much worse, meeting the needs of all sides.</p><p>If you are familiar with these challenges and are looking for an alternative to consensus, then<strong> Consensus Decision Making</strong> is a good option.</p>
+Decision-making by a team can be quite a complex and painful process, especially when people are focused on finding the perfect solution. In addition, teams very often try to get the support of all their members, trying to come to a consensus. This, in turn, can make the initial idea much worse, meeting the needs of all sides.
+
+If you are familiar with these challenges and are looking for an alternative to consensus, then **Consensus Decision Making** is a good option.
 
 ## 🤝 Consent Decision Process
 
-<p><strong style="color: rgb(51, 51, 51);">Consensus means no objection. </strong></p><p><span style="color: rgb(51, 51, 51);">Like consensus, this approach involves the group in the decision-making process. Only instead of getting all the "yeses," the focus here is on making sure there are no "no's." This, in turn, encourages the group to make a "good enough" decision and safe enough to try.</span></p><h3>Steps for making decisions</h3><ol><li>Consent to the Driver</li><li>Present the proposal</li><li>Understand the proposal</li><li>Brief Response</li><li>Check for Possible Objections</li><li>Resolve objections</li><li>Celebrate the agreement</li><li>Consider Concerns</li></ol>
+**Consensus means no objection.**
+
+Like consensus, this approach involves the group in the decision-making process. Only instead of getting all the "yeses," the focus here is on making sure there are no "no's." This, in turn, encourages the group to make a "good enough" decision and safe enough to try.
+
+### Steps for making decisions
+
+1.  Consent to the Driver
+2.  Present the proposal
+3.  Understand the proposal
+4.  Brief Response
+5.  Check for Possible Objections
+6.  Resolve objections
+7.  Celebrate the agreement
+8.  Consider Concerns
 
 ## ☄️ Step 1. Consent to the Driver
 
-<p><strong>The driver </strong>is the motive of a person or group to respond to a specific situation (problem, task, opportunity).</p><p>The first stage describes the situation that requires the group's attention and decision-making.</p><p>Get confirmation from the group that the problem you want to solve is still relevant and worthy of attention.</p><p><strong>Tip:</strong> As a general recommendation, aim to complete this step with meeting attendees asynchronously before the meeting. This will allow you to make any refinements in advance and save wasting precious meeting time.</p><p><strong>Question:</strong> <span style="background-color: rgb(253, 253, 253);">Are there any objections to this driver being described clearly enough and relevant for us to respond to?</span></p>
+**The driver** is the motive of a person or group to respond to a specific situation (problem, task, opportunity).
+
+The first stage describes the situation that requires the group's attention and decision-making.
+
+Get confirmation from the group that the problem you want to solve is still relevant and worthy of attention.
+
+**Tip:** As a general recommendation, aim to complete this step with meeting attendees asynchronously before the meeting. This will allow you to make any refinements in advance and save wasting precious meeting time.
+
+**Question:** Are there any objections to this driver being described clearly enough and relevant for us to respond to?
 
 ## 💡 Step 2. Present the Proposal
 
-<p><em>Share the proposal with everyone.</em></p><p>Concisely and briefly present <strong>the proposal</strong> to the participants. Depending on the complexity of the proposal, it may be helpful to use diagrams to make the information more digestible, or in the case of a minor proposal, simply present it orally.</p><p><strong>Strong suggestion</strong> always begins with "<em>I propose</em>..." and sets out a clear direction for the team to consider.</p><p><strong>Tip</strong>: Where possible, send out the proposal in advance of the meeting so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions before the meeting. This saves precious face-to-face meeting time for things that can be done outside the meeting.</p>
+_Share the proposal with everyone._
+
+Concisely and briefly present **the proposal** to the participants. Depending on the complexity of the proposal, it may be helpful to use diagrams to make the information more digestible, or in the case of a minor proposal, simply present it orally.
+
+**Strong suggestion** always begins with "_I propose_..." and sets out a clear direction for the team to consider.
+
+**Tip**: Where possible, send out the proposal in advance of the meeting so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions before the meeting. This saves precious face-to-face meeting time for things that can be done outside the meeting.
 
 ## ❓ Step 3. Understand the proposal
 
-<p><em>Make sure everyone understands the proposal.</em></p><p>At this point, <strong>no objections or suggestions are made</strong> about how to improve the proposal, but only specific questions are asked to understand the details of the proposal. The initiator of the proposal can answer the question asked by the participants, while the facilitator leads the circle of questions. <span style="color: rgb(51, 51, 51);">The goal is to understand the proposal, not to shape it. Stop asking questions once you understand the proposal.</span></p><p><em>Avoid "why" questions. Focus on "What do you mean?"</em></p><p>No reactions (comments, feedback, likes/dislikes, etc.) are allowed in this round.</p><p><strong>Question:</strong> Are there any questions to understand this proposal as it’s written here?</p>
+_Make sure everyone understands the proposal._
+
+At this point, **no objections or suggestions are made** about how to improve the proposal, but only specific questions are asked to understand the details of the proposal. The initiator of the proposal can answer the question asked by the participants, while the facilitator leads the circle of questions. The goal is to understand the proposal, not to shape it. Stop asking questions once you understand the proposal.
+
+_Avoid "why" questions. Focus on "What do you mean?"_
+
+No reactions (comments, feedback, likes/dislikes, etc.) are allowed in this round.
+
+**Question:** Are there any questions to understand this proposal as it’s written here?
 
 ## 🤓 Step 4. Brief Response
 
-<p>The group takes turns offering reactions to the suggestion. The proposer listens but is not expected to respond to every response.</p><p>An integrative decision-making process is about participation rather than consensus. The proposer can change and refine the proposal based on people's questions and reactions. There is no need to change everything if the proposer doesn't think so.</p><h3>Example</h3><p><em>The problem you identified is real, but the proposed solution&nbsp;doesn't address the root cause.</em></p><p><strong>Question</strong>: What are your thoughts and feelings about the proposal?</p>
+The group takes turns offering reactions to the suggestion. The proposer listens but is not expected to respond to every response.
+
+An integrative decision-making process is about participation rather than consensus. The proposer can change and refine the proposal based on people's questions and reactions. There is no need to change everything if the proposer doesn't think so.
+
+### Example
+
+_The problem you identified is real, but the proposed solution doesn't address the root cause._
+
+**Question**: What are your thoughts and feelings about the proposal?
 
 ## 🙌 Step 5. Check for Possible Objections
 
-<p><em>An </em><strong><em>objection </em></strong><em>is an argument that reveals consequences or risks you’d rather avoid or demonstrates worthwhile ways to improve.</em></p><p><span style="color: rgb(51, 51, 51);">In this step, the group needs 2-3 minutes to generate objections silently. Then the group members take turns raising their strongest objections to the proposal. </span></p><p><strong style="color: rgb(51, 51, 51);">Objections are </strong><strong>valid only if the proposal harms the group</strong> or prevents<span style="color: rgb(51, 51, 51);"> it from achieving its goals. These are what are called "major objections." </span></p><p><span style="color: rgb(51, 51, 51);">Objections are recorded without discussion.</span></p><p><strong>Tip:</strong> If no one indicates having any possible objections, you have reached an agreement; move on to step 7 (Celebrate)!</p><p><strong>Question</strong>: Are there any possible objections or concerns to this proposal?</p>
+_An_ **_objection_** _is an argument that reveals consequences or risks you’d rather avoid or demonstrates worthwhile ways to improve._
+
+In this step, the group needs 2-3 minutes to generate objections silently. Then the group members take turns raising their strongest objections to the proposal.
+
+**Objections are** **valid only if the proposal harms the group** or prevents it from achieving its goals. These are what are called "major objections."
+
+Objections are recorded without discussion.
+
+**Tip:** If no one indicates having any possible objections, you have reached an agreement; move on to step 7 (Celebrate)!
+
+**Question**: Are there any possible objections or concerns to this proposal?
 
 ## 🤲 Step 6. Resolve objections
 
-<p>The proposer considers each objection one at a time. He can revise the proposal to resolve the objection and find a safe or "good enough" middle ground. <strong>The proposal can only be accepted once all objections have been resolved.</strong></p><p>The facilitator must verify that the objections are valid (objective, based on existing tensions/facts, not personal preferences).</p><p>The proposer must adjust the idea to resolve the various objections. Each objection must be considered and integrated individually.</p><p>After all, objections are combined into a new proposal, another round of objections will be required. This process continues until a decision is made or the proposer decides to withdraw the proposal to improve it or reject it entirely.</p>
+The proposer considers each objection one at a time. He can revise the proposal to resolve the objection and find a safe or "good enough" middle ground. **The proposal can only be accepted once all objections have been resolved.**
+
+The facilitator must verify that the objections are valid (objective, based on existing tensions/facts, not personal preferences).
+
+The proposer must adjust the idea to resolve the various objections. Each objection must be considered and integrated individually.
+
+After all, objections are combined into a new proposal, another round of objections will be required. This process continues until a decision is made or the proposer decides to withdraw the proposal to improve it or reject it entirely.
 
 ## 🎉 Step 7. Celebrate the agreement
 
-<p>When all objections have been considered, and no objections remain, the proposal is accepted and must be recorded.</p>
+When all objections have been considered, and no objections remain, the proposal is accepted and must be recorded.
 
 ## 🤔 Step 8. Consider Concerns
 
-<p>Finally, listen to concerns that may be useful when implementing your solution. They can be useful as criteria for validating the idea in the implementation phase</p>
+Finally, listen to concerns that may be useful when implementing your solution. They can be useful as criteria for validating the idea in the implementation phase
 
 ## 👉 Advantages of the approach
 
-<ul><li>A structured process of consultative iterations where questions, emotions, and goals are questioned.</li><li>Iterative, "good enough" decisions.</li><li>Higher participation and increased attention to the proposal.</li><li>No agreement required.</li><li>Focusing on eliminating objections creates a more objective, sincere, and oriented decision-making process.</li><li>Fosters objective debate: less influence of verbal prowess, the position of power, or hidden agendas.</li></ul>
+-   A structured process of consultative iterations where questions, emotions, and goals are questioned.
+-   Iterative, "good enough" decisions.
+-   Higher participation and increased attention to the proposal.
+-   No agreement required.
+-   Focusing on eliminating objections creates a more objective, sincere, and oriented decision-making process.
+-   Fosters objective debate: less influence of verbal prowess, the position of power, or hidden agendas.
 
 ## 👀 What to pay attention to
 
-<ul><li>The decision-making process can push teams to find suboptimal solutions.</li><li>The formal process can seem unfamiliar and initially uncomfortable.</li><li>May ignore team cohesion in decision-making.</li><li>May be harmful if used to make long-term severe decisions.</li></ul>
+-   The decision-making process can push teams to find suboptimal solutions.
+-   The formal process can seem unfamiliar and initially uncomfortable.
+-   May ignore team cohesion in decision-making.
+-   May be harmful if used to make long-term severe decisions.
 
 ## 📝 Consent agreement
 
-<p>When using the Consent method, <strong>it's also important to talk through the ground rules</strong> with the team, without which it won't work. Make it clear that everyone agrees to the following points:</p><ol><li>I intend to execute this agreement to the best of my ability if there are no objections to the agreement.</li><li>I agree to voice objections when I have them.</li><li>I will consider objections to proposals, agreements, and actions for which I am responsible and will try to resolve objections if I can.</li><li>I will actively review the agreements under consideration to see if there are any possible objections for you.</li></ol><p>Now you can get to decisions!</p>
+When using the Consent method, **it's also important to talk through the ground rules** with the team, without which it won't work. Make it clear that everyone agrees to the following points:
+
+1.  I intend to execute this agreement to the best of my ability if there are no objections to the agreement.
+2.  I agree to voice objections when I have them.
+3.  I will consider objections to proposals, agreements, and actions for which I am responsible and will try to resolve objections if I can.
+4.  I will actively review the agreements under consideration to see if there are any possible objections for you.
+
+Now you can get to decisions!

@@ -1,6 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const matter = require('gray-matter')
+const { marked } = require('marked')
 
 const DATA_DIR = path.join(__dirname, 'data')
 const TOPICS_DIR = path.join(DATA_DIR, 'topics')
@@ -14,9 +15,10 @@ function parseCards(body) {
 
     const imageMatch = rest.match(/<!--\s*image:\s*(.+?)\s*-->/)
     const imageLocalUrl = imageMatch ? imageMatch[1].trim() : null
-    const text = imageMatch
+    const mdText = imageMatch
       ? rest.replace(/<!--\s*image:\s*.+?\s*-->\n?/, '').trim()
       : rest.trim()
+    const text = mdText ? marked(mdText) : ''
 
     return {
       id: `card-${i}`,

@@ -9,26 +9,54 @@ links: []
 ---
 ## 🤯 Introduction
 
-<p>Are you feeling stuck in your career, wondering why your hard work isn't getting you the recognition and opportunities you deserve?</p><p>Many professionals find themselves in this predicament, where their dedication goes unnoticed, and they struggle to climb the corporate ladder. This can be incredibly frustrating, especially when it seems like others are advancing effortlessly.</p><p>Fortunately, there’s a framework that can guide you out of this rut: the <strong>P.I.E. model</strong>. Introduced by Harvey J. Coleman in his groundbreaking book, "Empower Yourself: The Organizational Game Revealed," this model encompasses three critical components <strong>(Performance, Image, and Exposure)</strong>.</p><p>Together, these elements provide a roadmap for unlocking your career potential.</p>
+Are you feeling stuck in your career, wondering why your hard work isn't getting you the recognition and opportunities you deserve?
+
+Many professionals find themselves in this predicament, where their dedication goes unnoticed, and they struggle to climb the corporate ladder. This can be incredibly frustrating, especially when it seems like others are advancing effortlessly.
+
+Fortunately, there’s a framework that can guide you out of this rut: the **P.I.E. model**. Introduced by Harvey J. Coleman in his groundbreaking book, "Empower Yourself: The Organizational Game Revealed," this model encompasses three critical components **(Performance, Image, and Exposure)**.
+
+Together, these elements provide a roadmap for unlocking your career potential.
 
 ## 🧩 Understanding the P.I.E. Framework
 
 <!-- image: /images/cards/97c788925fe91172.png -->
 
-<p>The P.I.E. model breaks down career advancement into three vital components, explaining how each influences your progress. According to Coleman, they contribute in the following proportions:</p><ol><li><strong>Performance (10%):</strong> Your job effectiveness and the quality of your work. While essential, it accounts for only a fraction of your career progression.</li><li><strong>Image (30%):</strong> The perception others have of you based on your demeanor, attitude, and communication style. This significantly impacts your reputation and opens doors for new opportunities.</li><li><strong>Exposure (60%)</strong>: The visibility of your work and achievements among stakeholders and decision-makers, emphasizing the importance of networking and relationship-building.</li></ol><p>Let's dive deeper into each element.</p>
+The P.I.E. model breaks down career advancement into three vital components, explaining how each influences your progress. According to Coleman, they contribute in the following proportions:
+
+1.  **Performance (10%):** Your job effectiveness and the quality of your work. While essential, it accounts for only a fraction of your career progression.
+2.  **Image (30%):** The perception others have of you based on your demeanor, attitude, and communication style. This significantly impacts your reputation and opens doors for new opportunities.
+3.  **Exposure (60%)**: The visibility of your work and achievements among stakeholders and decision-makers, emphasizing the importance of networking and relationship-building.
+
+Let's dive deeper into each element.
 
 ## 👀 Performance
 
-<p><strong>Performance </strong>represents only 10% of your career advancement and reflects how well you execute your job responsibilities. It’s essential to complete your tasks effectively, but Coleman emphasizes that excelling in your role alone is not enough.</p><p><strong>Example</strong></p><p>Imagine a software developer who consistently meets deadlines with high-quality code. While their technical skills are critical, their performance alone may not lead to promotion if their contributions lack visibility or positive reputation.</p>
+**Performance** represents only 10% of your career advancement and reflects how well you execute your job responsibilities. It’s essential to complete your tasks effectively, but Coleman emphasizes that excelling in your role alone is not enough.
+
+**Example**
+
+Imagine a software developer who consistently meets deadlines with high-quality code. While their technical skills are critical, their performance alone may not lead to promotion if their contributions lack visibility or positive reputation.
 
 ## 🚒 Image
 
-<p>Your <strong>image </strong>in the workplace forms 30% of how you are perceived and influences your professional opportunities. This includes elements like your wardrobe, demeanor, and communications.</p><p><strong>Example</strong></p><p>Consider someone in a leadership position who communicates clearly and fosters a collaborative environment. Their positive image enhances their reputation and promotes trust among colleagues, paving the way for further career advancement.</p>
+Your **image** in the workplace forms 30% of how you are perceived and influences your professional opportunities. This includes elements like your wardrobe, demeanor, and communications.
+
+**Example**
+
+Consider someone in a leadership position who communicates clearly and fosters a collaborative environment. Their positive image enhances their reputation and promotes trust among colleagues, paving the way for further career advancement.
 
 ## 🤔 Exposure
 
-<p><strong>Exposure </strong>is crucial, comprising 60% of your career trajectory. It involves ensuring that your hard work and achievements are recognized by those in positions of influence. This can be achieved through effective networking and relationship management.</p><p><strong>Example</strong></p><p>Picture a project manager who shares success stories of their team's accomplishments during company meetings and engages with senior executives. Their increased visibility helps them stay top-of-mind for future promotions and key projects.</p>
+**Exposure** is crucial, comprising 60% of your career trajectory. It involves ensuring that your hard work and achievements are recognized by those in positions of influence. This can be achieved through effective networking and relationship management.
+
+**Example**
+
+Picture a project manager who shares success stories of their team's accomplishments during company meetings and engages with senior executives. Their increased visibility helps them stay top-of-mind for future promotions and key projects.
 
 ## 💡 Applying the P.I.E. Framework
 
-<p>To put the P.I.E. framework into action and propel your career forward, follow these steps:</p><ol><li>Evaluate your <strong>performance</strong>: Identify your strengths and areas for growth. Set specific, measurable goals to improve your skills and contributions.</li><li>Refine your <strong>image</strong>: Assess how you are perceived. Consider investing in professional attire and enhancing your communication style to portray confidence and competence.</li><li>Expand your <strong>exposure</strong>: Actively seek opportunities to connect with others in your industry. Attend networking events, share your achievements, and cultivate relationships that can aid in your career progression.</li></ol>
+To put the P.I.E. framework into action and propel your career forward, follow these steps:
+
+1.  Evaluate your **performance**: Identify your strengths and areas for growth. Set specific, measurable goals to improve your skills and contributions.
+2.  Refine your **image**: Assess how you are perceived. Consider investing in professional attire and enhancing your communication style to portray confidence and competence.
+3.  Expand your **exposure**: Actively seek opportunities to connect with others in your industry. Attend networking events, share your achievements, and cultivate relationships that can aid in your career progression.

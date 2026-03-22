@@ -22,32 +22,101 @@ links:
 ---
 ## 🧠 Conveying your thoughts
 
-<p>When you write an important email, how many times do you reread it and correct it to improve your thoughts? Or have you ever received feedback from recipients that they didn't understand the idea you were trying to convey?</p><p>If you have trouble structuring your thoughts and convincing others, then a tool like the <strong>Minto Pyramid</strong> can help. It's ideal for processing and organizing large amounts of information to convey a story, message, or presentation.</p>
+When you write an important email, how many times do you reread it and correct it to improve your thoughts? Or have you ever received feedback from recipients that they didn't understand the idea you were trying to convey?
+
+If you have trouble structuring your thoughts and convincing others, then a tool like the **Minto Pyramid** can help. It's ideal for processing and organizing large amounts of information to convey a story, message, or presentation.
 
 ## 💡 The structure of the Minto pyramid
 
 <!-- image: /images/cards/b2b1a5eacc275570.png -->
 
-<p>The Minto Pyramid was developed by Barbara Minto for McKinsey consultants to help them structure their reports and maximize their impact on clients.</p><p><strong>The Minto Pyramid consists of three levels:</strong></p><ol><li>Conclusions</li><li>Key arguments</li><li>Detailed information</li></ol><p>Structuring your information in this way allows you to instantly <strong>convey the main point</strong> to your audience and then support its value with additional arguments and facts.</p><p><strong>Example</strong></p><p>A client wants to increase profit. How would you do it?</p><p><em>(For simplicity, let's assume you've worked on the case and the analysis is complete.)</em></p>
+The Minto Pyramid was developed by Barbara Minto for McKinsey consultants to help them structure their reports and maximize their impact on clients.
+
+**The Minto Pyramid consists of three levels:**
+
+1.  Conclusions
+2.  Key arguments
+3.  Detailed information
+
+Structuring your information in this way allows you to instantly **convey the main point** to your audience and then support its value with additional arguments and facts.
+
+**Example**
+
+A client wants to increase profit. How would you do it?
+
+_(For simplicity, let's assume you've worked on the case and the analysis is complete.)_
 
 ## 💎 1. Start with the conclusions
 
-<p>Grab your audience's attention early by first telling them the main recommendation, message, or conclusion.</p><p>This section should answer the question "<strong>What</strong>?"</p><p><strong>Example</strong></p><p><span style="color: rgb(39, 39, 39);">Our initial analysis suggests a cost reduction for your supplies.</span></p>
+Grab your audience's attention early by first telling them the main recommendation, message, or conclusion.
+
+This section should answer the question "**What**?"
+
+**Example**
+
+Our initial analysis suggests a cost reduction for your supplies.
 
 ## 📋 2. Provide key arguments
 
-<p>The second step is to present the key arguments and answer the question "<strong>Why</strong>?"</p><p>Make the arguments relatively short and clear.</p><p><strong>Example</strong></p><ol><li>Comparative analysis of competitors shows <strong>lower purchase costs</strong>.</li><li>Cheaper and lower quality <strong>materials </strong>are sufficient for basic products.</li><li><span style="color: rgb(39, 39, 39);">Market outlook and the current products do&nbsp;</span><strong style="color: rgb(39, 39, 39);">not allow higher prices.</strong></li></ol>
+The second step is to present the key arguments and answer the question "**Why**?"
+
+Make the arguments relatively short and clear.
+
+**Example**
+
+1.  Comparative analysis of competitors shows **lower purchase costs**.
+2.  Cheaper and lower quality **materials** are sufficient for basic products.
+3.  Market outlook and the current products do **not allow higher prices.**
 
 ## 📊 3. Provide additional information and facts
 
-<p>Now it's time to show the facts to back up your arguments. It is important to answer the question "<strong>How</strong> did you come to these conclusions?"</p><p>Sometimes you can skip this part if your key arguments are enough to justify the conclusion. Of course, focus on the audience.</p><p><strong>Example</strong></p><p><strong>Procurement costs</strong>: On average, competitors spend 15% less on materials.</p><p><strong>Materials</strong>: The quality of suppliers has improved in recent years. Low-cost suppliers offer products of sufficient quality to meet customer needs. We surveyed 34 customers and received information that they do not require or expect the <span style="color: rgb(39, 39, 39);">longevity</span> that current products provide.</p><p><strong>Prices</strong>: <span style="color: rgb(39, 39, 39);">The current products are not sufficiently differentiated for higher prices</span>. In addition, the current brand positioning prevents premium pricing.</p>
+Now it's time to show the facts to back up your arguments. It is important to answer the question "**How** did you come to these conclusions?"
+
+Sometimes you can skip this part if your key arguments are enough to justify the conclusion. Of course, focus on the audience.
+
+**Example**
+
+**Procurement costs**: On average, competitors spend 15% less on materials.
+
+**Materials**: The quality of suppliers has improved in recent years. Low-cost suppliers offer products of sufficient quality to meet customer needs. We surveyed 34 customers and received information that they do not require or expect the longevity that current products provide.
+
+**Prices**: The current products are not sufficiently differentiated for higher prices. In addition, the current brand positioning prevents premium pricing.
 
 ## ⚖️ Pros and Cons
 
-<p><strong>The advantages of this tool include the following:</strong></p><ul><li>More effective structuring of thoughts.</li><li>The audience immediately recognizes the main idea.</li><li>Even if you don't have time, you can quickly convey the main idea.</li></ul><p><strong>What needs to be considered</strong>:</p><ul><li>The method requires discipline and practice.</li><li>The tool is not suitable for co-design or interaction, because you immediately offer your idea. It is important to know your audience to assess whether this approach is the most effective.</li><li>Poor analysis at the lower level can lead to false conclusions.</li></ul>
+**The advantages of this tool include the following:**
+
+-   More effective structuring of thoughts.
+-   The audience immediately recognizes the main idea.
+-   Even if you don't have time, you can quickly convey the main idea.
+
+**What needs to be considered**:
+
+-   The method requires discipline and practice.
+-   The tool is not suitable for co-design or interaction, because you immediately offer your idea. It is important to know your audience to assess whether this approach is the most effective.
+-   Poor analysis at the lower level can lead to false conclusions.
 
 ## 👉 Example
 
 <!-- image: /images/cards/64dd8d145eef7649.png -->
 
-<p><strong>Case:</strong> CityFit's decline in membership renewals.</p><p><strong>Conclusion:</strong> To reverse the decline in membership renewals, CityFit must modernize its facilities and offer personalized fitness programs.</p><h3>Arguments with Data</h3><p><strong>1. Membership Renewal Decline</strong></p><ul><li>Membership renewals have decreased by 25% in the last year.</li><li>New member sign-ups have also fallen by 15%, indicating an overall decline in attraction and retention.</li></ul><p><strong>2. Outdated Facilities</strong></p><ul><li>60% of members in a survey stated the equipment is outdated.</li><li>Comparison with competitors shows CityFit's equipment is an average of 5 years older.</li></ul><p><strong>3. Lack of Personalization</strong></p><ul><li>70% of non-renewing members cited a lack of personalized fitness programs.</li><li>Only 20% of members are currently enrolled in any of the existing generic fitness classes.</li></ul>
+**Case:** CityFit's decline in membership renewals.
+
+**Conclusion:** To reverse the decline in membership renewals, CityFit must modernize its facilities and offer personalized fitness programs.
+
+### Arguments with Data
+
+**1\. Membership Renewal Decline**
+
+-   Membership renewals have decreased by 25% in the last year.
+-   New member sign-ups have also fallen by 15%, indicating an overall decline in attraction and retention.
+
+**2\. Outdated Facilities**
+
+-   60% of members in a survey stated the equipment is outdated.
+-   Comparison with competitors shows CityFit's equipment is an average of 5 years older.
+
+**3\. Lack of Personalization**
+
+-   70% of non-renewing members cited a lack of personalized fitness programs.
+-   Only 20% of members are currently enrolled in any of the existing generic fitness classes.

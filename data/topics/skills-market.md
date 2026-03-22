@@ -21,26 +21,51 @@ links:
 ---
 ## 💎 Hidden potential
 
-<p>Every team has hidden potential. While working with people, we often discover new sides of their personalities, hobbies, skills, and abilities. At such moments, questions arise: "Why didn't you talk about this before?"</p><p>If you are familiar with this situation and want to work proactively, you will definitely benefit from a <strong>Skills Market workshop!</strong></p>
+Every team has hidden potential. While working with people, we often discover new sides of their personalities, hobbies, skills, and abilities. At such moments, questions arise: "Why didn't you talk about this before?"
+
+If you are familiar with this situation and want to work proactively, you will definitely benefit from a **Skills Market workshop!**
 
 ## ✅ Preparation
 
-<ol><li>In this workshop, you will need the following materials: Big sheets of paper (A3 or flipchart)</li><li>Sticky notes</li><li>Markers, pencils, and pens in different colors</li><li>Space to move around</li></ol><p><em>In an online format, you can organize it in Miro or Mural.</em></p>
+1.  In this workshop, you will need the following materials: Big sheets of paper (A3 or flipchart)
+2.  Sticky notes
+3.  Markers, pencils, and pens in different colors
+4.  Space to move around
+
+_In an online format, you can organize it in Miro or Mural._
 
 ## 🖍 1. Draw a stall
 
 <!-- image: /images/cards/cd664b7c0738996c.png -->
 
-<p>On large sheets of paper, invite each participant to draw their market <span style="color: rgb(6, 12, 12);">stall</span> with space for these three sections:</p><ul><li><strong>Current skills</strong> (which allow me to do my job)</li><li><strong>Hidden skills</strong> (you may not know what I have)</li><li><strong>Desired skills</strong> (want to develop or learn)</li></ul>
+On large sheets of paper, invite each participant to draw their market stall with space for these three sections:
+
+-   **Current skills** (which allow me to do my job)
+-   **Hidden skills** (you may not know what I have)
+-   **Desired skills** (want to develop or learn)
 
 ## 💪 2. Visualize skills
 
-<p>Prompt the group to spend some time on their own completing each section.</p><p>Tell participants that the creative design of their market stall is not to be judged. <strong>Ask</strong> <strong>them to be creative in how they draw it</strong> as long as they leave enough room to describe their skills.</p><p>When finished, ask each participant to hang their skills <span style="color: rgb(6, 12, 12);">stall</span> on the wall so it's visible to the whole group.</p>
+Prompt the group to spend some time on their own completing each section.
+
+Tell participants that the creative design of their market stall is not to be judged. **Ask** **them to be creative in how they draw it** as long as they leave enough room to describe their skills.
+
+When finished, ask each participant to hang their skills stall on the wall so it's visible to the whole group.
 
 ## 🔍 3. Overview of stalls
 
-<p>In the group, visit each counter and allow the vendor to share their goods (skills).</p><p>As each participant shares their market counter, encourage others to <strong>sign their initials</strong> next to the skills they can help the vendor develop or the skills they want to "buy" and develop themselves.</p>
+In the group, visit each counter and allow the vendor to share their goods (skills).
+
+As each participant shares their market counter, encourage others to **sign their initials** next to the skills they can help the vendor develop or the skills they want to "buy" and develop themselves.
 
 ## 💡 4. Share your observations
 
-<p>After reviewing all the stalls, have a general discussion about the results.</p><p><strong>There are some questions you can ask the participants:</strong></p><ul><li>How do you feel now?</li><li>What new/interesting things have you discovered?</li><li>What would you like to talk about after the workshop?</li></ul><p>As you discuss, write down the actions you want the participants to implement soon after the meeting.</p>
+After reviewing all the stalls, have a general discussion about the results.
+
+**There are some questions you can ask the participants:**
+
+-   How do you feel now?
+-   What new/interesting things have you discovered?
+-   What would you like to talk about after the workshop?
+
+As you discuss, write down the actions you want the participants to implement soon after the meeting.
