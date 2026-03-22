@@ -76,7 +76,7 @@ const IndexPage = ({ data, location }) => {
                 border: '1.5px solid',
                 borderColor: activeTag === null ? '#10b981' : 'var(--color-border)',
                 background: activeTag === null ? '#10b981' : '#fff',
-                color: activeTag === null ? '#fff' : 'var(--color-text)',
+                color: activeTag === null ? '#064e3b' : 'var(--color-text)',
                 transition: 'all 0.15s',
                 cursor: 'pointer',
               }}
@@ -95,7 +95,7 @@ const IndexPage = ({ data, location }) => {
                   border: '1.5px solid',
                   borderColor: activeTag === tag.key.toLowerCase() ? '#10b981' : 'var(--color-border)',
                   background: activeTag === tag.key.toLowerCase() ? '#10b981' : '#fff',
-                  color: activeTag === tag.key.toLowerCase() ? '#fff' : 'var(--color-text)',
+                  color: activeTag === tag.key.toLowerCase() ? '#064e3b' : 'var(--color-text)',
                   transition: 'all 0.15s',
                   cursor: 'pointer',
                 }}
@@ -106,6 +106,7 @@ const IndexPage = ({ data, location }) => {
           </div>
 
           {/* Topic grid */}
+          <h2 style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap' }}>Topics</h2>
           <div id="library" style={{
             display: 'grid',
             gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))',
@@ -162,6 +163,5 @@ export const Head = () => (
   <>
     <title>Leader's toolbox | Leadcase</title>
     <meta name="description" content="Collection of tools, frameworks, models, and ideas to grow people and improve teamwork." />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" />
   </>
 )
