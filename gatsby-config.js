@@ -1,10 +1,9 @@
 /** @type {import('gatsby').GatsbyConfig} */
 module.exports = {
-  pathPrefix: '/leadcase-gatsby',
   siteMetadata: {
     title: `Leadcase`,
     description: `Collection of tools, frameworks, models, and ideas to grow people and improve teamwork`,
-    siteUrl: `https://leadcase.net`,
+    siteUrl: `https://app.leadcase.net`,
     twitterHandle: `@andreyzt`,
   },
   plugins: [
