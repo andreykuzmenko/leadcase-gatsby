@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql, withPrefix } from 'gatsby'
+import { graphql, withPrefix, Link } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import Layout from '../components/Layout'
 
@@ -36,8 +36,8 @@ const TopicTemplate = ({ data }) => {
                 </h1>
                 {topic.tagTitles?.length > 0 && (
                   <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, marginBottom: topic.description ? 16 : 0 }}>
-                    {topic.tagTitles.map(tag => (
-                      <span key={tag} style={{
+                    {topic.tagTitles.map((tag, i) => (
+                      <Link key={tag} to={`/?tag=${topic.tagIds[i]}`} style={{
                         fontSize: 14,
                         fontWeight: 500,
                         color: '#374151',
@@ -45,7 +45,8 @@ const TopicTemplate = ({ data }) => {
                         borderRadius: 99,
                         padding: '5px 16px',
                         background: '#fff',
-                      }}>{tag}</span>
+                        textDecoration: 'none',
+                      }}>{tag}</Link>
                     ))}
                   </div>
                 )}

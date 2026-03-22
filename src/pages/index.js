@@ -8,16 +8,14 @@ const IndexPage = ({ data, location }) => {
   const tags = data.allTag.nodes
   const topics = data.allTopic.nodes
 
-  const getTagFromUrl = () => {
+  const [activeTag, setActiveTag] = useState(() => {
     if (typeof window === 'undefined') return null
-    const params = new URLSearchParams(location.search)
-    return params.get('tag') || null
-  }
-
-  const [activeTag, setActiveTag] = useState(getTagFromUrl)
+    return new URLSearchParams(location.search).get('tag') || null
+  })
 
   useEffect(() => {
-    setActiveTag(getTagFromUrl())
+    const tag = new URLSearchParams(location.search).get('tag') || null
+    setActiveTag(tag)
   }, [location.search])
 
   const selectTag = (tagId) => {
