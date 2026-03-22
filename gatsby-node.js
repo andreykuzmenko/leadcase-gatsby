@@ -140,3 +140,25 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   reporter.info(`Created ${result.data.allTopic.nodes.length} topic pages`)
 }
+
+exports.onPostBuild = async ({ graphql }) => {
+  const result = await graphql(`
+    query {
+      allTopic {
+        nodes { slug }
+      }
+    }
+  `)
+
+  const base = 'https://app.leadcase.net'
+  const urls = result.data.allTopic.nodes
+    .map(({ slug }) => `  <url><loc>${base}/topics/${slug}/</loc></url>`)
+    .join('\n')
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls}
+</urlset>`
+
+  fs.writeFileSync(path.join(__dirname, 'public', 'sitemap.xml'), xml)
+}

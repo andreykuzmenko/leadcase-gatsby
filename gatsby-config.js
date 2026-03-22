@@ -18,24 +18,6 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-image',
     {
-      resolve: 'gatsby-plugin-sitemap',
-      options: {
-        query: `
-          {
-            allTopic {
-              nodes {
-                slug
-              }
-            }
-          }
-        `,
-        resolveSiteUrl: () => 'https://app.leadcase.net',
-        resolvePages: ({ allTopic: { nodes } }) =>
-          nodes.map(({ slug }) => ({ path: `/topics/${slug}/` })),
-        serialize: ({ path }) => ({ url: path }),
-      },
-    },
-    {
       resolve: 'gatsby-plugin-google-gtag',
       options: {
         trackingIds: ['G-8S2KLP9294'],
