@@ -1,7 +1,6 @@
 ---
-id: 3a3e4e2221ebe4d8
+id: minto-pyramid
 title: The Minto Pyramid
-slug: minto-pyramid
 description: Communicate complex information in a way that is easy to understand
 tags:
   - Communication

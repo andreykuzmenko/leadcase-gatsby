@@ -69,15 +69,15 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
     createNode({
       title: (fm.title || '').trim(),
       description: fm.description || '',
-      slug: fm.slug,
-      orderRank: orderMap[fm.slug] ?? 999,
+      slug: fm.id,
+      orderRank: orderMap[fm.id] ?? 999,
       topicType: fm.topicType || null,
       tagIds: tagObjects.map(t => t.key.toLowerCase()),
       tagTitles: tagObjects.map(t => t.title),
       links: JSON.stringify(fm.links || []),
       related: fm.related || [],
       cards: JSON.stringify(cards),
-      id: createNodeId(`Topic-${fm.slug}`),
+      id: createNodeId(`Topic-${fm.id}`),
       internal: {
         type: 'Topic',
         contentDigest: createContentDigest(raw),

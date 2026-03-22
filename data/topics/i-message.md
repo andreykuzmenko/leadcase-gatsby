@@ -1,7 +1,6 @@
 ---
-id: 8775e8ade79cb15b
+id: i-message
 title: I-messages
-slug: i-message
 description: |-
   Communicate concerns, feelings, and needs without
   blaming others or sounding threatening

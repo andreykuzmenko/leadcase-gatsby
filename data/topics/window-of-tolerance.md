@@ -1,7 +1,6 @@
 ---
-id: 98789236b1b69422
+id: window-of-tolerance
 title: The Window of Tolerance
-slug: window-of-tolerance
 description: Monitor your level of emotional state
 tags:
   - Self-awareness

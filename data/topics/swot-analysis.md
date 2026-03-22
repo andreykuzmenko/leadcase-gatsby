@@ -1,7 +1,6 @@
 ---
-id: 60590c2ba6882131
+id: swot-analysis
 title: SWOT analysis
-slug: swot-analysis
 description: Assess internal and external factors to guide decision-making
 tags:
   - Decision-Making

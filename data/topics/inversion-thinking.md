@@ -1,7 +1,6 @@
 ---
-id: 872439f3151c9b9b
+id: inversion-thinking
 title: Inversion thinking
-slug: inversion-thinking
 description: Flip your perspective to solve problems creatively
 tags:
   - Decision-Making

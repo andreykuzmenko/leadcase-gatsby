@@ -1,7 +1,6 @@
 ---
-id: 6e5147f7dcaed313
+id: satir-change-model
 title: The Satir Change Model
-slug: satir-change-model
 description: Navigate and manage change through emotional and psychological stages
 tags:
   - Change Management

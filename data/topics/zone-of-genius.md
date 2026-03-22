@@ -1,7 +1,6 @@
 ---
-id: 58921e08b3ed11f6
+id: zone-of-genius
 title: Zone of Genius
-slug: zone-of-genius
 description: Align work with natural talents and passions for maximum fulfillment
 topicType: Tool
 tags:

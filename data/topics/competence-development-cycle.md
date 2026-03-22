@@ -1,7 +1,6 @@
 ---
-id: ee211292e6d0e6c
+id: competence-development-cycle
 title: Competence Development Cycle
-slug: competence-development-cycle
 description: Master new abilities from unconscious incompetence to competence
 tags:
   - Team activation

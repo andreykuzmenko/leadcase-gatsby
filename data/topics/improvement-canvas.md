@@ -1,7 +1,6 @@
 ---
-id: 5eeda6f44cde9dcd
+id: improvement-canvas
 title: Improvement Canvas
-slug: improvement-canvas
 description: Explore where you are now and decide where you want to go next
 topicType: Workshop
 tags:

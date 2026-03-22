@@ -1,7 +1,6 @@
 ---
-id: db965eb498a72dd
+id: conflict-escalation-model
 title: Conflict Escalation Model
-slug: conflict-escalation-model
 description: Understanding the dynamics of conflict for effective resolution
 tags:
   - Communication

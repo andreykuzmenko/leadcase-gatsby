@@ -1,7 +1,6 @@
 ---
-id: 13e99e424e1af147
+id: idoarrt
 title: 'IDOARRT: Meeting Design'
-slug: idoarrt
 description: >-
   Lead an effective meeting or group process by thinking through the meeting
   structure

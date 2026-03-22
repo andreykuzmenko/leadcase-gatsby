@@ -1,7 +1,6 @@
 ---
-id: 6acd89747af9e0d9
+id: feedback-wrap
 title: Feedback Wrap
-slug: feedback-wrap
 description: Provide constructive feedback in a structured and effective manner
 tags:
   - Team activation

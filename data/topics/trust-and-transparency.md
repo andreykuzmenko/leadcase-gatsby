@@ -1,7 +1,6 @@
 ---
-id: fd1f2153d231efb9
+id: trust-and-transparency
 title: Matrix of trust and transparency
-slug: trust-and-transparency
 description: >-
   Build relationships with people through transparency to have a high level of
   trust

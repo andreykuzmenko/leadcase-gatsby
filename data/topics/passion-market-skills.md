@@ -1,7 +1,6 @@
 ---
-id: 9d413e90d894ffc9
+id: passion-market-skills
 title: 'Passion, Market, and Skills'
-slug: passion-market-skills
 description: 'Align interests, market demand, and personal expertise for career success'
 tags:
   - Coaching

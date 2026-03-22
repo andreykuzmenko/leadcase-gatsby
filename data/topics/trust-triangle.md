@@ -1,7 +1,6 @@
 ---
-id: 4e4db6e4ad2cce68
+id: trust-triangle
 title: The Triangle of Trust
-slug: trust-triangle
 description: Build trusting relationships with people
 tags:
   - Self-awareness

@@ -1,7 +1,6 @@
 ---
-id: acd090a5cf3e883e
+id: feedback-circle
 title: Feedback Circle
-slug: feedback-circle
 description: Build a culture of feedback sharing in the team.
 topicType: Workshop
 tags:

@@ -1,7 +1,6 @@
 ---
-id: c24532e1ecdb73c1
+id: onion
 title: 'Onion: Conflict Resolution'
-slug: onion
 description: Reveal people's needs that they want to satisfy in a conflict
 topicType: Tool
 tags:

@@ -1,7 +1,6 @@
 ---
-id: 34bf3fcd8bdfb1a6
+id: assumption-map
 title: Assumption map
-slug: assumption-map
 description: Reduce dependence on mere guesswork when considering new ideas
 tags:
   - Decision-Making

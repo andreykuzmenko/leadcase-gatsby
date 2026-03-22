@@ -1,7 +1,6 @@
 ---
-id: b39ec00c794efba2
+id: safety-check
 title: Safety check
-slug: safety-check
 description: Keep track of your team's security level
 tags:
   - Team activation

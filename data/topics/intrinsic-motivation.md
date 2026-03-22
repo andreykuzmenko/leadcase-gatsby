@@ -1,7 +1,6 @@
 ---
-id: 40778994996f40d8
+id: intrinsic-motivation
 title: Intrinsic motivation
-slug: intrinsic-motivation
 description: Boost engagement and performance by focusing on inner motivational factors
 tags:
   - Self-awareness

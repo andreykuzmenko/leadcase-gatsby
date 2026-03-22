@@ -1,7 +1,6 @@
 ---
-id: fc07cbcd56eaa49c
+id: the-4-responses-to-fear
 title: The 4 Responses to Fear
-slug: the-4-responses-to-fear
 description: Identifying and managing fear for effective workplace leadership
 tags:
   - Self-awareness

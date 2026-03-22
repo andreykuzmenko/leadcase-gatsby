@@ -1,7 +1,6 @@
 ---
-id: 20a3cb32daf054d7
+id: scarf
 title: SCARF
-slug: scarf
 description: Communicate with people in a way that makes them feel safe
 tags:
   - Communication

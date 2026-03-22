@@ -1,7 +1,6 @@
 ---
-id: 78f4575c716b2474
+id: paei-model
 title: PAEI Model (Management roles)
-slug: paei-model
 description: Balance team roles for optimal efficiency and results.
 tags:
   - Team activation

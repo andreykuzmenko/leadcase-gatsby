@@ -1,7 +1,6 @@
 ---
-id: f4eb49651c3f6b54
+id: hackman
 title: Hackman's model
-slug: hackman
 description: Six necessary conditions for creating an effective team
 tags:
   - Team activation

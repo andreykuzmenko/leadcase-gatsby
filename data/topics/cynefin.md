@@ -1,7 +1,6 @@
 ---
-id: 2e7ac1e0bc6f5a54
+id: cynefin
 title: Cynefin framework
-slug: cynefin
 description: Mastering Decision-Making Across Complex Environments
 tags:
   - Decision-Making

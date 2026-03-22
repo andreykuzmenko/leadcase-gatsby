@@ -1,7 +1,6 @@
 ---
-id: 27aee339f17ae2b2
+id: situational-leadership
 title: Situational Leadership
-slug: situational-leadership
 description: Choose a leadership style depending on the level of team members
 tags:
   - Team activation

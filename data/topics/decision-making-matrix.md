@@ -1,7 +1,6 @@
 ---
-id: bf4a10d800eeb134
+id: decision-making-matrix
 title: Decision-making matrix
-slug: decision-making-matrix
 description: Choose the best option by considering multiple factors
 topicType: Tool
 tags:

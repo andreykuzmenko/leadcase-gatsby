@@ -1,7 +1,6 @@
 ---
-id: b8d2c0115e8f536
+id: coin-feedback-model
 title: COIN feedback model
-slug: coin-feedback-model
 description: 'Correct behavior by giving clear, structured, and actionable feedback'
 tags:
   - Team activation

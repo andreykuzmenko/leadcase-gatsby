@@ -1,7 +1,6 @@
 ---
-id: e2bd46a9c50f788
+id: start-stop-continue
 title: 'Start, Stop, Continue'
-slug: start-stop-continue
 description: Analyze your experience and find practical ideas for continuous improvement
 topicType: Workshop
 tags:

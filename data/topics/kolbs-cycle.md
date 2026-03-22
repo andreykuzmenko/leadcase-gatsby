@@ -1,7 +1,6 @@
 ---
-id: f136100e388a38c9
+id: kolbs-cycle
 title: Kolb's Learning Cycle
-slug: kolbs-cycle
 description: 'Transform experiences into continuous, impactful learning journeys'
 tags:
   - Coaching

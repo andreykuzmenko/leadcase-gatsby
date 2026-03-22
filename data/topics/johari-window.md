@@ -1,7 +1,6 @@
 ---
-id: eccfb9e11b8ce003
+id: johari-window
 title: The Johari Window
-slug: johari-window
 description: >-
   Analyze the relationship between your personal qualities and how they are
   perceived by others

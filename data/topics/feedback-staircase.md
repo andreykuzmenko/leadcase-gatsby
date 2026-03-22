@@ -1,7 +1,6 @@
 ---
-id: 24ad4da077cdc184
+id: feedback-staircase
 title: Feedback Staircase
-slug: feedback-staircase
 description: Navigate emotions to transform feedback into growth
 tags:
   - Team activation

@@ -1,7 +1,6 @@
 ---
-id: 54987448f54bf981
+id: personal-maps
 title: Personal maps
-slug: personal-maps
 description: Increase trust in the team through personal stories
 tags:
   - Team activation

@@ -1,7 +1,6 @@
 ---
-id: 25ad162ef9713361
+id: roles-and-responsibilities
 title: Roles and responsibilities
-slug: roles-and-responsibilities
 description: >-
   Define roles and expectations from them for coordinated and effective team
   work

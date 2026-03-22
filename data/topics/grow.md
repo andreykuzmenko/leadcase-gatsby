@@ -1,7 +1,6 @@
 ---
-id: a30ab4ec091cbf54
+id: grow
 title: GROW
-slug: grow
 description: Coaching model for goal setting and problem solving
 topicType: Tool
 tags:

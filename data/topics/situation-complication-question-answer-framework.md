@@ -1,7 +1,6 @@
 ---
-id: 38275cf886e415e2
+id: situation-complication-question-answer-framework
 title: SCQA Framework
-slug: situation-complication-question-answer-framework
 description: >-
   Structure information from context to solution for clear, engaging
   communication

@@ -1,7 +1,6 @@
 ---
-id: 45ac1c44f441dd2f
+id: team-canvas
 title: Team Canvas
-slug: team-canvas
 description: Align team members on project objectives and common ways of working
 topicType: Workshop
 tags:

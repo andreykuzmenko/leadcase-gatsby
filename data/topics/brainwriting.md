@@ -1,7 +1,6 @@
 ---
-id: 8255433704336bc2
+id: brainwriting
 title: Brainwriting
-slug: brainwriting
 description: Involve all team members in generating ideas during brainstorming sessions
 tags:
   - Facilitation

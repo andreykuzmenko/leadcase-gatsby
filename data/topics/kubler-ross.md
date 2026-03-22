@@ -1,7 +1,6 @@
 ---
-id: 5670f133cfdabc64
+id: kubler-ross
 title: Kubler-Ross Change Curve
-slug: kubler-ross
 description: How people react to changes and what you can do to help them
 topicType: Tool
 tags:

@@ -1,7 +1,6 @@
 ---
-id: 1818df52dcfed85a
+id: skills-market
 title: Skills Market
-slug: skills-market
 description: Learn more about the skills of your team members
 topicType: Workshop
 tags:

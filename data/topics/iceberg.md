@@ -1,7 +1,6 @@
 ---
-id: 425ed250beb03132
+id: iceberg
 title: Iceberg model
-slug: iceberg
 description: Uncover the root causes of events by looking at hidden levels of abstractions
 topicType: Tool
 tags:

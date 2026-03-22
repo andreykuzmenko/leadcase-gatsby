@@ -1,7 +1,6 @@
 ---
-id: 67abd01592bf3eae
+id: fogg-behavior-model
 title: Fogg Behavior Model
-slug: fogg-behavior-model
 description: 'Align motivation, ability, and cues to trigger desired behaviors'
 tags:
   - Self-awareness

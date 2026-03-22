@@ -1,7 +1,6 @@
 ---
-id: 85f9049e8a8e8c10
+id: thomas-kilmann
 title: The Thomas-Kilmann Model
-slug: thomas-kilmann
 description: Choose conflict resolution tactics depending on your goals
 tags:
   - Communication

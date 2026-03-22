@@ -1,7 +1,6 @@
 ---
-id: 4ddb6b2acfa59571
+id: performance-image-exposure
 title: 'Performance, Image, Exposure'
-slug: performance-image-exposure
 description: 'Grow your career through performance, perception, and strategic visibility'
 tags:
   - Self-awareness

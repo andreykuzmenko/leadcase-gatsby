@@ -1,7 +1,6 @@
 ---
-id: f0e6f058ea78b64e
+id: ladder-of-inference
 title: The ladder of inference
-slug: ladder-of-inference
 description: Avoid jumping to conclusions too fast. Make decisions based on real data
 tags:
   - Communication

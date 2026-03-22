@@ -1,7 +1,6 @@
 ---
-id: 8d1a9bd4e642251a
+id: consent-decision-making
 title: Consent Decision-Making
-slug: consent-decision-making
 description: >-
   Make "good enough" decisions when speed is needed, proposals are clearly
   defined, and the impact of decisions is limited and reversible.

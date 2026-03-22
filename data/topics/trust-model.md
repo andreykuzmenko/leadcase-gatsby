@@ -1,7 +1,6 @@
 ---
-id: 2f25a8d00f8caac9
+id: trust-model
 title: ABCD Trust Model
-slug: trust-model
 description: Build trust with people supported by actions and behavior
 tags:
   - Self-awareness

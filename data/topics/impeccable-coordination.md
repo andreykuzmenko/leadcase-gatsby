@@ -1,7 +1,6 @@
 ---
-id: 533874c9064acb1a
+id: impeccable-coordination
 title: Impeccable Coordination
-slug: impeccable-coordination
 description: Coordinate agreements and actions through commitments
 topicType: Tool
 tags:

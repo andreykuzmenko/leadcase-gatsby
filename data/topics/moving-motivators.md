@@ -1,7 +1,6 @@
 ---
-id: b1b3db00b6277a9f
+id: moving-motivators
 title: Moving Motivators
-slug: moving-motivators
 description: Work with motivators of your team members to keep them engaged
 tags:
   - Team activation

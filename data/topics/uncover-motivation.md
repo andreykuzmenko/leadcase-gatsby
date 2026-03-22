@@ -1,7 +1,6 @@
 ---
-id: 6fb334f79055dbcb
+id: uncover-motivation
 title: Uncover Motivation
-slug: uncover-motivation
 description: Find out what motivates your team members
 tags:
   - Coaching
