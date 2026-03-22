@@ -139,7 +139,7 @@ export const query = graphql`
         orderRank
       }
     }
-    allTopic {
+    allTopic(sort: { orderRank: ASC }) {
       nodes {
         apiId
         slug

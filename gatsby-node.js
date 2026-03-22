@@ -22,6 +22,10 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
   })
   reporter.info(`Loaded ${tags.length} tags from data/tags.json`)
 
+  // Load topic order
+  const topicOrder = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'topic-order.json'), 'utf8'))
+  const orderMap = Object.fromEntries(topicOrder.map((slug, i) => [slug, i]))
+
   // Load topics from individual JSON files
   const files = fs.readdirSync(TOPICS_DIR).filter(f => f.endsWith('.json'))
   files.forEach(file => {
@@ -31,6 +35,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
       title: detail.title?.trim() || '',
       description: detail.description || '',
       slug: detail.slug,
+      orderRank: orderMap[detail.slug] ?? 999,
       imageUrl: detail.image?.url || '',
       imageWidth: detail.image?.width || 400,
       imageHeight: detail.image?.height || 400,
