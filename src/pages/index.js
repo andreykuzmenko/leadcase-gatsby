@@ -1,14 +1,33 @@
-import React, { useState, useMemo } from 'react'
-import { graphql } from 'gatsby'
+import React, { useState, useMemo, useEffect } from 'react'
+import { graphql, navigate } from 'gatsby'
 import { getImage } from 'gatsby-plugin-image'
 import Layout from '../components/Layout'
 import TopicCard from '../components/TopicCard'
 
-const IndexPage = ({ data }) => {
-  const [activeTag, setActiveTag] = useState(null)
-
+const IndexPage = ({ data, location }) => {
   const tags = data.allTag.nodes
   const topics = data.allTopic.nodes
+
+  const getTagFromUrl = () => {
+    if (typeof window === 'undefined') return null
+    const params = new URLSearchParams(location.search)
+    return params.get('tag') || null
+  }
+
+  const [activeTag, setActiveTag] = useState(getTagFromUrl)
+
+  useEffect(() => {
+    setActiveTag(getTagFromUrl())
+  }, [location.search])
+
+  const selectTag = (tagId) => {
+    setActiveTag(tagId)
+    if (tagId) {
+      navigate(`/?tag=${tagId}`, { replace: true })
+    } else {
+      navigate('/', { replace: true })
+    }
+  }
 
   const filtered = useMemo(() => {
     if (!activeTag) return topics
@@ -50,7 +69,7 @@ const IndexPage = ({ data }) => {
             marginBottom: 32,
           }}>
             <button
-              onClick={() => setActiveTag(null)}
+              onClick={() => selectTag(null)}
               style={{
                 padding: '8px 20px',
                 borderRadius: 99,
@@ -69,7 +88,7 @@ const IndexPage = ({ data }) => {
             {tags.map(tag => (
               <button
                 key={tag.apiId}
-                onClick={() => setActiveTag(activeTag === tag.apiId ? null : tag.apiId)}
+                onClick={() => selectTag(activeTag === tag.apiId ? null : tag.apiId)}
                 style={{
                   padding: '8px 20px',
                   borderRadius: 99,
