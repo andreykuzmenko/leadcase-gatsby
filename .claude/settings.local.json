@@ -25,7 +25,26 @@
       "Bash(git rm:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(curl -s \"https://andreykuzmenko.github.io/leadcase-gatsby/topics/30-60-90/\")",
+      "Bash(curl -s -L \"https://andreykuzmenko.github.io/leadcase-gatsby/topics/30-60-90/\")",
+      "Bash(curl -s -L -w \"\\\\nHTTP_CODE:%{http_code}\" \"https://andreykuzmenko.github.io/leadcase-gatsby/\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"https://andreykuzmenko.github.io/leadcase-gatsby/images/cards/4c68634b2779d429.png\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"https://andreykuzmenko.github.io/leadcase-gatsby/images/cards/7c5eccebe8c4f7c8.png\")",
+      "Bash(dig app.leadcase.net +short)",
+      "Bash(npx gh-pages:*)",
+      "Bash(git -C /Users/Andrii/Documents/Development/Leadcase diff)",
+      "Bash(git -C /Users/Andrii/Documents/Development/Leadcase status)",
+      "Bash(git -C /Users/Andrii/Documents/Development/Leadcase add gatsby-config.js)",
+      "Bash(git -C:*)",
+      "Bash(curl -sI \"https://app.leadcase.net/\")",
+      "Bash(curl -s \"https://app.leadcase.net/\")",
+      "Bash(curl -s \"https://api.leadcase.net/api/topics?top=200&skip=0&tagId=&text=&showSavedOnly=false&behaviorId=\")",
+      "Bash(node -e \"const d=require\\(''''fs''''\\).readFileSync\\(''''/dev/stdin'''',''''utf8''''\\); const t=JSON.parse\\(d\\); t.forEach\\(\\(t,i\\)=>console.log\\(i+1, t.slug\\)\\)\")",
+      "Bash(curl -s -L \"https://app.leadcase.net/\")",
+      "Bash(curl -s \"https://app.leadcase.net/page-data/index/page-data.json\")",
+      "Bash(node scripts/json-to-md.js)",
+      "Bash(xargs kill:*)"
     ]
   }
 }

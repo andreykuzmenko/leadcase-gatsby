@@ -1,0 +1,52 @@
+---
+id: a30ab4ec091cbf54
+title: GROW
+slug: grow
+description: Coaching model for goal setting and problem solving
+topicType: Tool
+tags:
+  - Coaching
+  - People development
+links:
+  - title: The GROW Model
+    url: 'https://www.coachingcultureatwork.com/the-grow-model/'
+    minutes: 7
+  - title: The GROW Model Explained for Coaches
+    url: >-
+      https://www.thecoachingtoolscompany.com/the-grow-model-explained-for-coaches-questions-tips-more/
+    minutes: 15
+  - title: What Is the GROW Coaching Model? (Incl. Examples)
+    url: 'https://positivepsychology.com/grow-coaching-model/'
+    minutes: 15
+whatDescription: • You are developing people in the team.
+howDescription: |-
+  • How to use the GROW coaching model?
+  • Questions that may be useful at each stage of the GROW model.
+---
+## 💪 Development of people
+
+<p>The success of any company depends on its employees, so their effectiveness and motivation are the leader's primary tasks. How to achieve the desired results from people? How to open their potential? How to increase self-esteem and professional skills?</p><p><strong>The answers to these questions can be found in coaching</strong>, which the leader can apply when working with people. It allows him not only to get better at knowing his subordinates but also to develop their leadership skills, the ability to make more reasoned managerial decisions, and thus, invest in the future of their company.</p><p>There are many different coaching models, but the simplest and most effective is <strong>the GROW model</strong>.</p><p>Let's figure out how to use it!</p>
+
+## 💎Model GROW
+
+<p>The GROW model is a structured coaching method that will help you (the coach) define the goal for the talk (session) with your colleague (client), understand what is hindering them, brainstorm ideas, and finally make a decision about specific actions.</p><h3>GROW structure</h3><ol><li><strong>Goal.</strong> Choose the goal or required result of the meeting.</li><li><strong>Reality.</strong> Investigate where the person is regarding the topic/goal, what is happening now, and what is blocking them.</li><li><strong>Options.</strong> Explore ideas and brainstorm what can be done to move forward.</li><li><strong>Will / Way Forward.</strong> Determine the actions that can be taken to move forward.</li></ol><p>Let's take a closer look at each stage with examples of questions that can be asked.</p>
+
+## 🎯 Goal
+
+<p>One of the features of coaching is that we focus on action and change. That's why it is important to <strong>understand the goal essential part of the conversation.</strong></p><h3>Examples of questions:</h3><ul><li>What do you want to achieve?</li><li>Which result will be the best for you?</li><li>How will you know that it is precisely the result you were aiming for?</li><li>What criteria will you use to assess the success of achieving the result?</li><li>What is essential for you to in achieving this goal?</li><li>How achieving this goal will affect all areas of your life?</li><li>What will happen when you achieve the result?</li><li>What will you get that you don't have now?</li></ul><p><em>The task of this stage is not only to set a goal but also to increase awareness of why you want to achieve it and what it will give you.</em></p>
+
+## 🔍 Reality
+
+<p>At this stage we are trying to <strong>understand the current situation</strong>. Reality can include conversations about feelings and immersing ourselves in emotions. You are also exploring beliefs, internal feelings, and intuition.</p><h3>Example Questions:</h3><ul><li>What's happening right now?</li><li>What worries you the most?</li><li>On a ten-point scale, with 10 being an ideal situation, what point are you at right now? And what point would you like to be at?</li><li>How is this affecting other areas of your life?</li><li>Who else is involved in the situation?</li><li>What have you already done and are doing to solve this problem?</li><li>What resources are there to achieve the goal?</li><li>What factors have influenced your decision?</li></ul>
+
+## 🤔 Options
+
+<p>If your colleague could solve their problems independently, they would do it. Often they need help in a brainstorming session or support to take the action they have been putting off.</p><h3>Examples of Questions:</h3><ul><li>If everything was possible, what would you do?</li><li>What have you done in the past to solve a similar problem?</li><li>What obstacles are in your way?</li><li>If you had a choice, what would you do?</li><li>If you were in the best shape, what would you do now?</li><li>What could you do if you knew you couldn't fail?</li><li>What steps could you take?</li><li>Who could help you with this?</li><li>What could someone else do in your place?</li></ul><p><em>Remember, in a brainstorming session, anything is possible! Literally anything. It is here that the client can come up with their wildest and craziest ideas: who knows what practical or achievable ideas may arise?</em></p>
+
+## 💡 Wrap-up/ Way Forward
+
+<p>The essence of coaching is to facilitate changes. Usually, but not always, this means that <strong>the client takes some action</strong>. Another key part of this stage is ensuring that your colleague is fully committed to their chosen actions.</p><h3>Examples of questions:</h3><ul><li>What will you do?</li><li>How will you do it?</li><li>What will be your first step?</li><li>When will you do it?</li><li>Is there anything that needs to be considered before taking action?</li><li>Will you achieve your goal?</li><li>What support do you need?</li><li>What obstacles are there?</li><li class="ql-align-justify">Have you considered all the options and possibilities?</li><li class="ql-align-justify">How can you maintain motivation until the end of the journey?</li><li>On a scale of 1 to 10, how sure are you that you can do this?</li></ul>
+
+## 🔋 T-GROW
+
+<p>One of the variations of the GROW model is its extended version T-GROW, where T stands for Topic, the topic the client wants to talk about. Use <strong>the Topic</strong> when the client comes to the meeting not knowing what to work on specifically or when they have several potential goals to choose from.</p><h3>Example questions:</h3><ul><li>How are you doing? (A tremendous open question to start)</li><li>What could we work on to help you the most over the next few weeks?</li><li>What ideas do you have in mind for this meeting?</li><li>What has been going well for you since our last meeting?</li><li>What has been not working for you lately?</li><li>I'm curious. How can I best support you this week?</li><li>What has been concerning you lately?</li><li>Which area of your life needs tuning up the most?</li></ul>

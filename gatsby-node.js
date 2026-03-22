@@ -1,14 +1,39 @@
 const fs = require('fs')
 const path = require('path')
+const matter = require('gray-matter')
 
 const DATA_DIR = path.join(__dirname, 'data')
 const TOPICS_DIR = path.join(DATA_DIR, 'topics')
+
+function parseCards(body) {
+  const sections = body.split(/^## /m).filter(s => s.trim())
+  return sections.map((section, i) => {
+    const newline = section.indexOf('\n')
+    const title = newline === -1 ? section.trim() : section.slice(0, newline).trim()
+    const rest = newline === -1 ? '' : section.slice(newline + 1)
+
+    const imageMatch = rest.match(/^<!--\s*image:\s*(.+?)\s*-->/)
+    const imageLocalUrl = imageMatch ? imageMatch[1].trim() : null
+    const text = imageMatch
+      ? rest.replace(/^<!--\s*image:\s*.+?\s*-->\n?/, '').trim()
+      : rest.trim()
+
+    return {
+      id: `card-${i}`,
+      title,
+      text,
+      orderRank: i,
+      image: imageLocalUrl ? { localUrl: imageLocalUrl } : null,
+    }
+  })
+}
 
 exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter }) => {
   const { createNode } = actions
 
   // Load tags
   const tags = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'tags.json'), 'utf8'))
+  const tagByTitle = Object.fromEntries(tags.map(t => [t.title, t]))
   tags.forEach(tag => {
     createNode({
       ...tag,
@@ -26,34 +51,41 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
   const topicOrder = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'topic-order.json'), 'utf8'))
   const orderMap = Object.fromEntries(topicOrder.map((slug, i) => [slug, i]))
 
-  // Load topics from individual JSON files
-  const files = fs.readdirSync(TOPICS_DIR).filter(f => f.endsWith('.json'))
+  // Load topics from .md files
+  const files = fs.readdirSync(TOPICS_DIR).filter(f => f.endsWith('.md'))
   files.forEach(file => {
-    const detail = JSON.parse(fs.readFileSync(path.join(TOPICS_DIR, file), 'utf8'))
+    const raw = fs.readFileSync(path.join(TOPICS_DIR, file), 'utf8')
+    const { data: fm, content: body } = matter(raw)
+
+    const tagObjects = (fm.tags || []).map(title => {
+      const tag = tagByTitle[title]
+      if (!tag) reporter.warn(`Unknown tag "${title}" in ${file}`)
+      return tag
+    }).filter(Boolean)
+
+    const cards = parseCards(body)
+
     createNode({
-      apiId: detail.id,
-      title: detail.title?.trim() || '',
-      description: detail.description || '',
-      slug: detail.slug,
-      orderRank: orderMap[detail.slug] ?? 999,
-      imageUrl: detail.image?.url || '',
-      imageWidth: detail.image?.width || 400,
-      imageHeight: detail.image?.height || 400,
-      topicType: detail.topicType?.name || null,
-      tagIds: (detail.tags || []).map(t => t.id),
-      tagTitles: (detail.tags || []).map(t => t.title),
-      whatDescription: detail.whatDescription || '',
-      howDescription: detail.howDescription || '',
-      links: JSON.stringify(detail.links || []),
-      cards: JSON.stringify(detail.cards || []),
-      id: createNodeId(`Topic-${detail.id}`),
+      apiId: fm.id,
+      title: (fm.title || '').trim(),
+      description: fm.description || '',
+      slug: fm.slug,
+      orderRank: orderMap[fm.slug] ?? 999,
+      topicType: fm.topicType || null,
+      tagIds: tagObjects.map(t => t.id),
+      tagTitles: tagObjects.map(t => t.title),
+      whatDescription: fm.whatDescription || '',
+      howDescription: fm.howDescription || '',
+      links: JSON.stringify(fm.links || []),
+      cards: JSON.stringify(cards),
+      id: createNodeId(`Topic-${fm.id}`),
       internal: {
         type: 'Topic',
-        contentDigest: createContentDigest(detail),
+        contentDigest: createContentDigest(raw),
       },
     })
   })
-  reporter.info(`Loaded ${files.length} topics from data/topics/`)
+  reporter.info(`Loaded ${files.length} topics from data/topics/*.md`)
 }
 
 exports.createResolvers = ({ createResolvers }) => {

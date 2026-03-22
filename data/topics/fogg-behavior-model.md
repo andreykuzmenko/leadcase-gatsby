@@ -1,0 +1,49 @@
+---
+id: 67abd01592bf3eae
+title: Fogg Behavior Model
+slug: fogg-behavior-model
+description: 'Align motivation, ability, and cues to trigger desired behaviors'
+tags:
+  - Self-awareness
+  - Change Management
+links: []
+---
+## 🙄 Unlocking Behavior Change
+
+<p><span style="color: rgb(13, 13, 13);">Have you ever wondered why certain apps on your phone are irresistible, leading you to spend more time than intended, or why some habits stick while others never take off? </span></p><p><span style="color: rgb(13, 13, 13);">The secret lies not just in the design or your willpower but in </span><strong style="color: rgb(13, 13, 13);">understanding the underlying psychology of behavior</strong><span style="color: rgb(13, 13, 13);">. Enter the Fogg Behavior Model (FBM), a framework developed by Dr. B.J. Fogg, which unlocks the mysteries of behavior change. This </span><strong style="color: rgb(13, 13, 13);">model</strong><span style="color: rgb(13, 13, 13);"> </span><strong style="color: rgb(13, 13, 13);">offers a powerful lens </strong><span style="color: rgb(13, 13, 13);">through which to view the complexities of human actions, making it invaluable for designers, marketers, and anyone interested in influencing behavior. </span></p><p><span style="color: rgb(13, 13, 13);">If you're struggling to motivate yourself or others to adopt new behaviors, the Fogg Behavior Model provides a structured approach to understanding and facilitating change.</span></p>
+
+## 💡 The Fogg Behavior Model
+
+<!-- image: /images/cards/ad130b24a225b16.png -->
+
+<p>The Fogg Behavior Model (FBM) comprises three main components that are essential for a behavior (or habit) to occur. These parts are:</p><ol><li><strong>Motivation</strong> (the desire to perform the behavior).</li><li><strong>Ability </strong>(refers to the ease with which the behavior can be performed).</li><li><strong>Prompt </strong>(also known as a trigger, this is the cue that initiates the behavior).</li></ol><p><span style="color: rgb(25, 54, 84);">When a combination of motivation and ability places an individual above the activation threshold, a trigger will lead that person to perform the target behavior. If a person is placed below the activation threshold, then a prompt will have no effect.</span></p><p>Let's look at each part of the model in detail.</p>
+
+## 🧠 Motivation
+
+<p><strong>Motivation </strong><span style="color: rgb(13, 13, 13);">refers to the desire to perform a behavior</span>. The FBM identifies three primary motivators:</p><ul><li><strong>Sensation. </strong>It is <span style="color: rgb(25, 54, 84);">driven by our pursuit of pleasure and the avoidance of pain</span>. <span style="color: rgb(25, 54, 84);">Sensation is typically the physical level of motivation. After all, it can either drive individuals towards positive physical sensations or push them away from negative ones.</span></li><li><strong>Anticipation. </strong><span style="color: rgb(25, 54, 84);">It is divided further into two distinct categories: hope and fear. Hope considers our anticipation of something good happening. Fear, on the other hand, is the anticipation of something bad happening.</span></li><li><strong>Belonging. </strong><span style="color: rgb(25, 54, 84);">Humans are social animals. In fact, we have an inherent desire to feel like we belong and fit in with others. We also seek to avoid rejection where possible. This is why social acceptance and status are such powerful motivators.</span></li></ul><p>These motivators can either inspire the adoption of a habit or deter it.</p>
+
+## 💪 Ability
+
+<p><strong>Ability </strong><span style="color: rgb(13, 13, 13);">focuses on the individual's capacity to perform the behavior</span>. Factors influencing ability include:</p><ul><li><strong>Time</strong>.<span style="color: rgb(25, 54, 84);">&nbsp;The less time it takes to complete an action, the more likely you will do it.</span></li><li><strong>Money</strong>. I<span style="color: rgb(25, 54, 84);">f you can’t afford to perform a specific </span>behavior, your ability to carry it out<span style="color: rgb(25, 54, 84);"> will be low. Indeed, the more money something will cost you, the more motivation you’ll need to do it.</span></li><li><strong>Physical effort. </strong>W<span style="color: rgb(25, 54, 84);">e are more likely to take action when it requires less physical effort.</span></li><li><strong>Mental effort</strong>. We tend to build habits and do familiar tasks on ‘autopilot.’</li><li><strong>Social norms</strong>. <span style="color: rgb(25, 54, 84);">People don’t like to go against the grain, which is why it’s difficult to perform behaviors that clash with social norms.</span></li></ul><p>The simpler it is to engage in a habit, the more likely it will be adopted.</p>
+
+## ⏰ Prompt
+
+<!-- image: /images/cards/beea166bf82f2660.png -->
+
+<p>A <strong>Prompt</strong> is the cue that triggers a behavior. These triggers can come from people, objects, or environments. This can extend into things like notifications and icons in a digital environment.</p><p>Prompts must occur at the right time to have an impact. In fact, the prompt has to occur when an individual is supposed to perform the target behavior.</p><p>The Fogg Behavior Model names <strong>three types of Prompts</strong>:</p><ol><li>Facilitator</li><li>Spark</li><li>Signal</li></ol>
+
+## 🧙‍♀️ Facilitator Prompt
+
+<p><strong>Facilitators</strong> work by breaking down barriers that stop people from taking action, especially when they're motivated but feel stuck because something seems too difficult or confusing.</p><p>Think of it as having a <strong>friend who makes a hard task easier</strong>. Like if you're excited to eat healthier but don't know what meals to prepare. A facilitator in this case could be a simple app that gives you easy, healthy recipes every day.</p><p>So, this kind of help not only gets you started on a healthier eating path but also supports you in sticking with it, making the whole process feel less daunting and more doable.</p>
+
+## 💥 Spark Prompt
+
+<p><strong>Sparks </strong>are special nudges used when someone can easily do something but is not motivated. Their main job is to <strong>kickstart motivation</strong> by prompting an action or behavior. The idea is to pair the nudge with something that gets people excited or motivated.</p><p>For instance, it might be simple to wake up after a good night's sleep, but the thought of leaving a cozy bed isn't always appealing. In this situation, placing an alarm clock across the room could be your spark. The need to get up and turn it off can motivate you to get out of bed.</p><p>Sparks are ideal for times when you're capable but need that extra push to get moving.</p>
+
+## ⏱️ Signal Prompt
+
+<p><strong>Signals</strong> come into play when people are both motivated and able to do something. These nudges are mostly just reminders, like a sticky note or a phone alert.</p><p>Signals are more for letting you know rather than making you want to do something or making it easier. Sometimes, people just aren't aware they can do a certain action. When that's the case, a signal gives them the heads-up to go ahead.</p>
+
+## 👉 How to Apply the Framework
+
+<ol><li><strong style="color: var(--tw-prose-bold);">Identify the Behavior.</strong> Clearly define the specific behavior you want to encourage. Be as precise as possible.</li><li><strong style="color: var(--tw-prose-bold);">Assess Motivation.</strong> Evaluate the current level of motivation towards the behavior. Consider ways to increase motivation through rewards, social proof, or highlighting benefits.</li><li><strong style="color: var(--tw-prose-bold);">Enhance Ability.</strong> Make the behavior as easy to do as possible. This might involve simplifying processes, providing resources, or removing barriers that might deter the behavior.</li><li><strong style="color: var(--tw-prose-bold);">Design Effective Prompts.</strong> Determine the most effective way to prompt the behavior. This could involve setting up external reminders or linking the behavior to an existing habit.</li><li><strong style="color: var(--tw-prose-bold);">Test and Refine.</strong> Like any model, the FBM is a starting point. Experiment with different approaches to motivation, ability, and prompts, and refine based on what works best in your context.</li></ol>

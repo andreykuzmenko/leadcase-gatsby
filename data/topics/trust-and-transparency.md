@@ -1,0 +1,46 @@
+---
+id: fd1f2153d231efb9
+title: Matrix of trust and transparency
+slug: trust-and-transparency
+description: >-
+  Build relationships with people through transparency to have a high level of
+  trust
+tags:
+  - Communication
+links: []
+whatDescription: '- You have trust issues with a customer, team or colleague'
+howDescription: |-
+  - The link between trust and transparency
+  - What to do to increase trust
+---
+## 😫 Problems with trust
+
+<p>How often do you face a situation where you have no trust in your relationship with a client, colleague, or manager? As a result, they question your decisions, nitpick, and demotivate you or your team.</p><p>What is missing in the relationship to make your cooperation long and fruitful?</p><p>The <strong>matrix of trust and transparency </strong>will help to deal with this.</p><p>Let's try to look at the example of working with a client. This, in turn, can be applied to colleagues, managers, and other stakeholders.</p>
+
+## Low trust and low transparency
+
+<!-- image: /images/cards/57d106543d0467c4.png -->
+
+<p>New client relationships usually start in a square of low trust and low transparency. Even if the other side says they trust you as themselves, you haven't worked together yet, and there's minimal trust."</p><p><em>To increase trust, start building transparency.</em></p><h3>How to increase transparency.</h3><ul><li><strong>First meeting. </strong>Introduce the client to your team, and tell about the processes and approaches used.</li><li><strong>Communication plan. </strong>Discuss the tools and frequency of meetings.</li><li><strong>Progress reporting. </strong>Discuss the template and frequency of progress reports.</li><li><strong>Results. </strong>Show the client the results of the work done at regular intervals</li></ul>
+
+## Low trust and high transparency
+
+<!-- image: /images/cards/8586ba64c58a860.png -->
+
+<p>If we have managed to increase transparency, we move to square B (low trust and high transparency) - the customer has begun to understand the project's<em> What, How, and Why</em>. The most important thing is not to slow down. And, of course, the <strong>result </strong>is an essential element for increasing trust.</p><h3>What can help?</h3><p>If an unforeseen problem arises on the project, try to find solutions before going to the customer. In any case, you need to talk about issues openly, not hide them. Your proactivity in terms of problem-solving will show engagement.</p>
+
+## High trust and high transparency
+
+<!-- image: /images/cards/30f093eeee4c85b0.png -->
+
+<p>If you've moved to the <strong>high trust and transparency</strong> square, the most important thing is not to relax and keep all agreements.</p><p><strong>Trust</strong> is the best thing that can come from cooperation.</p>
+
+## High trust and low transparency
+
+<!-- image: /images/cards/7a5ed96b985d863d.png -->
+
+<p>On long projects, the relationship with the client can slip into a square of high trust and low transparency. The client may start to distance themselves from the project work due to trust at some point. The main danger here is that if we somehow let the client down, we can fall back to the very beginning (square A), losing everything we've built with such effort. This will affect not only your relationship with the customer but also your team's motivation.</p><p>Keep transparency at a high level at all times!</p>
+
+## 👉 How to apply the tool?
+
+<ol><li>Draw a 2-by-2 matrix on a piece of paper with the axes of Trust and Transparency.</li><li>Put a dot in the square where you think the relationship with the customer of your work is. It could be an external customer, an internal customer, a neighboring department, or your boss.</li><li>Ask yourself the question: "Why do you think so?", "Why do you think your relationship is there?", "Do you think there is enough transparency and no trust?", "Then why is there no trust?", "By what signs do you understand that the customer is sufficiently aware of your work?"</li></ol><p><strong>The best way to understand where your relationship is to ask.</strong></p>

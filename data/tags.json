@@ -46,5 +46,17 @@
     "title": "Problem solving",
     "key": "Problem-Solving",
     "orderRank": 12
+  },
+  {
+    "id": "34ca5abdd3997e13",
+    "title": "Mentoring",
+    "key": "Mentoring",
+    "orderRank": 13
+  },
+  {
+    "id": "14b7e3f7e4683221",
+    "title": "People development",
+    "key": "People-Development",
+    "orderRank": 14
   }
 ]
