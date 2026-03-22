@@ -12,10 +12,10 @@ function parseCards(body) {
     const title = newline === -1 ? section.trim() : section.slice(0, newline).trim()
     const rest = newline === -1 ? '' : section.slice(newline + 1)
 
-    const imageMatch = rest.match(/^<!--\s*image:\s*(.+?)\s*-->/)
+    const imageMatch = rest.match(/<!--\s*image:\s*(.+?)\s*-->/)
     const imageLocalUrl = imageMatch ? imageMatch[1].trim() : null
     const text = imageMatch
-      ? rest.replace(/^<!--\s*image:\s*.+?\s*-->\n?/, '').trim()
+      ? rest.replace(/<!--\s*image:\s*.+?\s*-->\n?/, '').trim()
       : rest.trim()
 
     return {
