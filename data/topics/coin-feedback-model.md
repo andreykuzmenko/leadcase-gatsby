@@ -6,6 +6,9 @@ description: 'Correct behavior by giving clear, structured, and actionable feedb
 tags:
   - Team activation
 links: []
+related:
+  - competence-development-cycle
+  - consent-decision-making
 ---
 ## 🤯 Challenges with feedback
 

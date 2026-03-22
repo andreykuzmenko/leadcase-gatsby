@@ -6,6 +6,9 @@ description: Navigate and manage change through emotional and psychological stag
 tags:
   - Change Management
 links: []
+related:
+  - fogg-behavior-model
+  - iceberg
 ---
 ## 😬 Transforming Through Change
 

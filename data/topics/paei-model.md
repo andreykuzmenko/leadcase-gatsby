@@ -6,6 +6,9 @@ description: Balance team roles for optimal efficiency and results.
 tags:
   - Team activation
 links: []
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## ⚖️ Balancing results and efficiency
 

@@ -15,6 +15,9 @@ links:
   - title: Brainwriting Template
     url: 'https://miro.com/templates/brainwriting/'
     minutes: 3
+related:
+  - 1-2-4-all
+  - idoarrt
 ---
 ## 👀 The effectiveness of brainstorming sessions
 

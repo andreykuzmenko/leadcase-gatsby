@@ -13,6 +13,9 @@ links:
   - title: Understanding the Kubler-Ross Change Curve
     url: 'https://www.cleverism.com/understanding-kubler-ross-change-curve/'
     minutes: 7
+related:
+  - fogg-behavior-model
+  - iceberg
 ---
 ## 🥶 Response to changes
 

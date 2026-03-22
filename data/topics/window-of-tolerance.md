@@ -17,6 +17,9 @@ links:
     url: >-
       https://www.psychologytoday.com/intl/blog/making-the-whole-beautiful/202205/what-is-the-window-tolerance-and-why-is-it-so-important
     minutes: 4
+related:
+  - feedback-staircase
+  - fogg-behavior-model
 ---
 ## 🤯 Emotions
 

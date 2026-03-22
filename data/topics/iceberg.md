@@ -14,6 +14,9 @@ links:
     url: >-
       https://uxdesign.cc/visualizing-the-systems-behind-our-designs-7a7c95b4cfb2
     minutes: 3
+related:
+  - fogg-behavior-model
+  - kubler-ross
 ---
 ## 💡 The essence of the idea
 

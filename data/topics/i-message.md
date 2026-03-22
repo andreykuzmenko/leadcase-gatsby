@@ -15,6 +15,9 @@ links:
   - title: I-message
     url: 'https://en.wikipedia.org/wiki/I-message'
     minutes: 7
+related:
+  - conflict-escalation-model
+  - impeccable-coordination
 ---
 ## 😡 Conflicts
 

@@ -6,6 +6,9 @@ description: Assess internal and external factors to guide decision-making
 tags:
   - Decision-Making
 links: []
+related:
+  - assumption-map
+  - cynefin
 ---
 ## 🗺️ Navigating Key Decisions
 

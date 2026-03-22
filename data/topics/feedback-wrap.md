@@ -12,6 +12,9 @@ links:
   - title: How to apply a Feedback Wrap
     url: 'https://management30.com/practice/feedback-wraps/'
     minutes: 3
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 💎 The importance of feedback
 

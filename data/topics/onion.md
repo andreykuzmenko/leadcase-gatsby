@@ -18,6 +18,9 @@ links:
   - title: The Conflict Layer Model
     url: 'http://www.free-management-ebooks.com/news/conflict-layer-model/'
     minutes: 5
+related:
+  - conflict-escalation-model
+  - i-message
 ---
 ## 😡 Conflict situations
 

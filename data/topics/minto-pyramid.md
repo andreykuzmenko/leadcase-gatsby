@@ -19,6 +19,9 @@ links:
   - title: 'Video: The Minto Pyramid Principle Explained with Examples'
     url: 'https://www.youtube.com/watch?v=j4Y3TdVVBCA'
     minutes: 8
+related:
+  - conflict-escalation-model
+  - i-message
 ---
 ## 🧠 Conveying your thoughts
 

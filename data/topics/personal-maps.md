@@ -16,6 +16,9 @@ links:
     url: >-
       https://www.andycleff.com/2021/02/personal-maps-getting-to-know-the-whole-human-being/
     minutes: 4
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 🤝 Team relations
 

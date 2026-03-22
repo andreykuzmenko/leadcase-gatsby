@@ -7,6 +7,9 @@ tags:
   - Team activation
   - Self-awareness
 links: []
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 🧗‍♂️ The Challenge of Receiving Feedback
 

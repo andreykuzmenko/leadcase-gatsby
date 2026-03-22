@@ -77,6 +77,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
       tagIds: tagObjects.map(t => t.id),
       tagTitles: tagObjects.map(t => t.title),
       links: JSON.stringify(fm.links || []),
+      related: fm.related || [],
       cards: JSON.stringify(cards),
       id: createNodeId(`Topic-${fm.id}`),
       internal: {
@@ -117,7 +118,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       allTopic(sort: { orderRank: ASC }) {
         nodes {
           slug
-          tagIds
+          related
         }
       }
     }
@@ -131,16 +132,11 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const allTopics = result.data.allTopic.nodes
   const topicTemplate = require.resolve('./src/templates/topic.js')
 
-  allTopics.forEach(({ slug, tagIds }) => {
-    const relatedSlugs = allTopics
-      .filter(t => t.slug !== slug && t.tagIds.some(id => tagIds.includes(id)))
-      .slice(0, 2)
-      .map(t => t.slug)
-
+  allTopics.forEach(({ slug, related }) => {
     createPage({
       path: `/topics/${slug}`,
       component: topicTemplate,
-      context: { slug, relatedSlugs },
+      context: { slug, relatedSlugs: related || [] },
     })
   })
 

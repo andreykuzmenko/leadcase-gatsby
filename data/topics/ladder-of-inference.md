@@ -17,6 +17,9 @@ links:
   - title: The Ladder of Inference
     url: 'https://thesystemsthinker.com/the-ladder-of-inference/'
     minutes: 3
+related:
+  - conflict-escalation-model
+  - i-message
 ---
 ## ❌ Errors in decision making
 

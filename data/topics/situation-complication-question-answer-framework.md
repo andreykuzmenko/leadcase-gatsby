@@ -8,6 +8,9 @@ description: >-
 tags:
   - Communication
 links: []
+related:
+  - conflict-escalation-model
+  - i-message
 ---
 ## 🤯 Structuring of Information
 

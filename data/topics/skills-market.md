@@ -18,6 +18,9 @@ links:
   - title: Skills Market
     url: 'https://pipdecks.com/pages/skills-market'
     minutes: 2
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 💎 Hidden potential
 

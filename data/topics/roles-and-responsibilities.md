@@ -20,6 +20,9 @@ links:
     url: >-
       https://hackernoon.com/a-guide-on-how-to-facilitate-a-roles-and-responsibilities-workshop-ftce3t6f
     minutes: 7
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 😤 Source of conflicts
 

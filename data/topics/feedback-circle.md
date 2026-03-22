@@ -10,6 +10,9 @@ links:
   - title: 'The Feedback Game, Modified'
     url: 'https://medium.com/designstrat/the-feedback-game-modified-a9608473ea89'
     minutes: 8
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 💎 Feedback
 

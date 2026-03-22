@@ -6,6 +6,9 @@ description: Understanding the dynamics of conflict for effective resolution
 tags:
   - Communication
 links: []
+related:
+  - i-message
+  - impeccable-coordination
 ---
 ## 🤔 Recognizing the conflict
 

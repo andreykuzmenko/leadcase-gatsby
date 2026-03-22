@@ -15,6 +15,9 @@ links:
   - title: The Johari Window Exercise - Increase self-awareness and team awareness
     url: 'https://www.fearlessculture.design/blog-posts/the-johari-window'
     minutes: 7
+related:
+  - 30-60-90
+  - feedback-staircase
 ---
 ## 💡 What is Johari's window?
 

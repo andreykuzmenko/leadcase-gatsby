@@ -18,6 +18,9 @@ links:
   - title: What Is the GROW Coaching Model? (Incl. Examples)
     url: 'https://positivepsychology.com/grow-coaching-model/'
     minutes: 15
+related:
+  - 30-60-90
+  - intrinsic-motivation
 ---
 ## 💪 Development of people
 

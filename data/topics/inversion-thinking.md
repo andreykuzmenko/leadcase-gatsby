@@ -7,6 +7,9 @@ tags:
   - Decision-Making
   - Problem solving
 links: []
+related:
+  - assumption-map
+  - cynefin
 ---
 ## 🔍 Introduction
 

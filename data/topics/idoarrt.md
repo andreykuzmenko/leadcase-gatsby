@@ -21,6 +21,9 @@ links:
   - title: 'IDOARRT: Lead Effective Meetings'
     url: 'https://miro.com/miroverse/idoarrt-lead-effective-meetings/'
     minutes: 2
+related:
+  - 1-2-4-all
+  - brainwriting
 ---
 ## 🗑️ Waste of time
 

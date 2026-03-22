@@ -12,6 +12,9 @@ links:
   - title: The Conscious Competence Ladder
     url: 'https://www.mindtools.com/pages/article/newISS_96.htm'
     minutes: 10
+related:
+  - coin-feedback-model
+  - consent-decision-making
 ---
 ## 🤯 Overcoming Learning Challenges
 

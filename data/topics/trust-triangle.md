@@ -9,6 +9,9 @@ links:
   - title: Begin with Trust
     url: 'https://hbr.org/2020/05/begin-with-trust'
     minutes: 10
+related:
+  - feedback-staircase
+  - fogg-behavior-model
 ---
 ## 💪 Leadership and trust
 

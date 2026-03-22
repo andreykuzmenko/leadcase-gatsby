@@ -10,6 +10,9 @@ links:
   - title: 'Uncover Motivations 1:1'
     url: 'https://miro.com/miroverse/uncover-motivations-1-1/'
     minutes: 1
+related:
+  - 30-60-90
+  - grow
 ---
 ## 🔐 Motivating people
 

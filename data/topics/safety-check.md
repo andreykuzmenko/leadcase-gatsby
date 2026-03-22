@@ -12,6 +12,9 @@ links:
   - title: Identify dynamics of effective teams
     url: 'https://rework.withgoogle.com/print/guides/5721312655835136/'
     minutes: 10
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## ⛑ Lack of trust
 

@@ -22,6 +22,9 @@ links:
     url: >-
       https://www.fearlessculture.design/blog-posts/make-good-decisions-faster-move-from-consensus-to-consent
     minutes: 10
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 🤯 Difficulties in decision-making
 

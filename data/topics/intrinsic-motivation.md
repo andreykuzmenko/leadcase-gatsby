@@ -13,6 +13,9 @@ links:
   - title: 'RSA ANIMATE: Drive: The surprising truth about what motivates us'
     url: 'https://www.youtube.com/watch?v=u6XAPnuFjJc'
     minutes: 11
+related:
+  - feedback-staircase
+  - fogg-behavior-model
 ---
 ## 🤑 What is your motivation?
 

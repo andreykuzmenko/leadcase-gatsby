@@ -18,6 +18,8 @@ links:
     url: >-
       https://medium.com/@simastorgovickis/the-improvement-kata-canvas-98d7f6f07822
     minutes: 10
+related:
+  - inversion-thinking
 ---
 ## 🤯 Solving problems
 

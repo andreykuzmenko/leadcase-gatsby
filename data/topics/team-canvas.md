@@ -13,6 +13,9 @@ links:
   - title: How To Use Team Canvas
     url: 'http://theteamcanvas.com/use/'
     minutes: 5
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 🎓 What is Team Canvas?
 

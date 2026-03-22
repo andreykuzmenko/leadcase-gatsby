@@ -13,6 +13,9 @@ links:
   - title: '7 quick and easy steps to creating a decision matrix, with examples'
     url: 'https://asana.com/resources/decision-matrix-examples'
     minutes: 6
+related:
+  - assumption-map
+  - cynefin
 ---
 ## 🤔 Making decisions
 

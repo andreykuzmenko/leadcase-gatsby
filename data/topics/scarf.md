@@ -12,6 +12,9 @@ links:
   - title: David Rock's SCARF Model
     url: 'https://www.mindtools.com/pages/article/SCARF.htm'
     minutes: 10
+related:
+  - conflict-escalation-model
+  - i-message
 ---
 ## ✨ Maximizing reward and minimizing threat
 

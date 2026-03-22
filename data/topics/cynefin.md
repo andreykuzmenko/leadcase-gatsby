@@ -6,6 +6,9 @@ description: Mastering Decision-Making Across Complex Environments
 tags:
   - Decision-Making
 links: []
+related:
+  - assumption-map
+  - decision-making-matrix
 ---
 ## 🤯 Tackling Uncertainty in Decision-Making
 

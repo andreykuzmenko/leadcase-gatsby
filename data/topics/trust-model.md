@@ -6,6 +6,9 @@ description: Build trust with people supported by actions and behavior
 tags:
   - Self-awareness
 links: []
+related:
+  - feedback-staircase
+  - fogg-behavior-model
 ---
 ## 👉 Importance of trust
 

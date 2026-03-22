@@ -7,6 +7,9 @@ tags:
   - Self-awareness
   - Decision-Making
 links: []
+related:
+  - assumption-map
+  - cynefin
 ---
 ## 😨 Navigating Fear
 

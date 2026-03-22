@@ -18,6 +18,9 @@ links:
     url: >-
       https://klaxoon.com/community-content/moving-motivators-a-management-tool-to-understand-your-teams-motivations
     minutes: 5
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 📢 Change management
 

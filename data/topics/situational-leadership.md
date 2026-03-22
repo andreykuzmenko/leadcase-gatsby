@@ -16,6 +16,9 @@ links:
   - title: 'Situational leadership: What it is and how to build it'
     url: 'https://www.betterup.com/blog/situational-leadership-examples'
     minutes: 10
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 👥 Flexibility in leadership
 

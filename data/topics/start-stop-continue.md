@@ -18,6 +18,9 @@ links:
   - title: Start Stop Continue Retrospective
     url: 'https://www.retrium.com/retrospective-techniques/start-stop-continue'
     minutes: 5
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 🤔 Experience analysis
 

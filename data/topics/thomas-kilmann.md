@@ -13,6 +13,9 @@ links:
   - title: Thomas Kilmann Conflict Model
     url: 'https://managementweekly.org/thomas-kilmann-conflict-resolution-model/'
     minutes: 8
+related:
+  - conflict-escalation-model
+  - i-message
 ---
 ## 😤 Conflict behavior
 

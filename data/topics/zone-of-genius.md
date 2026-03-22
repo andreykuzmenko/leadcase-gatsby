@@ -16,6 +16,9 @@ links:
     url: >-
       https://collinmathilde.medium.com/how-to-find-your-zone-of-genius-68378d493320
     minutes: 5
+related:
+  - feedback-staircase
+  - fogg-behavior-model
 ---
 ## 🤔 What are you good at?
 

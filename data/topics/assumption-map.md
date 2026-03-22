@@ -16,6 +16,9 @@ links:
     url: >-
       https://www.playbookux.com/validate-your-assumptions-with-an-assumptions-map/
     minutes: 4
+related:
+  - cynefin
+  - decision-making-matrix
 ---
 ## 💰 Business risks
 

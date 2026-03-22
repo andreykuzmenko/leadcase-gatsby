@@ -26,6 +26,9 @@ links:
     url: >-
       https://drive.google.com/file/d/12VZjZdvLCKVKKoFHOrlUtLZKQYwwka2I/view?usp=sharing
     minutes: 1
+related:
+  - coin-feedback-model
+  - competence-development-cycle
 ---
 ## 💪 Effective teams
 
