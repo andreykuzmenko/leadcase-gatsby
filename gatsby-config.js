@@ -17,5 +17,14 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     'gatsby-plugin-image',
+    {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: ['G-8S2KLP9294'],
+        pluginConfig: {
+          head: true,
+        },
+      },
+    },
   ],
 }
