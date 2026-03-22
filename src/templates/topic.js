@@ -122,7 +122,7 @@ const TopicTemplate = ({ data }) => {
               </h2>
               <div style={{
                 display: 'grid',
-                gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))',
+                gridTemplateColumns: '1fr 1fr',
                 gap: 16,
               }}>
                 {related.map(t => (
