@@ -150,7 +150,7 @@ exports.onPostBuild = async ({ graphql }) => {
     }
   `)
 
-  const base = 'https://app.leadcase.net'
+  const base = 'https://leadcase.net'
   const urls = result.data.allTopic.nodes
     .map(({ slug }) => `  <url><loc>${base}/topics/${slug}/</loc></url>`)
     .join('\n')

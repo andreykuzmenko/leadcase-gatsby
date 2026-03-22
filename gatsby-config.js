@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     title: `Leadcase`,
     description: `Collection of tools, frameworks, models, and ideas to grow people and improve teamwork`,
-    siteUrl: `https://app.leadcase.net`,
+    siteUrl: `https://leadcase.net`,
     twitterHandle: `@andreyzt`,
   },
   plugins: [
