@@ -134,7 +134,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   allTopics.forEach(({ slug, tagIds }) => {
     const relatedSlugs = allTopics
       .filter(t => t.slug !== slug && t.tagIds.some(id => tagIds.includes(id)))
-      .slice(0, 6)
+      .slice(0, 2)
       .map(t => t.slug)
 
     createPage({
