@@ -107,3 +107,27 @@ button {
   color: var(--color-primary);
   text-decoration: underline;
 }
+
+.card-text table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 12px;
+  font-size: 0.9em;
+}
+
+.card-text th,
+.card-text td {
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.card-text th {
+  font-weight: 600;
+  color: var(--color-text);
+  border-bottom: 2px solid var(--color-border);
+}
+
+.card-text tr:last-child td {
+  border-bottom: none;
+}
