@@ -4,13 +4,6 @@ title: Leadership Uncertainty Matrix
 description: Match your mindset to the situation — optimism or discipline, depending on clarity
 tags:
   - decision-making
-links:
-  - title: How Great Leaders Navigate Uncertainty
-    url: 'https://hbr.org/2020/07/how-great-leaders-navigate-uncertainty'
-    minutes: 6
-  - title: The Difference Between Risk and Uncertainty in Leadership
-    url: 'https://hbr.org/2023/04/managing-the-tension-between-performance-and-learning'
-    minutes: 5
 related:
   - cynefin
   - decision-making-matrix
