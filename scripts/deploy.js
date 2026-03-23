@@ -17,8 +17,12 @@ try {
 
   // Commit and push
   execSync('git add -A', { cwd: WORKTREE_DIR, stdio: 'inherit' })
-  execSync('git commit -m "Deploy"', { cwd: WORKTREE_DIR, stdio: 'inherit' })
-  execSync('git push origin gh-pages', { cwd: WORKTREE_DIR, stdio: 'inherit' })
+  try {
+    execSync('git commit -m "Deploy"', { cwd: WORKTREE_DIR, stdio: 'inherit' })
+  } catch {
+    // nothing to commit — that's fine, still push
+  }
+  execSync('git push origin gh-pages --force', { cwd: WORKTREE_DIR, stdio: 'inherit' })
 
   console.log('\nPublished.')
 } finally {
