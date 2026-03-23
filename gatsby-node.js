@@ -48,15 +48,17 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
   })
   reporter.info(`Loaded ${tags.length} tags from data/tags.json`)
 
-  // Load topic order
-  const topicOrder = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'topic-order.json'), 'utf8'))
+  // Load topics list (controls order and which topics are shown)
+  const topicOrder = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'topics.json'), 'utf8'))
   const orderMap = Object.fromEntries(topicOrder.map((slug, i) => [slug, i]))
 
-  // Load topics from .md files
+  // Load topics from .md files — only include those listed in topics.json
   const files = fs.readdirSync(TOPICS_DIR).filter(f => f.endsWith('.md'))
   files.forEach(file => {
     const raw = fs.readFileSync(path.join(TOPICS_DIR, file), 'utf8')
     const { data: fm, content: body } = matter(raw)
+
+    if (!(fm.id in orderMap)) return
 
     const tagObjects = (fm.tags || []).map(title => {
       const tag = tagByTitle[title]
@@ -70,7 +72,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
       title: (fm.title || '').trim(),
       description: fm.description || '',
       slug: fm.id,
-      orderRank: orderMap[fm.id] ?? 999,
+      orderRank: orderMap[fm.id],
       topicType: fm.topicType || null,
       tagIds: tagObjects.map(t => t.key.toLowerCase()),
       tagTitles: tagObjects.map(t => t.title),
