@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "leadcase",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "develop"],
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "npm", "run", "develop"],
       "port": 8000
     }
   ]
