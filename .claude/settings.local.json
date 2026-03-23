@@ -84,7 +84,11 @@
       "Bash(node -e \"const fs = require\\(''fs''\\); console.log\\(fs.existsSync\\(''D:/Development/Test/leadcase-gatsby/node_modules/canvas''\\)\\);\")",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/images/cards/leadership-uncertainty-matrix.svg)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/topics/leadership-uncertainty-matrix/)",
-      "Bash(node -e \"const sharp = require\\(''D:/Development/Test/leadcase-gatsby/node_modules/sharp''\\); console.log\\(''sharp ok'', sharp.versions\\);\")"
+      "Bash(node -e \"const sharp = require\\(''D:/Development/Test/leadcase-gatsby/node_modules/sharp''\\); console.log\\(''sharp ok'', sharp.versions\\);\")",
+      "Bash(grep -rn \"data/images\\\\|data\\\\\\\\images\" \"D:\\\\Development\\\\Test\\\\leadcase-gatsby\\\\src\" \"D:\\\\Development\\\\Test\\\\leadcase-gatsby\\\\gatsby-node.js\" \"D:\\\\Development\\\\Test\\\\leadcase-gatsby\\\\gatsby-config.js\")",
+      "Bash(grep -rn \"localImage\\\\|topic-images\\\\|GatsbyImage\\\\|getImage\" \"D:\\\\Development\\\\Test\\\\leadcase-gatsby\\\\src\" --include=\"*.{js,jsx}\")",
+      "Bash(node scripts/rename-card-images.js)",
+      "Bash(node scripts/deploy.js)"
     ]
   }
 }
