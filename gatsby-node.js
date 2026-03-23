@@ -40,6 +40,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
   tags.forEach((tag, i) => {
     createNode({
       ...tag,
+      slug: tag.id,
       orderRank: i,
       id: createNodeId(`Tag-${tag.id}`),
       internal: {

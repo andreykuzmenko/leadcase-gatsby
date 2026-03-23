@@ -85,17 +85,17 @@ const IndexPage = ({ data, location }) => {
             </button>
             {tags.map(tag => (
               <button
-                key={tag.id}
-                onClick={() => selectTag(activeTag === tag.id ? null : tag.id)}
+                key={tag.slug}
+                onClick={() => selectTag(activeTag === tag.slug ? null : tag.slug)}
                 style={{
                   padding: '8px 20px',
                   borderRadius: 99,
                   fontSize: 14,
                   fontWeight: 500,
                   border: '1.5px solid',
-                  borderColor: activeTag === tag.id ? '#10b981' : 'var(--color-border)',
-                  background: activeTag === tag.id ? '#10b981' : '#fff',
-                  color: activeTag === tag.id ? '#111827' : 'var(--color-text)',
+                  borderColor: activeTag === tag.slug ? '#10b981' : 'var(--color-border)',
+                  background: activeTag === tag.slug ? '#10b981' : '#fff',
+                  color: activeTag === tag.slug ? '#111827' : 'var(--color-text)',
                   transition: 'all 0.15s',
                   cursor: 'pointer',
                 }}
@@ -134,7 +134,7 @@ export const query = graphql`
   query HomeQuery {
     allTag(sort: { orderRank: ASC }) {
       nodes {
-        id
+        slug
         title
       }
     }
