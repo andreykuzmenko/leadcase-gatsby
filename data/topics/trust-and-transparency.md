@@ -23,7 +23,7 @@ Let's try to look at the example of working with a client. This, in turn, can be
 
 ## Low trust and low transparency
 
-<!-- image: /images/cards/57d106543d0467c4.png -->
+<!-- image: /images/cards/trust-and-transparency/57d106543d0467c4.png -->
 
 New client relationships usually start in a square of low trust and low transparency. Even if the other side says they trust you as themselves, you haven't worked together yet, and there's minimal trust."
 
@@ -38,7 +38,7 @@ _To increase trust, start building transparency._
 
 ## Low trust and high transparency
 
-<!-- image: /images/cards/8586ba64c58a860.png -->
+<!-- image: /images/cards/trust-and-transparency/8586ba64c58a860.png -->
 
 If we have managed to increase transparency, we move to square B (low trust and high transparency) - the customer has begun to understand the project's _What, How, and Why_. The most important thing is not to slow down. And, of course, the **result** is an essential element for increasing trust.
 
@@ -48,7 +48,7 @@ If an unforeseen problem arises on the project, try to find solutions before goi
 
 ## High trust and high transparency
 
-<!-- image: /images/cards/30f093eeee4c85b0.png -->
+<!-- image: /images/cards/trust-and-transparency/30f093eeee4c85b0.png -->
 
 If you've moved to the **high trust and transparency** square, the most important thing is not to relax and keep all agreements.
 
@@ -56,7 +56,7 @@ If you've moved to the **high trust and transparency** square, the most importan
 
 ## High trust and low transparency
 
-<!-- image: /images/cards/7a5ed96b985d863d.png -->
+<!-- image: /images/cards/trust-and-transparency/7a5ed96b985d863d.png -->
 
 On long projects, the relationship with the client can slip into a square of high trust and low transparency. The client may start to distance themselves from the project work due to trust at some point. The main danger here is that if we somehow let the client down, we can fall back to the very beginning (square A), losing everything we've built with such effort. This will affect not only your relationship with the customer but also your team's motivation.
 

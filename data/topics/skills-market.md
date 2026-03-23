@@ -38,7 +38,7 @@ _In an online format, you can organize it in Miro or Mural._
 
 ## 🖍 1. Draw a stall
 
-<!-- image: /images/cards/cd664b7c0738996c.png -->
+<!-- image: /images/cards/skills-market/cd664b7c0738996c.png -->
 
 On large sheets of paper, invite each participant to draw their market stall with space for these three sections:
 

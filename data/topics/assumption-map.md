@@ -47,7 +47,7 @@ Ask everyone to answer the following questions on stickers. If necessary, rewrit
 
 ## 📉 Matrix "Certainty/Risk"
 
-<!-- image: /images/cards/c8a335aa3bb85b9e.png -->
+<!-- image: /images/cards/assumption-map/c8a335aa3bb85b9e.png -->
 
 **Make a matrix** with certainty and risk on the axes.
 
@@ -62,25 +62,25 @@ Perform this until you have all your assumptions on the map.
 
 ## 🔎 High risk and low certainty
 
-<!-- image: /images/cards/869d0cfdc0501924.png -->
+<!-- image: /images/cards/assumption-map/869d0cfdc0501924.png -->
 
 In the lower right quadrant, you have assumptions that are high risk and low certainty. They raise the issue of needing more information; they need to be **investigated** immediately.
 
 ## ✈️ High Risk and High Certainty
 
-<!-- image: /images/cards/651897c25ed4712d.png -->
+<!-- image: /images/cards/assumption-map/651897c25ed4712d.png -->
 
 The assumptions in this section are often closer to facts. Check them against your existing **plan**.
 
 ## 🗑️ Low risk and high certainty
 
-<!-- image: /images/cards/7b53bc3acba501cc.png -->
+<!-- image: /images/cards/assumption-map/7b53bc3acba501cc.png -->
 
 The assumptions in this quadrant can be seen as distractions for your team; they need to be **deferred**.
 
 ## ☑️ Low Risk and Low Certainty
 
-<!-- image: /images/cards/1c908521554231b8.png -->
+<!-- image: /images/cards/assumption-map/1c908521554231b8.png -->
 
 The assumptions in this section need to be **evaluated**. The result of what you discover may increase the perceived risk.
 

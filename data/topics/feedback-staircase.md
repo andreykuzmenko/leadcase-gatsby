@@ -18,7 +18,7 @@ That’s where the **Feedback Staircase** comes in. It’s a practical framework
 
 ## Feedback Staircase Framework
 
-<!-- image: /images/cards/d9122e06b2e2418e.png -->
+<!-- image: /images/cards/feedback-staircase/d9122e06b2e2418e.png -->
 
 The **Feedback Staircase Framework** consists of five essential emotional steps.
 

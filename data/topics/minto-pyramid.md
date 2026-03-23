@@ -30,7 +30,7 @@ If you have trouble structuring your thoughts and convincing others, then a tool
 
 ## 💡 The structure of the Minto pyramid
 
-<!-- image: /images/cards/b2b1a5eacc275570.png -->
+<!-- image: /images/cards/minto-pyramid/b2b1a5eacc275570.png -->
 
 The Minto Pyramid was developed by Barbara Minto for McKinsey consultants to help them structure their reports and maximize their impact on clients.
 
@@ -100,7 +100,7 @@ Sometimes you can skip this part if your key arguments are enough to justify the
 
 ## 👉 Example
 
-<!-- image: /images/cards/64dd8d145eef7649.png -->
+<!-- image: /images/cards/minto-pyramid/64dd8d145eef7649.png -->
 
 **Case:** CityFit's decline in membership renewals.
 

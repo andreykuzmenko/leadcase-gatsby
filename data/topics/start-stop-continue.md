@@ -33,7 +33,7 @@ Let's see how we can conduct such a meeting!
 
 ## 🏁 Start, Stop, Continue
 
-<!-- image: /images/cards/c55fd292ade80869.png -->
+<!-- image: /images/cards/start-stop-continue/c55fd292ade80869.png -->
 
 At the beginning of the meeting, draw three columns on the board and label them as **Start**, **Stop**, and **Continue**. Explain to the participants that there will be three main questions discussed in this meeting:
 

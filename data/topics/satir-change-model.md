@@ -17,7 +17,7 @@ In today's rapidly evolving world, individuals and organizations often find them
 
 ## 💡 The Satir Change Model
 
-<!-- image: /images/cards/5b0e343f0d3cc65f.png -->
+<!-- image: /images/cards/satir-change-model/5b0e343f0d3cc65f.png -->
 
 The **Satir Change Model** is composed of five stages:
 

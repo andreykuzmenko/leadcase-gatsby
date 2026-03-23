@@ -34,7 +34,7 @@ First, it is necessary to spend some time and effort planning the meeting. This 
 
 ## 🖌️ IDOARRT meeting design
 
-<!-- image: /images/cards/597c98af0c10d224.png -->
+<!-- image: /images/cards/idoarrt/597c98af0c10d224.png -->
 
 **IDOARRT** is a simple tool to help you run an effective meeting or group process. The abbreviation IDOARRT stands for:
 

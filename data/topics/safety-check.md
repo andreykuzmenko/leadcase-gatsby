@@ -25,7 +25,7 @@ Let's see how you can do this, for example, at the start of an important meeting
 
 ## 💎 Collect data
 
-<!-- image: /images/cards/a6eda50fb57240c6.png -->
+<!-- image: /images/cards/safety-check/a6eda50fb57240c6.png -->
 
 Ask participants to write down a number from 1 to 5 that shows how safe they feel:
 
@@ -37,7 +37,7 @@ Ask participants to write down a number from 1 to 5 that shows how safe they fee
 
 ## 🌠 Visualize the results
 
-<!-- image: /images/cards/9ce955c99cdbdcc8.png -->
+<!-- image: /images/cards/safety-check/9ce955c99cdbdcc8.png -->
 
 Collect the stickers while respecting anonymity (use a hat or other container).
 

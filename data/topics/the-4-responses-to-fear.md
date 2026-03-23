@@ -20,7 +20,7 @@ This is where the **"4 Responses to Fear"** framework comes into play. It catego
 
 ## 👣 The 4 Responses to Fear
 
-<!-- image: /images/cards/8a7f7aff9064ccad.png -->
+<!-- image: /images/cards/the-4-responses-to-fear/8a7f7aff9064ccad.png -->
 
 **Grace LaConte**, the framework's author, proposes to look at the "4 Responses to Fear" through the lenses of '**Engage vs. Disengage**' and '**Repel vs. Attract.**' This approach expands the traditional understanding of fear responses by exploring how we confront or avoid fear and our intrinsic motivations towards or away from fear-inducing situations.
 

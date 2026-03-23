@@ -17,7 +17,7 @@ Have you ever found yourself struggling to provide **constructive feedback,** ei
 
 ## 💎 COIN model
 
-<!-- image: /images/cards/bffca76dff5d59b.png -->
+<!-- image: /images/cards/coin-feedback-model/bffca76dff5d59b.png -->
 
 The **COIN framework** is composed of four key components:
 

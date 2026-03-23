@@ -29,7 +29,7 @@ One way to approach this challenge is to use the **"Zone of Genius" framework** 
 
 ## 🔶 4 “zones of function”
 
-<!-- image: /images/cards/1c43aca295463362.png -->
+<!-- image: /images/cards/zone-of-genius/1c43aca295463362.png -->
 
 1.  **The incompetence zone.** Refers to a situation where you need more relevant skills or understanding to complete tasks effectively.
 2.  **The competence zone.** You can complete tasks proficiently, but you must stand out and bring something unique to the table. You meet the required standards.
@@ -65,7 +65,7 @@ You can ask others about their experiences working with you, including their obs
 
 ## ⚒️ 2. Build Your Matrix
 
-<!-- image: /images/cards/de1c06a249160916.png -->
+<!-- image: /images/cards/zone-of-genius/de1c06a249160916.png -->
 
 The next step is to use the data collected from your experimentation to create a "skill map." This visual represents your competency level in various skills, with a scale ranging from 0 (low competency) to 1 (high competency).
 
@@ -73,7 +73,7 @@ To fully understand your strengths and areas for growth, it is essential to cons
 
 ## ⚗️ 3. Identify Your Zones
 
-<!-- image: /images/cards/d1bda95089f83cb6.png -->
+<!-- image: /images/cards/zone-of-genius/d1bda95089f83cb6.png -->
 
 **The four key zones to identify on your matrix:**
 

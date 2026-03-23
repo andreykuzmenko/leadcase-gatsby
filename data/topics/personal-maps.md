@@ -27,7 +27,7 @@ If you have difficulty answering any of the questions, then it might be helpful 
 
 ## 🗺 Personal map
 
-<!-- image: /images/cards/482423acd923bc15.jpeg -->
+<!-- image: /images/cards/personal-maps/482423acd923bc15.jpeg -->
 
 **Personal Map** is a practice from Management 3.0 designed to improve team interaction. It's a great way to find out what motivates everyone involved. It also allows people to develop empathy and meaningful connections with each other.
 

@@ -30,7 +30,7 @@ Getting this combination right is one of the most underrated leadership skills.
 
 ## 🗂 The Matrix
 
-<!-- image: /images/cards/leadership-uncertainty-matrix.png -->
+<!-- image: /images/cards/leadership-uncertainty-matrix/leadership-uncertainty-matrix.png -->
 
 The matrix creates four quadrants based on two axes:
 

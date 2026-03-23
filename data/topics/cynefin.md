@@ -19,7 +19,7 @@ Designed by Dave Snowden, this conceptual model helps you understand the context
 
 ## 🧩 Cynefin Framework
 
-<!-- image: /images/cards/4dc9f2191ddec687.png -->
+<!-- image: /images/cards/cynefin/4dc9f2191ddec687.png -->
 
 The **Cynefin Framework** consists of five contexts or "domains" that guide decision-making:
 

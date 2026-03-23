@@ -20,7 +20,7 @@ related:
 ---
 ## 💡 What is Johari's window?
 
-<!-- image: /images/cards/355bf78c1fb4c36c.png -->
+<!-- image: /images/cards/johari-window/355bf78c1fb4c36c.png -->
 
 In 1955, two American psychologists, Joseph Luft and Harrington Ingham developed a technique that allows people to understand better the relationship between their personal qualities and how others perceive them. According to the method called the Johari Window, each person has four zones:
 
@@ -36,7 +36,7 @@ Let's explore how applying this tool allows you to look inside yourself, find yo
 
 ## 😀 Open area
 
-<!-- image: /images/cards/6bf78dfd96e7e798.png -->
+<!-- image: /images/cards/johari-window/6bf78dfd96e7e798.png -->
 
 The first square is "open. This square represents actions, behaviors, and information known to the person and those around them.
 
@@ -44,7 +44,7 @@ This information is publicly available. The larger the square, the more informat
 
 ## 🤐 Hidden zone
 
-<!-- image: /images/cards/dc2f7e8121d3c292.png -->
+<!-- image: /images/cards/johari-window/dc2f7e8121d3c292.png -->
 
 Information from this zone is known only to the person himself. It can be personal information that a person prefers to keep hidden.
 
@@ -52,7 +52,7 @@ Feelings, ambitions, dreams, and opinions may be hidden from the group by the in
 
 ## 🙄 Unknown zone
 
-<!-- image: /images/cards/af9991ef4fbbef64.png -->
+<!-- image: /images/cards/johari-window/af9991ef4fbbef64.png -->
 
 This zone includes information that is unknown to the person or others. It includes feelings, abilities, and talents that are hidden from everyone and can manifest in a certain situation. The unknown zone is the possibility of introspection, the possibility of constant growth, and the possibility of finding hidden reserves in oneself.
 
@@ -60,7 +60,7 @@ This zone can be reduced by identifying previously unknown abilities, mastering 
 
 ## 😵 Blind spot
 
-<!-- image: /images/cards/c2cb1647bda48887.png -->
+<!-- image: /images/cards/johari-window/c2cb1647bda48887.png -->
 
 Activities and behaviors in the blind spot are known to others, but the person is unaware of them. Information in the blind spot can be positive or negative and include hidden strengths or areas for improvement.
 
@@ -68,7 +68,7 @@ The blind spot can be reduced by getting feedback, which is a starting point for
 
 ## 📐 Dimensions of different zones
 
-<!-- image: /images/cards/11a2440f46b23a6e.png -->
+<!-- image: /images/cards/johari-window/11a2440f46b23a6e.png -->
 
 While the matrix has four sections, their sizes will vary in practice. The following factors influence this:
 
@@ -78,7 +78,7 @@ While the matrix has four sections, their sizes will vary in practice. The follo
 
 ## 🎯 What should you strive for?
 
-<!-- image: /images/cards/5ba928c234f981e3.png -->
+<!-- image: /images/cards/johari-window/5ba928c234f981e3.png -->
 
 Ideally, aim to maximize the open zone, which promotes clarity in interactions and builds trust between people.
 

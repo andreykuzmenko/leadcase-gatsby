@@ -19,7 +19,7 @@ The model offers a **systematic approach to learning from experiences**, turning
 
 ## 📖 Kolb's Framework
 
-<!-- image: /images/cards/969e33f3d24d0b85.png -->
+<!-- image: /images/cards/kolbs-cycle/969e33f3d24d0b85.png -->
 
 **Kolb's cycle** consists of four interconnected stages, each critical for comprehensive learning:
 

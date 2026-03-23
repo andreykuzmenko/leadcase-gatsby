@@ -32,7 +32,7 @@ How can you fix the situation? An approach called **Impeccable Coordination** ca
 
 ## 💡 Impeccable Coordination
 
-<!-- image: /images/cards/b6201d1984212d2d.png -->
+<!-- image: /images/cards/impeccable-coordination/b6201d1984212d2d.png -->
 
 In the book Conscious Business, Fred Coffman describes "Impeccable Coordination" as a clear understanding of:
 

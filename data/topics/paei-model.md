@@ -19,7 +19,7 @@ In management, it ensures a well-rounded leadership approach, balancing strategi
 
 ## ⚙️ PEAI Framework
 
-<!-- image: /images/cards/4f170a539d0a35f0.png -->
+<!-- image: /images/cards/paei-model/4f170a539d0a35f0.png -->
 
 The **PEAI Framework** consists of four key management roles:
 

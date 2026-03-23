@@ -17,7 +17,7 @@ The solution to this career puzzle lies in a **strategic framework known as "Pas
 
 ## 🎓 The Structure
 
-<!-- image: /images/cards/f93f67efb13aa7fc.png -->
+<!-- image: /images/cards/passion-market-skills/f93f67efb13aa7fc.png -->
 
 The framework consists of three parts:
 

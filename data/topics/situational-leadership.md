@@ -33,7 +33,7 @@ Let's start with a breakdown of the level of employee development.
 
 ## 🤓 How people evolve
 
-<!-- image: /images/cards/b4e1f2fb72ad9e06.png -->
+<!-- image: /images/cards/situational-leadership/b4e1f2fb72ad9e06.png -->
 
 To achieve results, a specialist must have: knowledge, skills, abilities, and motivation to do the job. According to the totality of these factors, there are four categories:
 
@@ -44,7 +44,7 @@ To achieve results, a specialist must have: knowledge, skills, abilities, and mo
 
 ## ☝️ Leadership Styles
 
-<!-- image: /images/cards/81b4ff74672ba83e.png -->
+<!-- image: /images/cards/situational-leadership/81b4ff74672ba83e.png -->
 
 Depending on the level of development of the employee, one of the following leadership styles can be applied:
 

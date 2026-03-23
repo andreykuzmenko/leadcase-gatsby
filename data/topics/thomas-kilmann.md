@@ -26,7 +26,7 @@ There are five tactics based on levels of cooperation and assertiveness.
 
 ## 👉 Conflict resolution tactics
 
-<!-- image: /images/cards/9963c5fccadc0039.png -->
+<!-- image: /images/cards/thomas-kilmann/9963c5fccadc0039.png -->
 
 1.  **Competition** - striving to achieve one's interests to the detriment of another.
 2.  **Accommodation** - sacrificing one's interests for the sake of another.

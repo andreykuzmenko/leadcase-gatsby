@@ -20,7 +20,7 @@ In some ways, trust is one of the most important forms of leadership capital. So
 
 ## 🔺 The triangle of trust
 
-<!-- image: /images/cards/16934aee0524e94a.png -->
+<!-- image: /images/cards/trust-triangle/16934aee0524e94a.png -->
 
 According to Frances X. Frey and Ann Morris, trust has three basic drivers: **authenticity, logic, and empathy**.
 

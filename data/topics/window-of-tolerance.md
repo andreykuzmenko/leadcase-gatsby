@@ -32,7 +32,7 @@ Let's look at the "Window of Tolerance" in more detail.
 
 ## 📈 The window of tolerance
 
-<!-- image: /images/cards/7068b87213346bc.png -->
+<!-- image: /images/cards/window-of-tolerance/7068b87213346bc.png -->
 
 The Tolerance Window has three parts:
 
@@ -76,7 +76,7 @@ Writing in a stressful situation can help you process your thoughts and feelings
 
 ## 💪 Optimal arousal
 
-<!-- image: /images/cards/1438549c3e2e211.png -->
+<!-- image: /images/cards/window-of-tolerance/1438549c3e2e211.png -->
 
 Extending the window of tolerance cannot be achieved by taking a "magic pill. For this purpose, it is necessary to do enough work on a self-learning, determination of one's limits, and development of new reactions to stressful situations.
 

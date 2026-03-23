@@ -19,7 +19,7 @@ related:
 ---
 ## 💡 The essence of the idea
 
-<!-- image: /images/cards/ca5e391a383a409c.png -->
+<!-- image: /images/cards/iceberg/ca5e391a383a409c.png -->
 
 One of the models of systemic thinking that helps to understand global issues is **the iceberg model**.
 

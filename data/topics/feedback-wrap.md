@@ -27,7 +27,7 @@ The answer may lie in using the "**Feedback Wrap**" tool as a mature way to expr
 
 ## 🥪 Feedback Wrap
 
-<!-- image: /images/cards/4e64ea354421e9f3.png -->
+<!-- image: /images/cards/feedback-wrap/4e64ea354421e9f3.png -->
 
 **Feedback Wrap** is one of the tools of Management 3.0. Its essence is to use the following 5 rules:
 

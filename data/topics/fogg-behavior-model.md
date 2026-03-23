@@ -20,7 +20,7 @@ If you're struggling to motivate yourself or others to adopt new behaviors, the 
 
 ## 💡 The Fogg Behavior Model
 
-<!-- image: /images/cards/ad130b24a225b16.png -->
+<!-- image: /images/cards/fogg-behavior-model/ad130b24a225b16.png -->
 
 The Fogg Behavior Model (FBM) comprises three main components that are essential for a behavior (or habit) to occur. These parts are:
 
@@ -56,7 +56,7 @@ The simpler it is to engage in a habit, the more likely it will be adopted.
 
 ## ⏰ Prompt
 
-<!-- image: /images/cards/beea166bf82f2660.png -->
+<!-- image: /images/cards/fogg-behavior-model/beea166bf82f2660.png -->
 
 A **Prompt** is the cue that triggers a behavior. These triggers can come from people, objects, or environments. This can extend into things like notifications and icons in a digital environment.
 

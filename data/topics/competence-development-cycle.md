@@ -21,7 +21,7 @@ Are you struggling to master new skills or improve your professional competencie
 
 ## 🔄 Competence Development Cycle
 
-<!-- image: /images/cards/4b68112f9c210522.png -->
+<!-- image: /images/cards/competence-development-cycle/4b68112f9c210522.png -->
 
 When we learn a new skill, we go through 4 stages. Understanding these stages will keep you motivated during the learning process and help you manage expectations so that you are not trying to achieve too much in a short period of time.
 

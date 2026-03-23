@@ -19,7 +19,7 @@ With SWOT Analysis, you can understand these important points, make smarter choi
 
 ## 🤔 SWOT analysis framework
 
-<!-- image: /images/cards/a5ad1f0bae21479.png -->
+<!-- image: /images/cards/swot-analysis/a5ad1f0bae21479.png -->
 
 **SWOT Analysis** involves a structured approach consisting of four distinct elements, each crucial for thorough strategic planning:
 

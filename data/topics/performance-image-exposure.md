@@ -21,7 +21,7 @@ Together, these elements provide a roadmap for unlocking your career potential.
 
 ## 🧩 Understanding the P.I.E. Framework
 
-<!-- image: /images/cards/97c788925fe91172.png -->
+<!-- image: /images/cards/performance-image-exposure/97c788925fe91172.png -->
 
 The P.I.E. model breaks down career advancement into three vital components, explaining how each influences your progress. According to Coleman, they contribute in the following proportions:
 

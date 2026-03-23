@@ -33,7 +33,7 @@ Let's see how to organize one.
 
 ## 👨‍💻 1. Define the roles in your team (5 minutes)
 
-<!-- image: /images/cards/d1580df101a74e0d.png -->
+<!-- image: /images/cards/roles-and-responsibilities/d1580df101a74e0d.png -->
 
 Draw a table on the board with enough space to list the different roles on the team. Leave room for "unassigned responsibilities"; this part comes in handy later.
 
@@ -55,7 +55,7 @@ _If any responsibilities are difficult to assign to a role, they can be put on a
 
 ## 👥 4. Discuss each role (30 minutes)
 
-<!-- image: /images/cards/ae4ad2580a8fe6f3.png -->
+<!-- image: /images/cards/roles-and-responsibilities/ae4ad2580a8fe6f3.png -->
 
 1.  Select one role, for example, **Product Manager**.
 2.  Ask the representative(s) of that role to read what they wrote down as their top 3-5 priorities and place them in the appropriate grid square.

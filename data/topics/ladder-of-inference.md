@@ -28,7 +28,7 @@ In our fast-paced age, people don't have time to think carefully about informati
 
 ## 💡 The Ladder of Inference
 
-<!-- image: /images/cards/25ad8d7cd2aafd13.png -->
+<!-- image: /images/cards/ladder-of-inference/25ad8d7cd2aafd13.png -->
 
 Chris Argyris, the author of the ladder of inference, identifies **seven fundamental steps** we go through from information to action:
 
