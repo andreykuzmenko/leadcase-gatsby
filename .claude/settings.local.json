@@ -99,7 +99,8 @@
       "Bash(grep -rn \"data/images\\\\|data\\\\\\\\images\" \"D:\\\\Development\\\\Test\\\\leadcase-gatsby\\\\src\" \"D:\\\\Development\\\\Test\\\\leadcase-gatsby\\\\gatsby-node.js\" \"D:\\\\Development\\\\Test\\\\leadcase-gatsby\\\\gatsby-config.js\")",
       "Bash(grep -rn \"localImage\\\\|topic-images\\\\|GatsbyImage\\\\|getImage\" \"D:\\\\Development\\\\Test\\\\leadcase-gatsby\\\\src\" --include=\"*.{js,jsx}\")",
       "Bash(node scripts/rename-card-images.js)",
-      "Bash(node scripts/deploy.js)"
+      "Bash(node scripts/deploy.js)",
+      "Bash(node /Users/Andrii/Documents/Development/Leadcase/scripts/deploy.js)"
     ]
   }
 }
