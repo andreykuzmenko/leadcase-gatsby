@@ -126,6 +126,7 @@ Image files live in `static/images/cards/<slug>/`. Not every card needs an image
 - Use blockquotes (`>`) for one key takeaway per topic, sparingly
 - Keep paragraphs short — 2–4 sentences each
 - Write in second person ("you", "your team") to keep it actionable
+- **Avoid em dashes (—).** They are a common AI writing pattern and make the text feel generated. Use a period, comma, or rewrite the sentence instead.
 
 **Example of an introduction card:**
 
