@@ -77,7 +77,14 @@
       "Bash(node -e \"console.log\\(''start''\\); require\\(''./node_modules/gatsby/package.json''\\); console.log\\(''gatsby pkg ok''\\); const m = require\\(''./node_modules/gatsby/dist/commands/develop''\\); console.log\\(''loaded:'', typeof m\\)\")",
       "Bash(CI=true node node_modules/gatsby/cli.js --version)",
       "Bash(CI=true node node_modules/gatsby/cli.js build)",
-      "Bash(CI=true npm run deploy)"
+      "Bash(CI=true npm run deploy)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/topics/leadership-uncertainty-matrix)",
+      "Bash(python3 -c \"import matplotlib; print\\(matplotlib.__version__\\)\")",
+      "Bash(node -e \"console.log\\(''node ok''\\)\")",
+      "Bash(node -e \"const fs = require\\(''fs''\\); console.log\\(fs.existsSync\\(''D:/Development/Test/leadcase-gatsby/node_modules/canvas''\\)\\);\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/images/cards/leadership-uncertainty-matrix.svg)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/topics/leadership-uncertainty-matrix/)",
+      "Bash(node -e \"const sharp = require\\(''D:/Development/Test/leadcase-gatsby/node_modules/sharp''\\); console.log\\(''sharp ok'', sharp.versions\\);\")"
     ]
   }
 }

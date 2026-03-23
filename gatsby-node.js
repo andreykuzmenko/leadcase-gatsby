@@ -33,8 +33,9 @@ function parseCards(body) {
 exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter }) => {
   const { createNode } = actions
 
-  // Load tags
-  const tags = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'tags.json'), 'utf8'))
+  // Load tags and topics list from data.json
+  const data = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'data.json'), 'utf8'))
+  const tags = data.tags
   const tagByTitle = Object.fromEntries(tags.map(t => [t.title, t]))
   tags.forEach(tag => {
     createNode({
@@ -46,11 +47,10 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
       },
     })
   })
-  reporter.info(`Loaded ${tags.length} tags from data/tags.json`)
+  reporter.info(`Loaded ${tags.length} tags from data/data.json`)
 
   // Load topics list (controls order and which topics are shown)
-  const topicOrder = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'topics.json'), 'utf8'))
-  const orderMap = Object.fromEntries(topicOrder.map((slug, i) => [slug, i]))
+  const orderMap = Object.fromEntries(data.topics.map((slug, i) => [slug, i]))
 
   // Load topics from .md files — only include those listed in topics.json
   const files = fs.readdirSync(TOPICS_DIR).filter(f => f.endsWith('.md'))

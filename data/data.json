@@ -1,0 +1,119 @@
+{
+  "tags": [
+    {
+      "id": "26d7b0aa808b5ffb",
+      "title": "Team activation",
+      "key": "Team-Activation",
+      "orderRank": 0
+    },
+    {
+      "id": "3749668a368afb56",
+      "title": "Communication",
+      "key": "Communication",
+      "orderRank": 1
+    },
+    {
+      "id": "1bfa34ee8c2c4f2c",
+      "title": "Coaching",
+      "key": "Coaching",
+      "orderRank": 2
+    },
+    {
+      "id": "39a372e8a8fb8d65",
+      "title": "Self-awareness",
+      "key": "Self-Awareness",
+      "orderRank": 4
+    },
+    {
+      "id": "1d1bd4b4fb82bf98",
+      "title": "Change Management",
+      "key": "Change-Management",
+      "orderRank": 5
+    },
+    {
+      "id": "180d1e7b4f69fec4",
+      "title": "Decision-Making",
+      "key": "Decision-Making",
+      "orderRank": 6
+    },
+    {
+      "id": "739802a30772edca",
+      "title": "Facilitation",
+      "key": "Facilitation",
+      "orderRank": 11
+    },
+    {
+      "id": "40802ed2a553f4c",
+      "title": "Problem solving",
+      "key": "Problem-Solving",
+      "orderRank": 12
+    },
+    {
+      "id": "34ca5abdd3997e13",
+      "title": "Mentoring",
+      "key": "Mentoring",
+      "orderRank": 13
+    },
+    {
+      "id": "14b7e3f7e4683221",
+      "title": "People development",
+      "key": "People-Development",
+      "orderRank": 14
+    }
+  ],
+  "topics": [
+    "leadership-uncertainty-matrix",
+    "conflict-escalation-model",
+    "feedback-staircase",
+    "performance-image-exposure",
+    "inversion-thinking",
+    "cynefin",
+    "fogg-behavior-model",
+    "the-4-responses-to-fear",
+    "swot-analysis",
+    "kolbs-cycle",
+    "paei-model",
+    "passion-market-skills",
+    "situation-complication-question-answer-framework",
+    "trust-model",
+    "minto-pyramid",
+    "zone-of-genius",
+    "feedback-circle",
+    "improvement-canvas",
+    "30-60-90",
+    "impeccable-coordination",
+    "window-of-tolerance",
+    "grow",
+    "decision-making-matrix",
+    "i-message",
+    "onion",
+    "intrinsic-motivation",
+    "idoarrt",
+    "1-2-4-all",
+    "feedback-wrap",
+    "hackman",
+    "satir-change-model",
+    "skills-market",
+    "kubler-ross",
+    "start-stop-continue",
+    "roles-and-responsibilities",
+    "safety-check",
+    "thomas-kilmann",
+    "moving-motivators",
+    "personal-maps",
+    "trust-triangle",
+    "situational-leadership",
+    "assumption-map",
+    "brainwriting",
+    "ladder-of-inference",
+    "johari-window",
+    "trust-and-transparency",
+    "uncover-motivation",
+    "competence-development-cycle",
+    "scarf",
+    "iceberg",
+    "team-canvas",
+    "coin-feedback-model",
+    "consent-decision-making"
+  ]
+}
