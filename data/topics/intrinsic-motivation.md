@@ -40,7 +40,7 @@ If we transfer these concepts to the workplace, we find that motivation 2.0 is t
 
 ## 🧐 Components of intrinsic motivation
 
-<!-- image: /images/cards/intrinsic-motivation/aa8715ccd4e43a32.png -->
+<!-- image: /images/cards/intrinsic-motivation/components-of-intrinsic-motivation.png -->
 
 Intrinsic motivation is based on three key components:
 

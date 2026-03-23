@@ -17,7 +17,7 @@ Understanding conflict dynamics can empower you to address issues before they es
 
 ## 🚦 Stages of conflict escalation
 
-<!-- image: /images/cards/conflict-escalation-model/7c5eccebe8c4f7c8.png -->
+<!-- image: /images/cards/conflict-escalation-model/stages-of-conflict-escalation.png -->
 
 Glasl’s model outlines nine stages of conflict escalation, which can be grouped into three key phases:
 

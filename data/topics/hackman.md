@@ -41,7 +41,7 @@ Richard Hackman, a professor at Harvard University, has spent years of research 
 
 ## 🔍 Hackman Model
 
-<!-- image: /images/cards/hackman/6a057d0672e791ef.png -->
+<!-- image: /images/cards/hackman/hackman-model.png -->
 
 According to **Hackman's model**, the factors that play a key role in team effectiveness are as follows:
 

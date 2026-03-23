@@ -24,7 +24,7 @@ People's reactions to change manifest themselves in different emotions and defen
 
 ## 😪 Kubler-Ross model
 
-<!-- image: /images/cards/kubler-ross/4979eeb43b6b649e.png -->
+<!-- image: /images/cards/kubler-ross/kubler-ross-model.png -->
 
 Psychologist **Elizabeth Kubler-Ross**, who studied the emotional reactions of severely ill and dying people, identified **five key stages** they go through:
 

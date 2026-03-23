@@ -23,7 +23,7 @@ Try it anytime you feel something is wrong with people. It's also good for getti
 
 ## ✍️ 1. List the sources of motivation
 
-<!-- image: /images/cards/uncover-motivation/f04bf1783e8d990e.png -->
+<!-- image: /images/cards/uncover-motivation/1-list-the-sources-of-motivation.png -->
 
 You can add them as stickers to a virtual board, for example, [Miro](https://miro.com/miroverse/uncover-motivations-1-1/).
 
@@ -39,7 +39,7 @@ You can add them as stickers to a virtual board, for example, [Miro](https://mir
 
 ## 🌟 2. Sort the motivational factors by importance
 
-<!-- image: /images/cards/uncover-motivation/915afe0022a4e0a0.png -->
+<!-- image: /images/cards/uncover-motivation/2-sort-the-motivational-factors-by-importance.png -->
 
 In a 1-on-1 conversation (or even in advance), ask your team member to place values on a scale from "important" to "unimportant" to them. They can add their wording or modify the wording to make it more transparent. This is your first axis.
 
@@ -47,7 +47,7 @@ _Make notes about what each item means._
 
 ## ⚖️️ 3. Evaluate the current state
 
-<!-- image: /images/cards/uncover-motivation/d598395f979a322.png -->
+<!-- image: /images/cards/uncover-motivation/3-evaluate-the-current-state.png -->
 
 Create a scale from "Doing well" to "Not Doing Well." Then start with the essential items. Ask them to rate their current level of satisfaction with each item.
 
@@ -57,7 +57,7 @@ Please leave room for an explanation and write down why.
 
 ## 🚩 Focus on high impact
 
-<!-- image: /images/cards/uncover-motivation/c44b266a89460448.png -->
+<!-- image: /images/cards/uncover-motivation/focus-on-high-impact.png -->
 
 What values are essential to your team member but not covered well?
 

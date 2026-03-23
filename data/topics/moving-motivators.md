@@ -29,7 +29,7 @@ Using the **Moving Motivators** exercise, you can learn about your team's intern
 
 ## 🤩 Moving Motivators
 
-<!-- image: /images/cards/moving-motivators/f6061b94936caba6.jpg -->
+<!-- image: /images/cards/moving-motivators/moving-motivators.jpg -->
 
 **Moving Motivators** were developed by Jurgen Appelo (aythor of Management 3.0 ) and are designed to help us think about motivation and how it affects organizational change.
 
@@ -61,7 +61,7 @@ The Moving Motivators use the following ten internal motivators:
 
 ## 🔎 Definition of motivators
 
-<!-- image: /images/cards/moving-motivators/b6ea5ae3e20ff16b.png -->
+<!-- image: /images/cards/moving-motivators/definition-of-motivators.png -->
 
 **Moving Motivators** can be used in 1:1 meetings and group work.
 
@@ -71,7 +71,7 @@ Please ask the participant(s) to place the cards in order **left** (least import
 
 ## 💨 Impact of changes
 
-<!-- image: /images/cards/moving-motivators/d84ef2cdcfb59980.png -->
+<!-- image: /images/cards/moving-motivators/impact-of-changes.png -->
 
 Discuss how the change affects your motivators.
 

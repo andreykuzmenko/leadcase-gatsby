@@ -18,7 +18,7 @@ related:
 ---
 ## 🎓 What is Team Canvas?
 
-<!-- image: /images/cards/team-canvas/f1b4af46695744d0.png -->
+<!-- image: /images/cards/team-canvas/what-is-team-canvas.png -->
 
 **Team Canvas** is a strategic tool that helps team members align goals for the project and rules for co-working.
 

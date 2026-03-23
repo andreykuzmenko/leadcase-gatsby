@@ -28,7 +28,7 @@ An excellent tool that can be useful for systematic problem-solving is **Improve
 
 ## 🔥 Improvement Canvas
 
-<!-- image: /images/cards/improvement-canvas/135c704a84cfeaa.png -->
+<!-- image: /images/cards/improvement-canvas/improvement-canvas.png -->
 
 **Improvement Canvas** is a template (canvas) that allows you to plan changes to the desired state through small steps.
 

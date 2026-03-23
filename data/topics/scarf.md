@@ -26,7 +26,7 @@ The SCARF is based on the following two principles:
 
 ## 🎗 SCARF model
 
-<!-- image: /images/cards/scarf/90ea7bd392f78a35.png -->
+<!-- image: /images/cards/scarf/scarf-model.png -->
 
 The SCARF model covers the following areas of human social life:
 

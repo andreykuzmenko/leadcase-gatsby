@@ -26,7 +26,7 @@ Let's look at what needs to be done for this.
 
 ## 📝 1. Identify your options
 
-<!-- image: /images/cards/decision-making-matrix/95618a8978c5cc10.png -->
+<!-- image: /images/cards/decision-making-matrix/1-identify-your-options.png -->
 
 Before you can build your matrix, **determine the options** you are choosing between.
 
@@ -34,7 +34,7 @@ For example, let's say your team is launching a new advertising campaign this su
 
 ## 💎 2. Determine important criteria
 
-<!-- image: /images/cards/decision-making-matrix/9e300279a6cfab9c.png -->
+<!-- image: /images/cards/decision-making-matrix/2-determine-important-criteria.png -->
 
 The second step to building a decision matrix is identifying the important criteria influencing your decision. This set of criteria helps determine the optimal solution and avoid subjectivity.
 
@@ -47,13 +47,13 @@ Continuing with our example, your team has decided that the important criteria w
 
 ## 🛠 3. Create your own decison matrix
 
-<!-- image: /images/cards/decision-making-matrix/dcd275e1b39ac9fe.png -->
+<!-- image: /images/cards/decision-making-matrix/3-create-your-own-decison-matrix.png -->
 
 **The decision matrix** is a grid where you can compare criteria between different options.
 
 ## 🖋 4. Fill in the decison matrix
 
-<!-- image: /images/cards/decision-making-matrix/1fb3e34d786f19c2.png -->
+<!-- image: /images/cards/decision-making-matrix/4-fill-in-the-decison-matrix.png -->
 
 Now rate each criterion on a scale. If there is no big difference between the options, use a scale from 1 to 3, where **three** is the best option.
 
@@ -63,7 +63,7 @@ This is where the advantages of the decision matrix start to become apparent.
 
 ## 💰 5. Add weight
 
-<!-- image: /images/cards/decision-making-matrix/bdae6cfb47249a6c.png -->
+<!-- image: /images/cards/decision-making-matrix/5-add-weight.png -->
 
 Sometimes certain criteria are more important than others. In such cases, you can **use a weighted decision matrix** to determine your best option.
 
@@ -75,13 +75,13 @@ Later in the decision-making process, you'll multiply the weight coefficient by 
 
 ## 💸 6. Multiply the weighted score
 
-<!-- image: /images/cards/decision-making-matrix/182747b94fe3a362.png -->
+<!-- image: /images/cards/decision-making-matrix/6-multiply-the-weighted-score.png -->
 
 After applying your rating scale and assigning a weight to each criterion, multiply the weight for each criterion. This ensures that the more important criteria will carry greater weight, which will ultimately help you select the best agency.
 
 ## 🤩 7. Count the total score
 
-<!-- image: /images/cards/decision-making-matrix/ae3f72e645ad6af2.png -->
+<!-- image: /images/cards/decision-making-matrix/7-count-the-total-score.png -->
 
 Now that you have multiplied the weighted score, **sum up all the criteria for each agency**. At this stage, you should have a clear, numbers-based answer to the question of which solution is the best.
 

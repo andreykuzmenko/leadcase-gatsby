@@ -19,7 +19,7 @@ With that in mind, building trust is one of the best things you can do to care f
 
 ## 💡 ABCD Model
 
-<!-- image: /images/cards/trust-model/de6edcf48d874dc2.png -->
+<!-- image: /images/cards/trust-model/abcd-model.png -->
 
 The four components of the ABCD acronym – or the “language of trust” – stand for respectively: 
 

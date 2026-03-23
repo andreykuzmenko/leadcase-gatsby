@@ -29,7 +29,7 @@ If you have become a party to a conflict or, as a leader, you need to help the t
 
 ## 🧅 Onion
 
-<!-- image: /images/cards/onion/89b9f6d49024f467.png -->
+<!-- image: /images/cards/onion/onion.png -->
 
 Similar to an onion, in every conflict there are visible parts but also protected inner elements.
 
