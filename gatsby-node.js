@@ -40,7 +40,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
   tags.forEach(tag => {
     createNode({
       ...tag,
-      id: createNodeId(`Tag-${tag.key}`),
+      id: createNodeId(`Tag-${tag.id}`),
       internal: {
         type: 'Tag',
         contentDigest: createContentDigest(tag),
@@ -74,7 +74,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
       slug: fm.id,
       orderRank: orderMap[fm.id],
       topicType: fm.topicType || null,
-      tagIds: tagObjects.map(t => t.key),
+      tagIds: tagObjects.map(t => t.id),
       tagTitles: tagObjects.map(t => t.title),
       links: JSON.stringify(fm.links || []),
       related: fm.related || [],
