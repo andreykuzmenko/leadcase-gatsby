@@ -11,7 +11,7 @@
     "download-images": "node scripts/download-images.js",
     "json-to-md": "node scripts/json-to-md.js",
     "html-to-md": "node scripts/html-to-md.js",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && node scripts/deploy.js"
   },
   "dependencies": {
     "gatsby": "^5.13.3",
