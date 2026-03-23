@@ -37,9 +37,10 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
   const data = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'data.json'), 'utf8'))
   const tags = data.tags
   const tagByTitle = Object.fromEntries(tags.map(t => [t.title, t]))
-  tags.forEach(tag => {
+  tags.forEach((tag, i) => {
     createNode({
       ...tag,
+      orderRank: i,
       id: createNodeId(`Tag-${tag.id}`),
       internal: {
         type: 'Tag',

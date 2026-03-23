@@ -134,9 +134,8 @@ export const query = graphql`
   query HomeQuery {
     allTag(sort: { orderRank: ASC }) {
       nodes {
+        id
         title
-        key
-        orderRank
       }
     }
     allTopic(sort: { orderRank: ASC }) {
