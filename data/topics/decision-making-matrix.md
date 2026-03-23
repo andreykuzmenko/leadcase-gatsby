@@ -4,7 +4,7 @@ title: Decision-making matrix
 description: Choose the best option by considering multiple factors
 topicType: Tool
 tags:
-  - Decision-Making
+  - decision-making
 links:
   - title: What is a Decision Matrix?
     url: 'https://asq.org/quality-resources/decision-matrix'

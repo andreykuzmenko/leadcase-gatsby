@@ -3,8 +3,8 @@ id: moving-motivators
 title: Moving Motivators
 description: Work with motivators of your team members to keep them engaged
 tags:
-  - Team activation
-  - People development
+  - team-activation
+  - people-development
 links:
   - title: Moving Motivators
     url: 'https://management30.com/practice/moving-motivators/'

@@ -3,8 +3,8 @@ id: intrinsic-motivation
 title: Intrinsic motivation
 description: Boost engagement and performance by focusing on inner motivational factors
 tags:
-  - Self-awareness
-  - People development
+  - self-awareness
+  - people-development
 links:
   - title: 'Pink''s Autonomy, Mastery and Purpose Framework'
     url: 'https://www.mindtools.com/pages/article/autonomy-mastery-purpose.htm'

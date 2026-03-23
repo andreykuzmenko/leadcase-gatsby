@@ -3,7 +3,7 @@ id: ladder-of-inference
 title: The ladder of inference
 description: Avoid jumping to conclusions too fast. Make decisions based on real data
 tags:
-  - Communication
+  - communication
 links:
   - title: The Ladder of Inference
     url: 'https://www.mindtools.com/pages/article/newTMC_91.htm'

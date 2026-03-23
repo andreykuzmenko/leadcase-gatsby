@@ -5,8 +5,8 @@ description: >-
   Analyze the relationship between your personal qualities and how they are
   perceived by others
 tags:
-  - Self-awareness
-  - Coaching
+  - self-awareness
+  - coaching
 links:
   - title: The Johari Window Model – How To Become A Great Communicator
     url: 'https://upskillcoach.com/blog/what-is-the-johari-window/'

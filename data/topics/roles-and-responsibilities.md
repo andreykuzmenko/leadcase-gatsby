@@ -6,7 +6,7 @@ description: >-
   work
 topicType: Workshop
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: How to facilitate a team roles and responsibilities workshop
     url: >-

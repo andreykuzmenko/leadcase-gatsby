@@ -5,7 +5,7 @@ description: >-
   Structure information from context to solution for clear, engaging
   communication
 tags:
-  - Communication
+  - communication
 links: []
 related:
   - conflict-escalation-model

@@ -3,7 +3,7 @@ id: kolbs-cycle
 title: Kolb's Learning Cycle
 description: 'Transform experiences into continuous, impactful learning journeys'
 tags:
-  - Coaching
+  - coaching
 links: []
 related:
   - 30-60-90

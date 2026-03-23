@@ -3,8 +3,8 @@ id: inversion-thinking
 title: Inversion thinking
 description: Flip your perspective to solve problems creatively
 tags:
-  - Decision-Making
-  - Problem solving
+  - decision-making
+  - problem-solving
 links: []
 related:
   - assumption-map

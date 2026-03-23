@@ -3,8 +3,8 @@ id: the-4-responses-to-fear
 title: The 4 Responses to Fear
 description: Identifying and managing fear for effective workplace leadership
 tags:
-  - Self-awareness
-  - Decision-Making
+  - self-awareness
+  - decision-making
 links: []
 related:
   - assumption-map

@@ -4,7 +4,7 @@ title: Iceberg model
 description: Uncover the root causes of events by looking at hidden levels of abstractions
 topicType: Tool
 tags:
-  - Change Management
+  - change-management
 links:
   - title: 'A systems thinking model: the iceberg'
     url: 'https://ecochallenge.org/iceberg-model/'

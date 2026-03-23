@@ -5,7 +5,7 @@ description: >-
   Build relationships with people through transparency to have a high level of
   trust
 tags:
-  - Communication
+  - communication
 links: []
 related:
   - conflict-escalation-model

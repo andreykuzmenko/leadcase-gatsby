@@ -5,7 +5,7 @@ description: >-
   Make "good enough" decisions when speed is needed, proposals are clearly
   defined, and the impact of decisions is limited and reversible.
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: Consent Decision Making
     url: 'https://patterns.sociocracy30.org/consent-decision-making.html'

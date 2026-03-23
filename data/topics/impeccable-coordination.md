@@ -4,7 +4,7 @@ title: Impeccable Coordination
 description: Coordinate agreements and actions through commitments
 topicType: Tool
 tags:
-  - Communication
+  - communication
 links:
   - title: 'Book "Conscious Business: How to Build Value through Values"'
     url: >-

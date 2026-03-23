@@ -3,7 +3,7 @@ id: window-of-tolerance
 title: The Window of Tolerance
 description: Monitor your level of emotional state
 tags:
-  - Self-awareness
+  - self-awareness
 links:
   - title: Understanding the Window of Tolerance and How it Affects You
     url: 'https://www.mindmypeelings.com/blog/window-of-tolerance'

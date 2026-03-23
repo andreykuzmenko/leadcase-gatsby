@@ -3,7 +3,7 @@ id: brainwriting
 title: Brainwriting
 description: Involve all team members in generating ideas during brainstorming sessions
 tags:
-  - Facilitation
+  - facilitation
 links:
   - title: Brainwriting - Enabling Everyone to Share Their Creative Ideas
     url: 'https://www.mindtools.com/pages/article/newct_86.htm'

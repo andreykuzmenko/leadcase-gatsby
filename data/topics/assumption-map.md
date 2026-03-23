@@ -3,7 +3,7 @@ id: assumption-map
 title: Assumption map
 description: Reduce dependence on mere guesswork when considering new ideas
 tags:
-  - Decision-Making
+  - decision-making
 links:
   - title: Assumptions Mapping for Product Discovery
     url: 'https://productfolio.com/assumption-mapping/'

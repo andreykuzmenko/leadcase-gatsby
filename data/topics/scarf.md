@@ -3,7 +3,7 @@ id: scarf
 title: SCARF
 description: Communicate with people in a way that makes them feel safe
 tags:
-  - Communication
+  - communication
 links:
   - title: The SCARF Model By DAVID ROCK - EXPLAINED
     url: 'https://www.youtube.com/watch?v=PKYP3S92RqU'

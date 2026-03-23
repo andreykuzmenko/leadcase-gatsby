@@ -6,7 +6,7 @@ description: |-
   blaming others or sounding threatening
 topicType: Tool
 tags:
-  - Communication
+  - communication
 links:
   - title: “I” Message
     url: 'https://www.goodtherapy.org/blog/psychpedia/i-message'

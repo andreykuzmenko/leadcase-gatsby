@@ -4,8 +4,8 @@ title: Zone of Genius
 description: Align work with natural talents and passions for maximum fulfillment
 topicType: Tool
 tags:
-  - Self-awareness
-  - People development
+  - self-awareness
+  - people-development
 links:
   - title: How To Figure Out What Your Zone of Genius Is
     url: >-

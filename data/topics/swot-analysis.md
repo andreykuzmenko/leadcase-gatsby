@@ -3,7 +3,7 @@ id: swot-analysis
 title: SWOT analysis
 description: Assess internal and external factors to guide decision-making
 tags:
-  - Decision-Making
+  - decision-making
 links: []
 related:
   - assumption-map

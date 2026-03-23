@@ -3,7 +3,7 @@ id: hackman
 title: Hackman's model
 description: Six necessary conditions for creating an effective team
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: What makes teams of leaders leadable?
     url: >-

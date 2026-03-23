@@ -3,7 +3,7 @@ id: trust-triangle
 title: The Triangle of Trust
 description: Build trusting relationships with people
 tags:
-  - Self-awareness
+  - self-awareness
 links:
   - title: Begin with Trust
     url: 'https://hbr.org/2020/05/begin-with-trust'

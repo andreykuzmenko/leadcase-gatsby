@@ -3,7 +3,7 @@ id: minto-pyramid
 title: The Minto Pyramid
 description: Communicate complex information in a way that is easy to understand
 tags:
-  - Communication
+  - communication
 links:
   - title: Minto Pyramid Principle
     url: 'https://www.toolshero.com/communication-methods/minto-pyramid-principle/'

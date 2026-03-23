@@ -4,7 +4,7 @@ title: Improvement Canvas
 description: Explore where you are now and decide where you want to go next
 topicType: Workshop
 tags:
-  - Problem solving
+  - problem-solving
 links:
   - title: Improvement Canvas
     url: 'https://dandypeople.com/blog/improvement-canvas-free-download/'

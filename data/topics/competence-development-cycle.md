@@ -3,7 +3,7 @@ id: competence-development-cycle
 title: Competence Development Cycle
 description: Master new abilities from unconscious incompetence to competence
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: Магический квадрат — Цикл развития компетентности
     url: 'http://system-approach.ru/2009/10/competence-wheel/'

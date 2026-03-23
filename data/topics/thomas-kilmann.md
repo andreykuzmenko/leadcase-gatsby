@@ -3,7 +3,7 @@ id: thomas-kilmann
 title: The Thomas-Kilmann Model
 description: Choose conflict resolution tactics depending on your goals
 tags:
-  - Communication
+  - communication
 links:
   - title: What Are the Five Conflict Resolution Strategies?
     url: >-

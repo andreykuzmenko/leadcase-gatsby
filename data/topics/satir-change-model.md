@@ -3,7 +3,7 @@ id: satir-change-model
 title: The Satir Change Model
 description: Navigate and manage change through emotional and psychological stages
 tags:
-  - Change Management
+  - change-management
 links: []
 related:
   - fogg-behavior-model

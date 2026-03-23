@@ -4,7 +4,7 @@ title: 'Start, Stop, Continue'
 description: Analyze your experience and find practical ideas for continuous improvement
 topicType: Workshop
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: 'Start, Stop, Continue Tutorial'
     url: >-

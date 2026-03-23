@@ -3,7 +3,7 @@ id: personal-maps
 title: Personal maps
 description: Increase trust in the team through personal stories
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: Personal Maps
     url: 'https://management30.com/practice/personal-maps/'

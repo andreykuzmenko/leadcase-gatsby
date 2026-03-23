@@ -3,8 +3,8 @@ id: uncover-motivation
 title: Uncover Motivation
 description: Find out what motivates your team members
 tags:
-  - Coaching
-  - People development
+  - coaching
+  - people-development
 links:
   - title: 'Uncover Motivations 1:1'
     url: 'https://miro.com/miroverse/uncover-motivations-1-1/'

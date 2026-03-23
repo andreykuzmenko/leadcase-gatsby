@@ -3,7 +3,7 @@ id: situational-leadership
 title: Situational Leadership
 description: Choose a leadership style depending on the level of team members
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: Hersey and Blanchard Situational Leadership Model explained
     url: >-

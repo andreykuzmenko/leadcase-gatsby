@@ -3,7 +3,7 @@ id: safety-check
 title: Safety check
 description: Keep track of your team's security level
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: Safety check
     url: 'https://www.funretrospectives.com/safety-check/'

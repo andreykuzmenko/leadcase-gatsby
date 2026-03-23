@@ -3,7 +3,7 @@ id: coin-feedback-model
 title: COIN feedback model
 description: 'Correct behavior by giving clear, structured, and actionable feedback'
 tags:
-  - Team activation
+  - team-activation
 links: []
 related:
   - competence-development-cycle

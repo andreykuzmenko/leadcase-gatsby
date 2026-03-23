@@ -4,7 +4,7 @@ title: Team Canvas
 description: Align team members on project objectives and common ways of working
 topicType: Workshop
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: Get your team on the same page
     url: 'http://theteamcanvas.com/'

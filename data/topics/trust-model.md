@@ -3,7 +3,7 @@ id: trust-model
 title: ABCD Trust Model
 description: Build trust with people supported by actions and behavior
 tags:
-  - Self-awareness
+  - self-awareness
 links: []
 related:
   - feedback-staircase

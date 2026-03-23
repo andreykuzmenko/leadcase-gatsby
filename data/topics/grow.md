@@ -4,8 +4,8 @@ title: GROW
 description: Coaching model for goal setting and problem solving
 topicType: Tool
 tags:
-  - Coaching
-  - People development
+  - coaching
+  - people-development
 links:
   - title: The GROW Model
     url: 'https://www.coachingcultureatwork.com/the-grow-model/'

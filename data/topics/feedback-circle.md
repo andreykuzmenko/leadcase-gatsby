@@ -4,7 +4,7 @@ title: Feedback Circle
 description: Build a culture of feedback sharing in the team.
 topicType: Workshop
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: 'The Feedback Game, Modified'
     url: 'https://medium.com/designstrat/the-feedback-game-modified-a9608473ea89'

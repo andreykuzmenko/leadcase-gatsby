@@ -3,8 +3,8 @@ id: feedback-staircase
 title: Feedback Staircase
 description: Navigate emotions to transform feedback into growth
 tags:
-  - Team activation
-  - Self-awareness
+  - team-activation
+  - self-awareness
 links: []
 related:
   - coin-feedback-model

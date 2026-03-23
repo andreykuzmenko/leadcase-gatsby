@@ -4,7 +4,7 @@ title: 'Onion: Conflict Resolution'
 description: Reveal people's needs that they want to satisfy in a conflict
 topicType: Tool
 tags:
-  - Communication
+  - communication
 links:
   - title: Understanding and Working with Conflict
     url: >-

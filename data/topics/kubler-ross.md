@@ -4,7 +4,7 @@ title: Kubler-Ross Change Curve
 description: How people react to changes and what you can do to help them
 topicType: Tool
 tags:
-  - Change Management
+  - change-management
 links:
   - title: Five stages of grief
     url: 'https://en.wikipedia.org/wiki/Five_stages_of_grief'

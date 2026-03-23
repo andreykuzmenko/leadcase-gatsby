@@ -3,7 +3,7 @@ id: feedback-wrap
 title: Feedback Wrap
 description: Provide constructive feedback in a structured and effective manner
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: Performance Management with the Feedback Wrap
     url: 'https://www.youtube.com/watch?v=YTh8bDyDz9c&feature=emb_logo'

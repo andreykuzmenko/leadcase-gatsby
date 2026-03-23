@@ -6,7 +6,7 @@ description: >-
   structure
 topicType: Tool
 tags:
-  - Facilitation
+  - facilitation
 links:
   - title: IDOARRT Meeting Design
     url: 'https://toolbox.hyperisland.com/idoarrt-meeting-design'

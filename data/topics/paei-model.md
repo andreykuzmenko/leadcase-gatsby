@@ -3,7 +3,7 @@ id: paei-model
 title: PAEI Model (Management roles)
 description: Balance team roles for optimal efficiency and results.
 tags:
-  - Team activation
+  - team-activation
 links: []
 related:
   - coin-feedback-model

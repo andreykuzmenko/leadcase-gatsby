@@ -4,7 +4,7 @@ title: Skills Market
 description: Learn more about the skills of your team members
 topicType: Workshop
 tags:
-  - Team activation
+  - team-activation
 links:
   - title: Market of Skills
     url: 'https://medium.com/practicalscrum/market-of-skills-634a6ebf3363'

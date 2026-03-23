@@ -3,7 +3,7 @@ id: cynefin
 title: Cynefin framework
 description: Mastering Decision-Making Across Complex Environments
 tags:
-  - Decision-Making
+  - decision-making
 links: []
 related:
   - assumption-map

@@ -3,7 +3,7 @@ id: performance-image-exposure
 title: 'Performance, Image, Exposure'
 description: 'Grow your career through performance, perception, and strategic visibility'
 tags:
-  - Self-awareness
+  - self-awareness
 links: []
 related:
   - feedback-staircase

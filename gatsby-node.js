@@ -36,7 +36,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
   // Load tags and topics list from data.json
   const data = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'data.json'), 'utf8'))
   const tags = data.tags
-  const tagByTitle = Object.fromEntries(tags.map(t => [t.title, t]))
+  const tagById = Object.fromEntries(tags.map(t => [t.id, t]))
   tags.forEach((tag, i) => {
     createNode({
       ...tag,
@@ -62,9 +62,9 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
 
     if (!(fm.id in orderMap)) return
 
-    const tagObjects = (fm.tags || []).map(title => {
-      const tag = tagByTitle[title]
-      if (!tag) reporter.warn(`Unknown tag "${title}" in ${file}`)
+    const tagObjects = (fm.tags || []).map(id => {
+      const tag = tagById[id]
+      if (!tag) reporter.warn(`Unknown tag "${id}" in ${file}`)
       return tag
     }).filter(Boolean)
 

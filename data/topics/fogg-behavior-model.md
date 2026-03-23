@@ -3,8 +3,8 @@ id: fogg-behavior-model
 title: Fogg Behavior Model
 description: 'Align motivation, ability, and cues to trigger desired behaviors'
 tags:
-  - Self-awareness
-  - Change Management
+  - self-awareness
+  - change-management
 links: []
 related:
   - feedback-staircase
