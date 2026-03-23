@@ -74,7 +74,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
       slug: fm.id,
       orderRank: orderMap[fm.id],
       topicType: fm.topicType || null,
-      tagIds: tagObjects.map(t => t.key.toLowerCase()),
+      tagIds: tagObjects.map(t => t.key),
       tagTitles: tagObjects.map(t => t.title),
       links: JSON.stringify(fm.links || []),
       related: fm.related || [],

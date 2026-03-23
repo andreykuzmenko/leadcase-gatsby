@@ -86,16 +86,16 @@ const IndexPage = ({ data, location }) => {
             {tags.map(tag => (
               <button
                 key={tag.key}
-                onClick={() => selectTag(activeTag === tag.key.toLowerCase() ? null : tag.key.toLowerCase())}
+                onClick={() => selectTag(activeTag === tag.key ? null : tag.key)}
                 style={{
                   padding: '8px 20px',
                   borderRadius: 99,
                   fontSize: 14,
                   fontWeight: 500,
                   border: '1.5px solid',
-                  borderColor: activeTag === tag.key.toLowerCase() ? '#10b981' : 'var(--color-border)',
-                  background: activeTag === tag.key.toLowerCase() ? '#10b981' : '#fff',
-                  color: activeTag === tag.key.toLowerCase() ? '#111827' : 'var(--color-text)',
+                  borderColor: activeTag === tag.key ? '#10b981' : 'var(--color-border)',
+                  background: activeTag === tag.key ? '#10b981' : '#fff',
+                  color: activeTag === tag.key ? '#111827' : 'var(--color-text)',
                   transition: 'all 0.15s',
                   cursor: 'pointer',
                 }}
