@@ -84,7 +84,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
       id: createNodeId(`Topic-${fm.id}`),
       internal: {
         type: 'Topic',
-        contentDigest: createContentDigest(raw),
+        contentDigest: createContentDigest(raw + orderMap[fm.id]),
       },
     })
   })
