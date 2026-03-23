@@ -2,7 +2,7 @@
 
 ## Overview
 
-Static site built with **Gatsby 5 + React 18**, deployed to GitHub Pages at `https://app.leadcase.net`.
+Static site built with **Gatsby 5 + React 18**, deployed to GitHub Pages at `https://leadcase.net`.
 
 All content (topics, tags, images) is stored locally in the `data/` directory as JSON files and images — no runtime API calls. The site is fully static after build.
 
@@ -24,7 +24,7 @@ leadcase/
 ├── static/
 │   ├── logo.svg
 │   ├── favicon.ico
-│   ├── CNAME                  # Custom domain: app.leadcase.net
+│   ├── CNAME                  # Custom domain: leadcase.net
 │   └── images/
 │       └── cards/
 │           └── {id}.png       # Card images served as static assets
@@ -136,7 +136,7 @@ Card images also have `localUrl` set in the topic JSON (written by `download-ima
 
 ## Deployment
 
-The site deploys to the `gh-pages` branch of the GitHub repo, served by GitHub Pages with custom domain `app.leadcase.net`.
+The site deploys to the `gh-pages` branch of the GitHub repo, served by GitHub Pages with custom domain `leadcase.net`.
 
 ```bash
 npm run deploy
@@ -144,11 +144,11 @@ npm run deploy
 
 This runs `gatsby build` (no pathPrefix needed since a custom domain is used) then pushes `public/` to the `gh-pages` branch.
 
-The `static/CNAME` file contains `app.leadcase.net` and is included in every build so the custom domain setting persists after each deploy.
+The `static/CNAME` file contains `leadcase.net` and is included in every build so the custom domain setting persists after each deploy.
 
 ### DNS
 
-`app.leadcase.net` is a CNAME pointing to `andreykuzmenko.github.io`.
+`leadcase.net` is a CNAME pointing to `andreykuzmenko.github.io`.
 
 ---
 
