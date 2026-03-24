@@ -23,6 +23,7 @@
     "gatsby-transformer-sharp": "^5.16.0",
     "gray-matter": "^4.0.3",
     "marked": "^4.3.0",
+    "mixpanel-browser": "^2.76.0",
     "node-fetch": "^2.7.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

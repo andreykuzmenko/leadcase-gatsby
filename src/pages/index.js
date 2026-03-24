@@ -3,6 +3,7 @@ import { graphql, navigate } from 'gatsby'
 import { getImage } from 'gatsby-plugin-image'
 import Layout from '../components/Layout'
 import TopicCard from '../components/TopicCard'
+import { trackFilter } from '../utils/tracking'
 
 const IndexPage = ({ data, location }) => {
   const tags = data.allTag.nodes
@@ -19,12 +20,14 @@ const IndexPage = ({ data, location }) => {
   }, [location.search])
 
   const selectTag = (tagId) => {
-    setActiveTag(tagId)
     if (tagId) {
+      const tag = tags.find(t => t.id === tagId)
+      trackFilter(tagId, tag?.title || tagId)
       navigate(`/?tag=${tagId}`, { replace: true })
     } else {
       navigate('/', { replace: true })
     }
+    setActiveTag(tagId)
   }
 
   const filtered = useMemo(() => {

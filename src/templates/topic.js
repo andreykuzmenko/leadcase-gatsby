@@ -1,8 +1,9 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { graphql, withPrefix, Link } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import Layout from '../components/Layout'
 import TopicCard from '../components/TopicCard'
+import { trackTopicOpen } from '../utils/tracking'
 
 const card = {
   background: '#fff',
@@ -14,6 +15,10 @@ const card = {
 
 const TopicTemplate = ({ data }) => {
   const topic = data.topic
+
+  useEffect(() => {
+    trackTopicOpen(topic.slug, topic.title, topic.slug)
+  }, [topic.slug])
   const cards = JSON.parse(topic.cards || '[]')
   const links = JSON.parse(topic.links || '[]')
   const image = getImage(topic.localImage)
