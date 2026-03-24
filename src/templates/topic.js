@@ -148,6 +148,11 @@ const TopicTemplate = ({ data }) => {
 
 export const query = graphql`
   query TopicQuery($slug: String!, $relatedSlugs: [String!]) {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
     topic: topic(slug: { eq: $slug }) {
       title
       description
@@ -182,10 +187,25 @@ export const query = graphql`
 
 export default TopicTemplate
 
-export const Head = ({ data }) => (
-  <>
-    <title>{data.topic.title} | Leadcase</title>
-    <meta name="description" content={data.topic.description} />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" />
-  </>
-)
+export const Head = ({ data }) => {
+  const { title, description, slug } = data.topic
+  const siteUrl = data.site.siteMetadata.siteUrl
+  const pageUrl = `${siteUrl}/topics/${slug}/`
+  const imageUrl = `${siteUrl}/images/topics/${slug}.png`
+  return (
+    <>
+      <title>{title} | Leadcase</title>
+      <meta name="description" content={description} />
+      <meta property="og:type" content="article" />
+      <meta property="og:url" content={pageUrl} />
+      <meta property="og:title" content={title} />
+      <meta property="og:description" content={description} />
+      <meta property="og:image" content={imageUrl} />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content={title} />
+      <meta name="twitter:description" content={description} />
+      <meta name="twitter:image" content={imageUrl} />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" />
+    </>
+  )
+}
