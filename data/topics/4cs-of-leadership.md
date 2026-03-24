@@ -1,9 +1,7 @@
 ---
 id: 4cs-of-leadership
 title: 4 Cs of Leadership
-description: >-
-  Build lasting leadership on competency, commitment, courage, and candor.
-  Plus consistency as you grow into senior roles.
+description: Build lasting leadership on competency, commitment, courage, and candor
 tags:
   - coaching
   - people-development
@@ -24,13 +22,13 @@ The **4 Cs of Leadership** captures what it actually takes to lead people, not j
 
 Developed at Thayer Leadership, the framework identifies five qualities that define effective leaders at every level.
 
-| C | What it means |
+| **C** | What it means |
 |---|---|
-| Competency | You know your craft |
-| Commitment | You're invested in the mission and the people |
-| Courage | You take the hard right over the easy wrong |
-| Candor | You speak truth, even when it's uncomfortable |
-| Consistency | You're the same leader every day *(senior leaders)* |
+| **Competency** | You know your craft |
+| **Commitment** | You're invested in the mission and the people |
+| **Courage** | You take the hard right over the easy wrong |
+| **Candor** | You speak truth, even when it's uncomfortable |
+| **Consistency** | You're the same leader every day *(senior leaders)* |
 
 The first four apply to all leaders. **Consistency** becomes critical as you move into senior roles, where pressure is constant and ambiguity is the default.
 

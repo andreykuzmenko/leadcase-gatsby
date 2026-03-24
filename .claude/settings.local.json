@@ -106,7 +106,8 @@
       "Bash(grep -h \"^  - \" /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
       "Bash(find /Users/Andrii/Documents/Development/Leadcase/data/topics -name \"*.md\" -exec grep -A 20 \"^tags:\" {})",
       "Bash(grep \"^id:\" /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
-      "Bash(ls /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)"
+      "Bash(ls /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
+      "Bash(curl -s http://localhost:8000/topics/leadership-uncertainty-matrix/)"
     ]
   }
 }
