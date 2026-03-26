@@ -1,5 +1,6 @@
 /** @type {import('gatsby').GatsbyConfig} */
 module.exports = {
+  trailingSlash: 'never',
   siteMetadata: {
     title: `Leadcase`,
     description: `Collection of tools, frameworks, models, and ideas to grow people and improve teamwork`,
