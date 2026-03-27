@@ -1,4 +1,19 @@
 {
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"D:/Development/Test/leadcase-gatsby/.claude/run-tests-on-change.js\"",
+            "async": true,
+            "statusMessage": "Running tests..."
+          }
+        ]
+      }
+    ]
+  },
   "permissions": {
     "allow": [
       "WebFetch(domain:leadcase.net)",
@@ -107,7 +122,19 @@
       "Bash(find /Users/Andrii/Documents/Development/Leadcase/data/topics -name \"*.md\" -exec grep -A 20 \"^tags:\" {})",
       "Bash(grep \"^id:\" /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
       "Bash(ls /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
-      "Bash(curl -s http://localhost:8000/topics/leadership-uncertainty-matrix/)"
+      "Bash(curl -s http://localhost:8000/topics/leadership-uncertainty-matrix/)",
+      "Bash(npx playwright:*)",
+      "Bash(npm test:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/sitemap.xml)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/sitemap/sitemap-0.xml)",
+      "Bash(curl -s http://localhost:8000/topics/leadership-uncertainty-matrix)",
+      "Bash(curl -sv http://localhost:8000/topics/leadership-uncertainty-matrix)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(node -e \"const d=JSON.parse\\(require\\(''''fs''''\\).readFileSync\\(''''/dev/stdin'''',''''utf8''''\\)\\); const f=d.tool_input.file_path||''''''''; process.exit\\(f.includes\\(''''/src/''''\\) || f.includes\\(''''/data/''''\\) ? 0 : 1\\)\")",
+      "Bash(node -e \"let d='''''''';process.stdin.on\\(''''data'''',c=>d+=c\\);process.stdin.on\\(''''end'''',\\(\\)=>{const f=JSON.parse\\(d\\).tool_input.file_path||'''''''';process.exit\\(/[/\\\\]\\(src|data\\)[/\\\\]/.test\\(f\\)?0:1\\)}\\)\")",
+      "Bash(node -e \"let d='''''''';process.stdin.on\\(''''data'''',c=>d+=c\\);process.stdin.on\\(''''end'''',\\(\\)=>{const f=JSON.parse\\(d\\).tool_input.file_path||'''''''';const ok=f.includes\\(''''/src/''''\\)||f.includes\\(''''\\\\src\\\\''''\\)||f.includes\\(''''/data/''''\\)||f.includes\\(''''\\\\data\\\\''''\\);process.exit\\(ok?0:1\\)}\\)\")",
+      "Bash(node \"D:/Development/Test/leadcase-gatsby/.claude/run-tests-on-change.js\")"
     ]
   }
 }
