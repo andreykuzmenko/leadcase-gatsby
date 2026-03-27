@@ -6,3 +6,6 @@ public/
 **/.DS_Store
 .claude/
 gatsby*.log
+playwright-report/
+test-results/
+coverage/
