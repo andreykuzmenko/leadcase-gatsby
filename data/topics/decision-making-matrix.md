@@ -18,7 +18,7 @@ related:
 ---
 ## 🤔 Making decisions
 
-Making the right decisions can help steer the team in the right direction and achieve the desired goals, but how do you know which decision is right? What do you do when confronted with a choice among several available options? Flip a coin? Throw dices?
+Making the right decisions can help steer the team in the right direction and achieve the desired goals, but how do you know which decision is right? What do you do when confronted with a choice among several available options? Flip a coin? Throw dice?
 
 If you have difficulties in this process, then you will be helped by **the decision matrix.** This tool allows us to quickly consider all "for" and "against" of each option, weigh various variables and make the right decision.
 
@@ -45,13 +45,13 @@ Continuing with our example, your team has decided that the important criteria w
 -   communication
 -   customer feedback.
 
-## 🛠 3. Create your own decison matrix
+## 🛠 3. Create your own decision matrix
 
 <!-- image: /images/cards/decision-making-matrix/3-create-your-own-decison-matrix.png -->
 
 **The decision matrix** is a grid where you can compare criteria between different options.
 
-## 🖋 4. Fill in the decison matrix
+## 🖋 4. Fill in the decision matrix
 
 <!-- image: /images/cards/decision-making-matrix/4-fill-in-the-decison-matrix.png -->
 

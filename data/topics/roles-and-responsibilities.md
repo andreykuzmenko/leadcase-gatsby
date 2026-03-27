@@ -59,8 +59,8 @@ _If any responsibilities are difficult to assign to a role, they can be put on a
 
 1.  Select one role, for example, **Product Manager**.
 2.  Ask the representative(s) of that role to read what they wrote down as their top 3-5 priorities and place them in the appropriate grid square.
-3.  Then, ask each team member to read what they wrote down as the Sales Manager's top 1-2 priorities.
-4.  At this point, the Sales Manager can **accept or reject** responsibilities that other team members have suggested.
+3.  Then, ask each team member to read what they wrote down as the Product Manager's top 1-2 priorities.
+4.  At this point, the Product Manager can **accept or reject** responsibilities that other team members have suggested.
 5.  If a role representative declines, the team should figure out which role should be assigned that responsibility or move it to the "Not Assigned" column if it does not currently have an owner**.**
 
 **Repeat this exercise** for every role in the team and discuss the unassigned responsibilities as you go to see if they fit anywhere.

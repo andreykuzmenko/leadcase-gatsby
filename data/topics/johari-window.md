@@ -38,7 +38,7 @@ Let's explore how applying this tool allows you to look inside yourself, find yo
 
 <!-- image: /images/cards/johari-window/open-area.png -->
 
-The first square is "open. This square represents actions, behaviors, and information known to the person and those around them.
+The first square is "open." This square represents actions, behaviors, and information known to the person and those around them.
 
 This information is publicly available. The larger the square, the more information about the individual is known, and the more effective and productive the relationships between people will be.
 
@@ -56,7 +56,7 @@ Feelings, ambitions, dreams, and opinions may be hidden from the group by the in
 
 This zone includes information that is unknown to the person or others. It includes feelings, abilities, and talents that are hidden from everyone and can manifest in a certain situation. The unknown zone is the possibility of introspection, the possibility of constant growth, and the possibility of finding hidden reserves in oneself.
 
-This zone can be reduced by identifying previously unknown abilities, mastering new knowledge and skills, expanding one's comfort zone
+This zone can be reduced by identifying previously unknown abilities, mastering new knowledge and skills, expanding one's comfort zone.
 
 ## 😵 Blind spot
 

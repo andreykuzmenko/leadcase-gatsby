@@ -27,8 +27,6 @@ When we learn a new skill, we go through 4 stages. Understanding these stages wi
 
 This model can be useful if you are in a coaching role and teaching others. You can help people understand their state of mind as they learn new skills and support them when they lose confidence and motivation.
 
-The model can be useful if you are in a coaching role and training others
-
 ## 😧 Unconscious incompetence
 
 This is the **initial stage** where an individual is not aware of a specific skill or knowledge area. In this phase, there's a lack of awareness about both the existence of a certain skill and one's proficiency in it. It’s characterized by an absence of understanding or capability, but also by a lack of recognition of this deficiency. Individuals in this stage are often unaware of the potential benefits that acquiring the new skill could bring.
@@ -37,7 +35,7 @@ This is the **initial stage** where an individual is not aware of a specific ski
 
 _Sarah, a new manager, is unaware that her micromanagement is demotivating her team._
 
-## 😵‍💫 Сonscious incompetence
+## 😵‍💫 Conscious incompetence
 
 The second stage occurs when individuals become **aware of their lack of skill**. This awareness can come from self-realization or external feedback. It's marked by the understanding that there is a skill gap and a subsequent acknowledgment that this gap needs to be filled. This phase is often accompanied by a sense of inadequacy or shortfall in capability, but it is crucial as it motivates the learning process.
 

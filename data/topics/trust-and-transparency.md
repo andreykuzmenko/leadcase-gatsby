@@ -25,7 +25,7 @@ Let's try to look at the example of working with a client. This, in turn, can be
 
 <!-- image: /images/cards/trust-and-transparency/low-trust-and-low-transparency.png -->
 
-New client relationships usually start in a square of low trust and low transparency. Even if the other side says they trust you as themselves, you haven't worked together yet, and there's minimal trust."
+New client relationships usually start in a square of low trust and low transparency. Even if the other side says they trust you as themselves, you haven't worked together yet, and there's minimal trust.
 
 _To increase trust, start building transparency._
 

@@ -46,7 +46,7 @@ Let's take a closer look at each stage with examples of questions that can be as
 
 ## 🎯 Goal
 
-One of the features of coaching is that we focus on action and change. That's why it is important to **understand the goal essential part of the conversation.**
+One of the features of coaching is that we focus on action and change. That's why it is important to **understand the goal, an essential part of the conversation.**
 
 ### Examples of questions:
 
@@ -54,7 +54,7 @@ One of the features of coaching is that we focus on action and change. That's wh
 -   Which result will be the best for you?
 -   How will you know that it is precisely the result you were aiming for?
 -   What criteria will you use to assess the success of achieving the result?
--   What is essential for you to in achieving this goal?
+-   What is essential for you in achieving this goal?
 -   How achieving this goal will affect all areas of your life?
 -   What will happen when you achieve the result?
 -   What will you get that you don't have now?

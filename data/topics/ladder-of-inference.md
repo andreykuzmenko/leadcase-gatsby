@@ -22,9 +22,9 @@ related:
 ---
 ## ❌ Errors in decision making
 
-In our fast-paced age, people don't have time to think carefully about information, so most of us jump to conclusions. At best, we're corrected; at worst, it can lead to a loss of money or a deterioration in our relationship with others. It also works the other way around-your interlocutor may draw the wrong conclusions, and if you don't recognize that, you may have the incorrect information.
+In our fast-paced age, people don't have time to think carefully about information, so most of us jump to conclusions. At best, we're corrected; at worst, it can lead to a loss of money or a deterioration in our relationship with others. It also works the other way around: your interlocutor may draw the wrong conclusions, and if you don't recognize that, you may have the incorrect information.
 
-**The Ladder of Conclusions** helps you draw the correct conclusions and have constructive discussions with people.
+**The Ladder of Inference** helps you draw the correct conclusions and have constructive discussions with people.
 
 ## 💡 The Ladder of Inference
 

@@ -22,7 +22,7 @@ related:
 
 How often have you been in this situation:
 
--   you asked a colleague to do a task by a certain deadline, but he did not/did not half-do it as promised.
+-   you asked a colleague to do a task by a certain deadline, but he did not do it, or only half-did it, as promised.
 -   you could not refuse your supervisor's request to take over a project so as not to hurt your career, and as a result, you worked on several projects in parallel without rest.
 -   you promised to do your best, even though you initially knew you would not, but did not want to refuse outright.
 
@@ -106,4 +106,4 @@ You can, however, **start with yourself**, properly formulating requests for you
 
 "Impeccable coordination" can also be a valuable tool **in teamwork arrangements**. This can be done by organizing a workshop where everyone can become familiar with it and agree on how to use it.
 
-Impeccable can also be a useful tool as part of a teamwork agreement.
+Impeccable Coordination can also be a useful tool as part of a teamwork agreement.

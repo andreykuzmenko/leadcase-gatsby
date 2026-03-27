@@ -68,7 +68,7 @@ It gets harder the more senior you are. There's always pressure to soften messag
 
 Candor isn't bluntness. It's the discipline to say what needs to be said, with care for how it lands.
 
-## ⭐ Consistency — the fifth C
+## ⭐ Consistency: the fifth C
 
 For senior leaders, consistency becomes the foundation everything else rests on.
 

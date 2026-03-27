@@ -23,7 +23,7 @@ related:
 
 One of the models of systemic thinking that helps to understand global issues is **the iceberg model**.
 
-It is known that the iceberg has only 10 percent of its mass above the water, while 90 percent stays underneath. But those 90 percents are what ocean currents act on and what shapes the iceberg at its top. In the same way, global problems can be looked at and studied.
+It is known that the iceberg has only 10 percent of its mass above the water, while 90 percent stays underneath. But that 90 percent is what ocean currents act on and what shapes the iceberg at its top. In the same way, global problems can be looked at and studied.
 
 **The iceberg model** is an instrument that allows us to see and understand the causes beyond the immediate events that everyone notices.
 

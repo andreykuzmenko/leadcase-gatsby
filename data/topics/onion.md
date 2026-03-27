@@ -45,7 +45,7 @@ Similar to an onion, in every conflict there are visible parts but also protecte
 
 ## 🗣 Positions
 
-**The position** can be seen without weapons, the behavior, and the words of your interlocutor. Position is presented so that a person can be seen or heard. And for this, a person can shout, swear, cry, laugh, say non-constructive phrases or say nothing but press with their silence and ignoring.
+**The position** can be seen through the behavior and the words of your interlocutor. Position is presented so that a person can be seen or heard. And for this, a person can shout, swear, cry, laugh, say non-constructive phrases or say nothing but press with their silence and ignoring.
 
 ## 👤 Interests
 
@@ -61,7 +61,7 @@ Once we have determined and clearly understood our needs and interests and those
 
 ## 💡 How to apply the model?
 
-Analyzing the conflict, draw (on a sheet or in your mind) a lily and start filling it in. The first layer is fixed. We see and hear it; it is our "given" in the equation with two unknowns. Then think about what interests your interlocutor tries to satisfy with this position. And then try to identify unsatisfied needs.
+Analyzing the conflict, draw (on a sheet or in your mind) an onion and start filling it in. The first layer is fixed. We see and hear it; it is our "given" in the equation with two unknowns. Then think about what interests your interlocutor tries to satisfy with this position. And then try to identify unsatisfied needs.
 
 ### Example
 

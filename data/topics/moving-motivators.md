@@ -31,9 +31,9 @@ Using the **Moving Motivators** exercise, you can learn about your team's intern
 
 <!-- image: /images/cards/moving-motivators/moving-motivators.jpg -->
 
-**Moving Motivators** were developed by Jurgen Appelo (aythor of Management 3.0 ) and are designed to help us think about motivation and how it affects organizational change.
+**Moving Motivators** were developed by Jurgen Appelo (author of Management 3.0) and are designed to help us think about motivation and how it affects organizational change.
 
-The exercise Moving Motivators is based on ten internal motivators, which Juergen borrowed from the work of Daniel Pink, Stephen Reiss and Edward Desi.
+The exercise Moving Motivators is based on ten internal motivators, which Juergen borrowed from the work of Daniel Pink, Stephen Reiss and Edward Deci.
 
 ## 👀 Types of motivation
 

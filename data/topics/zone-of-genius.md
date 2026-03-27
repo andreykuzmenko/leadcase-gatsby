@@ -51,11 +51,11 @@ To determine your area of expertise, it's essential to **consider your talents a
 
 ## 🔬 1. Experiment & Collect
 
-Contrary to popular belief, it is optional to have a clear career path mapped out upon graduating college.
+Contrary to popular belief, it is not necessary to have a clear career path mapped out upon graduating college.
 
 Instead, **it is important to explore different options** and gather information to make informed decisions. This can be done through experimentation and trying different working styles without committing to a specific job or career.
 
-The goal is to **gain diverse experience**s that will allow you to assess your skills and passions. It is also helpful to consider both your perspective and the perspectives of others when collecting data.
+The goal is to **gain diverse experiences** that will allow you to assess your skills and passions. It is also helpful to consider both your perspective and the perspectives of others when collecting data.
 
 You can ask others about their experiences working with you, including their observations on your strengths, weaknesses, and times when they have seen you perform at your best.
 

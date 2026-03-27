@@ -106,14 +106,14 @@ Planning the time intervals and pauses will allow distribution of the load and r
 
 ## 👉 Steps for designing a meeting
 
-**STEP 1.** To create an IDOART for your meeting, you can start filling in the elements you already know. The others will follow.
+**STEP 1.** To create an IDOARRT for your meeting, you can start filling in the elements you already know. The others will follow.
 
 **STEP 2.** Clarify and record the intention and desired outcome before creating your agenda in detail.
 
-**STEP 3.** Fill out the agenda, rules, roles, and times. Embed iterations in the meeting design process and refine it to improve the IDOART.
+**STEP 3.** Fill out the agenda, rules, roles, and times. Embed iterations in the meeting design process and refine it to improve the IDOARRT.
 
-**STEP 4.** When you have your IDOART for your meeting, you can continue to create an even more concrete structure by creating an IDOART for each element of your agenda.
+**STEP 4.** When you have your IDOARRT for your meeting, you can continue to create an even more concrete structure by creating an IDOARRT for each element of your agenda.
 
 **STEP 5.** Revisit your intention and desired outcome to make sure the structure of your meeting still aligns with the goal.
 
-**STEP 6.** Present your IDOART at the beginning of the meeting. Offer participants the chance to ask questions and make suggestions for changes so everyone can agree on the plan before starting.
+**STEP 6.** Present your IDOARRT at the beginning of the meeting. Offer participants the chance to ask questions and make suggestions for changes so everyone can agree on the plan before starting.

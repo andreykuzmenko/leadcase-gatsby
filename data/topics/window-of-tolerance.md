@@ -36,7 +36,7 @@ Let's look at the "Window of Tolerance" in more detail.
 
 The Tolerance Window has three parts:
 
-1.  **Hyperarousal,** also known as the **"hit or run"** reaction. In this zone, you may experience anxiety or give in and react with outbursts of anger and aggression. You may also struggle with intrusive negative thoughts and be overly critical of yourself. You have difficulty resting, sleeping, or even digesting food - as if you are always on alert.
+1.  **Hyperarousal,** also known as the **"fight or flight"** reaction. In this zone, you may experience anxiety or give in and react with outbursts of anger and aggression. You may also struggle with intrusive negative thoughts and be overly critical of yourself. You have difficulty resting, sleeping, or even digesting food - as if you are always on alert.
 2.  **Hypoarousal,** also known as the "**freeze**" reaction. This is where you disconnect from the present, distancing yourself sometimes without remembering afterward what happened. You may feel separate from your thoughts and feelings, and those around you may feel that you are shutting down - as if you are always out of reach.
 3.  **Optimal arousal** is the range of emotional tension in which you think well, make decisions, and act - that state in which you are "okay."
 
@@ -78,6 +78,6 @@ Writing in a stressful situation can help you process your thoughts and feelings
 
 <!-- image: /images/cards/window-of-tolerance/optimal-arousal.png -->
 
-Extending the window of tolerance cannot be achieved by taking a "magic pill. For this purpose, it is necessary to do enough work on a self-learning, determination of one's limits, and development of new reactions to stressful situations.
+Extending the window of tolerance cannot be achieved by taking a "magic pill." For this purpose, it is necessary to do enough work on a self-learning, determination of one's limits, and development of new reactions to stressful situations.
 
 It is also important to note that in some cases, especially when there are some psychological traumas, it is better to seek help from a specialist

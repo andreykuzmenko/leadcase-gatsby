@@ -14,7 +14,7 @@ related:
 
 Have you ever wondered why certain apps on your phone are irresistible, leading you to spend more time than intended, or why some habits stick while others never take off?
 
-The secret lies not just in the design or your willpower but in **understanding the underlying psychology of behavior**. Enter the Fogg Behavior Model (FBM), a framework developed by Dr. B.J. Fogg, which unlocks the mysteries of behavior change. This **model** **offers a powerful lens** through which to view the complexities of human actions, making it invaluable for designers, marketers, and anyone interested in influencing behavior.
+The secret lies not just in the design or your willpower but in **understanding the underlying psychology of behavior**. Enter the Fogg Behavior Model (FBM), a framework developed by Dr. B.J. Fogg, which unlocks the mysteries of behavior change. This **model offers a powerful lens** through which to view the complexities of human actions, making it invaluable for designers, marketers, and anyone interested in influencing behavior.
 
 If you're struggling to motivate yourself or others to adopt new behaviors, the Fogg Behavior Model provides a structured approach to understanding and facilitating change.
 

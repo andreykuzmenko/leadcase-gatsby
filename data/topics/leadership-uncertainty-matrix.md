@@ -1,7 +1,7 @@
 ---
 id: leadership-uncertainty-matrix
 title: Leadership Uncertainty Matrix
-description: Match your mindset to the situation — optimism or discipline, depending on clarity
+description: Match your mindset to the situation. Optimism or discipline, depending on clarity.
 tags:
   - decision-making
 related:
@@ -14,8 +14,8 @@ When facing a difficult situation, leaders tend to treat their **emotional respo
 
 The **Leadership Uncertainty Matrix** separates these two things:
 
-1. **Reality** — is the situation determinate (clear) or indeterminate (uncertain)?
-2. **Attitude** — are you responding with optimism or pessimism?
+1. **Reality**: is the situation determinate (clear) or indeterminate (uncertain)?
+2. **Attitude**: are you responding with optimism or pessimism?
 
 Getting this combination right is one of the most underrated leadership skills.
 
@@ -28,13 +28,13 @@ The matrix creates four quadrants based on two axes:
 - **Horizontal axis**: Determinate (clarity exists) vs. Indeterminate (uncertainty)
 - **Vertical axis**: Optimism vs. Pessimism
 
-Each quadrant describes a distinct leadership mode — two of them effective, two of them costly.
+Each quadrant describes a distinct leadership mode. Two of them are effective, two of them are costly.
 
 ## 🟩 1. Confident Execution
 
 **Situation:** Determinate + Optimism
 
-**Mindset:** "We know what to do — let's win."
+**Mindset:** "We know what to do. Let's win."
 
 This is the optimal mode for clear, structured situations. The path forward exists, and the leader's job is to drive the team toward it with energy and direction.
 
@@ -46,13 +46,13 @@ This is the optimal mode for clear, structured situations. The path forward exis
 
 **Best for:** Scaling operations, proven systems, repeatable processes.
 
-**Watch out for:** Overconfidence — ignoring edge cases or signals that the situation has changed.
+**Watch out for:** Overconfidence, ignoring edge cases or signals that the situation has changed.
 
 ## 🟦 2. Exploratory Vision
 
 **Situation:** Indeterminate + Optimism
 
-**Mindset:** "We don't know yet — but we'll figure it out."
+**Mindset:** "We don't know yet, but we'll figure it out."
 
 This is the optimal mode for ambiguous, novel situations. Instead of forcing premature clarity, the leader frames uncertainty as opportunity and fuels the team's curiosity.
 
@@ -64,13 +64,13 @@ This is the optimal mode for ambiguous, novel situations. Instead of forcing pre
 
 **Best for:** Innovation, new products, strategy pivots, early-stage exploration.
 
-**Watch out for:** Unrealistic optimism — ignoring real constraints or avoiding necessary decisions.
+**Watch out for:** Unrealistic optimism, ignoring real constraints or avoiding necessary decisions.
 
 ## 🟨 3. Risk-Control Execution
 
 **Situation:** Determinate + Pessimism
 
-**Mindset:** "We know what to do — but let's be careful."
+**Mindset:** "We know what to do, but let's be careful."
 
 The path is clear, but the leader is focused on what could go wrong. This can be appropriate in high-stakes environments, but easily tips into over-caution.
 
@@ -80,7 +80,7 @@ The path is clear, but the leader is focused on what could go wrong. This can be
 - Slower, more careful execution
 - Multiple approval layers
 
-**Useful when:** Failure is expensive — finance, healthcare, compliance, safety-critical systems.
+**Useful when:** Failure is expensive: finance, healthcare, compliance, safety-critical systems.
 
 **Watch out for:** Bureaucracy, decision bottlenecks, and teams that stop taking initiative.
 
@@ -90,7 +90,7 @@ The path is clear, but the leader is focused on what could go wrong. This can be
 
 **Mindset:** "We don't know… and this is dangerous."
 
-This is the mode to avoid. Uncertainty is real, but the pessimistic response to it produces no movement — only analysis, delay, and anxiety.
+This is the mode to avoid. Uncertainty is real, but the pessimistic response to it produces no movement: only analysis, delay, and anxiety.
 
 **Behaviors:**
 - Avoidance of decisions
@@ -102,7 +102,7 @@ This is the mode to avoid. Uncertainty is real, but the pessimistic response to 
 
 ## ⚡ Matching mindset to reality
 
-Great leaders don't just pick an attitude — they **match their mindset to the actual situation** they're in.
+Great leaders don't just pick an attitude. They **match their mindset to the actual situation** they're in.
 
 | Situation | Best mindset |
 |---|---|
@@ -113,11 +113,11 @@ The key insight: **uncertainty requires optimism**. Without it, you get paralysi
 
 ## 🚨 Common failure patterns
 
-**Indeterminate + Pessimism** — teams get stuck, leaders wait for a plan that never arrives.
+**Indeterminate + Pessimism**: teams get stuck, leaders wait for a plan that never arrives.
 
-**Determinate + Too much optimism** — execution is fast but careless, and important risks get ignored.
+**Determinate + Too much optimism**: execution is fast but careless, and important risks get ignored.
 
-**Determinate + Too much pessimism** — the answer is known but the team moves too slowly to matter.
+**Determinate + Too much pessimism**: the answer is known but the team moves too slowly to matter.
 
 ## 🚀 Applying the matrix
 

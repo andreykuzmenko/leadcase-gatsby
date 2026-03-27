@@ -32,7 +32,7 @@ Let's review the details of each stage.
 
 ## 🧪 Concrete Experience
 
-This stage involve**s direct involvement** in a new experience or situation. It's about immersing oneself in an activity without bias or preconceptions.
+This stage **involves direct involvement** in a new experience or situation. It's about immersing oneself in an activity without bias or preconceptions.
 
 **Example in a Business Context**
 

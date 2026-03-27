@@ -98,11 +98,11 @@ When people understand that bargaining does not result in changes that are benef
 -   help people get out of the state of depression, support any attempts at active actions and provide positive feedback;
 -   show employees personal examples of involvement in the change project;
 
-## 😒 5. Adoption
+## 😒 5. Acceptance
 
 _"It'll be okay," "I can't beat this, but I can prepare well for it."_
 
-While **acceptance** is the final stage, it is essential to understand that it does not mean acceptance. People realize that further resistance is pointless and begin to evaluate prospects.
+While **acceptance** is the final stage, it is essential to understand that it does not mean resignation. People realize that further resistance is pointless and begin to evaluate prospects.
 
 Acceptance manifests itself as follows:
 
@@ -112,7 +112,7 @@ Acceptance manifests itself as follows:
 
 ### What can you do at this point?
 
--   reinforce and reinforce new behaviors;
+-   reinforce new behaviors;
 -   reward successes and achievements;
 -   develop and set new goals.
 

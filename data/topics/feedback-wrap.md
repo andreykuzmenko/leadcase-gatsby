@@ -21,7 +21,7 @@ We all have different experiences and perceptions of situations. What is conside
 
 In teamwork, it's essential to create a space where it's safe to express your feelings, especially when something is wrong. After all, expressing gratitude is much easier and more enjoyable than sharing something negative, which, in turn, can hurt people's feelings.
 
-**What's the best way to approach handling feedback?"**
+**"What's the best way to approach handling feedback?"**
 
 The answer may lie in using the "**Feedback Wrap**" tool as a mature way to express your opinion without creating conflict.
 
@@ -86,8 +86,6 @@ Try to resolve conflicts early on, especially when working remotely.
 **Don't let the conflict manifest itself**. If there's a problem on a remote team, it's important to point out the issue in a timely manner, without accusations, so the person knows how you feel.
 
 **Don't use text messages** to exchange feedback. Call a person with your camera on, and talk through the difficulties you encountered.
-
-**Don't use text messages** to share feedback.
 
 ## 👉 Full example
 

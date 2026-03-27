@@ -114,7 +114,7 @@ Millions of years of evolution have taught our brains to behave differently, res
 
 Imagine you are an early man living 200,000 years ago on a desert plain. Your brain will react very differently to the threat of being chased by a tiger compared to the potential reward of fruit high up in a tree.
 
-In the first situation, all you have to do is run. In second, creativity and intelligent thinking may be required.
+In the first situation, all you have to do is run. In the second, creativity and intelligent thinking may be required.
 
 Examples of the differences between the different states:
 

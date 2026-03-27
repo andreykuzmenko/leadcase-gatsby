@@ -29,7 +29,7 @@ related:
 
 Decision-making by a team can be quite a complex and painful process, especially when people are focused on finding the perfect solution. In addition, teams very often try to get the support of all their members, trying to come to a consensus. This, in turn, can make the initial idea much worse, meeting the needs of all sides.
 
-If you are familiar with these challenges and are looking for an alternative to consensus, then **Consensus Decision Making** is a good option.
+If you are familiar with these challenges and are looking for an alternative to consensus, then **Consent Decision Making** is a good option.
 
 ## 🤝 Consent Decision Process
 
@@ -149,6 +149,6 @@ When using the Consent method, **it's also important to talk through the ground 
 1.  I intend to execute this agreement to the best of my ability if there are no objections to the agreement.
 2.  I agree to voice objections when I have them.
 3.  I will consider objections to proposals, agreements, and actions for which I am responsible and will try to resolve objections if I can.
-4.  I will actively review the agreements under consideration to see if there are any possible objections for you.
+4.  I will actively review the agreements under consideration to see if there are any possible objections for me.
 
 Now you can get to decisions!

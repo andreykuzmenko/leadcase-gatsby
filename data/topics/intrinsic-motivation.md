@@ -36,7 +36,7 @@ Daniel Pink identifies three types of operating systems:
 2.  **Motivation 2.0. (External)** Do something because of external factors, usually the presence of punishments and/or rewards.
 3.  **Motivation 3.0.** **(Internal)** Do something for ourselves because we enjoy it.
 
-If we transfer these concepts to the workplace, we find that motivation 2.0 is the most common of all. But is it best to keep employees motivated and utilize their potential 100%?"
+If we transfer these concepts to the workplace, we find that motivation 2.0 is the most common of all. But is it best to keep employees motivated and utilize their potential 100%?
 
 ## 🧐 Components of intrinsic motivation
 
@@ -55,8 +55,6 @@ Let's look at each of these in more detail.
 **Autonomy** is the need to manage your life and work. To be fully motivated, you must control what you do when you do it and who you do it with.
 
 Autonomy encourages us to think creatively without resorting to strict rules in the workplace. By rethinking traditional notions of control - regular work hours, dress codes, quantifiable metrics, etc. - organizations can increase employee autonomy, build trust, and improve innovation and creativity.
-
-An organization can increase employee autonomy, build trust, and improve innovation and creativity.
 
 ## 🤹‍♀️ Mastery
 
@@ -79,5 +77,3 @@ In many organizations **the development of autonomy, mastery, and purpose** is l
 Organizations that operate under strict deadlines and protocols and therefore may find this motivational structure challenging or even harmful.
 
 Be aware that the **reasons for satisfaction and dissatisfaction can be complex**. Even if your team members love their work, they may still be demotivated by other factors, such as poor working relationships, for example.
-
-Be aware that the **reasons for satisfaction and dissatisfaction can be complex.**

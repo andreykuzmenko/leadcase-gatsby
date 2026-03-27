@@ -17,11 +17,11 @@ The **Adizes Management Framework** might be the solution you need. Developed by
 
 In management, it ensures a well-rounded leadership approach, balancing strategic planning, innovation, process control, and team dynamics. For operational teams, it enhances task execution, innovation in processes, and adherence to systems, and it fosters a collaborative work environment. By aligning team members' strengths with the appropriate roles, teams can achieve higher efficiency, better problem-solving, and more dynamic adaptability to changing business needs.
 
-## ⚙️ PEAI Framework
+## ⚙️ PAEI Framework
 
 <!-- image: /images/cards/paei-model/peai-framework.png -->
 
-The **PEAI Framework** consists of four key management roles:
+The **PAEI Framework** consists of four key management roles:
 
 1.  **Producer** (P): Focuses on task execution and achieving results.
 2.  **Entrepreneur** (E): Drives innovation and seeks new opportunities.
@@ -111,6 +111,6 @@ Applying the Adizes Management Framework in a concise manner involves the follow
 
 ## 🦸‍♂️ Ideal Manager
 
-While it is possible for one person to have skills and tendencies in all four roles of the PEAI Framework, it is quite rare for someone to excel equally in all these aspects. Each role requires a distinct set of skills and a particular mindset
+While it is possible for one person to have skills and tendencies in all four roles of the PAEI Framework, it is quite rare for someone to excel equally in all these aspects. Each role requires a distinct set of skills and a particular mindset
 
 **Individuals typically have natural strengths in one or two areas**, and while they can develop capabilities in others, achieving high proficiency in all simultaneously is challenging. Therefore, a **balanced team approach** is often more effective than relying on a single individual to fulfill all these roles.
