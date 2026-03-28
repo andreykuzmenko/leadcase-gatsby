@@ -1,19 +1,4 @@
 {
-  "hooks": {
-    "PostToolUse": [
-      {
-        "matcher": "Edit|Write",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "node \"D:/Development/Test/leadcase-gatsby/.claude/run-tests-on-change.js\"",
-            "async": true,
-            "statusMessage": "Running tests..."
-          }
-        ]
-      }
-    ]
-  },
   "permissions": {
     "allow": [
       "WebFetch(domain:leadcase.net)",
@@ -134,7 +119,23 @@
       "Bash(node -e \"const d=JSON.parse\\(require\\(''''fs''''\\).readFileSync\\(''''/dev/stdin'''',''''utf8''''\\)\\); const f=d.tool_input.file_path||''''''''; process.exit\\(f.includes\\(''''/src/''''\\) || f.includes\\(''''/data/''''\\) ? 0 : 1\\)\")",
       "Bash(node -e \"let d='''''''';process.stdin.on\\(''''data'''',c=>d+=c\\);process.stdin.on\\(''''end'''',\\(\\)=>{const f=JSON.parse\\(d\\).tool_input.file_path||'''''''';process.exit\\(/[/\\\\]\\(src|data\\)[/\\\\]/.test\\(f\\)?0:1\\)}\\)\")",
       "Bash(node -e \"let d='''''''';process.stdin.on\\(''''data'''',c=>d+=c\\);process.stdin.on\\(''''end'''',\\(\\)=>{const f=JSON.parse\\(d\\).tool_input.file_path||'''''''';const ok=f.includes\\(''''/src/''''\\)||f.includes\\(''''\\\\src\\\\''''\\)||f.includes\\(''''/data/''''\\)||f.includes\\(''''\\\\data\\\\''''\\);process.exit\\(ok?0:1\\)}\\)\")",
-      "Bash(node \"D:/Development/Test/leadcase-gatsby/.claude/run-tests-on-change.js\")"
+      "Bash(node \"D:/Development/Test/leadcase-gatsby/.claude/run-tests-on-change.js\")",
+      "Bash(git fetch:*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"D:/Development/Test/leadcase-gatsby/.claude/run-tests-on-change.js\"",
+            "statusMessage": "Running tests...",
+            "async": true
+          }
+        ]
+      }
     ]
   }
 }
