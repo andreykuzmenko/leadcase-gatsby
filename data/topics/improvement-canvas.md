@@ -2,6 +2,7 @@
 id: improvement-canvas
 title: Improvement Canvas
 description: Explore where you are now and decide where you want to go next
+metaDescription: 'The Improvement Canvas walks a team from the current state to a shared vision and first concrete actions, making systematic problem-solving practical and visual.'
 topicType: Workshop
 tags:
   - problem-solving

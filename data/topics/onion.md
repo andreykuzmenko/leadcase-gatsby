@@ -2,6 +2,7 @@
 id: onion
 title: 'Onion: Conflict Resolution'
 description: Reveal people's needs that they want to satisfy in a conflict
+metaDescription: 'The Onion conflict model peels back surface positions to reveal underlying interests and needs, making it easier to find solutions both sides can accept.'
 topicType: Tool
 tags:
   - communication

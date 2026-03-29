@@ -2,6 +2,7 @@
 id: feedback-circle
 title: Feedback Circle
 description: Build a culture of feedback sharing in the team.
+metaDescription: 'The Feedback Circle workshop creates a space where team members give each other direct, behavior-focused feedback and start building a culture of openness.'
 topicType: Workshop
 tags:
   - team-activation

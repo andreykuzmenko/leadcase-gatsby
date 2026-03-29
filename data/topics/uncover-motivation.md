@@ -2,6 +2,7 @@
 id: uncover-motivation
 title: Uncover Motivation
 description: Find out what motivates your team members
+metaDescription: 'Uncover Motivation is a structured 1:1 exercise that maps what matters most to each person and highlights where current work is falling short of their key drivers.'
 tags:
   - coaching
   - people-development

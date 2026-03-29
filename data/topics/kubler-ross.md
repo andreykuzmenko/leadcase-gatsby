@@ -2,6 +2,7 @@
 id: kubler-ross
 title: Kubler-Ross Change Curve
 description: How people react to changes and what you can do to help them
+metaDescription: 'The Kubler-Ross Change Curve shows the five emotional stages people move through during change, giving leaders practical actions for each stage.'
 topicType: Tool
 tags:
   - change-management

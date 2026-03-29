@@ -2,6 +2,7 @@
 id: thomas-kilmann
 title: The Thomas-Kilmann Model
 description: Choose conflict resolution tactics depending on your goals
+metaDescription: 'The Thomas-Kilmann Model maps five conflict tactics against assertiveness and cooperation, helping you pick the right approach for each situation you face.'
 tags:
   - communication
 links:

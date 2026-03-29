@@ -2,6 +2,7 @@
 id: cynefin
 title: Cynefin framework
 description: Mastering Decision-Making Across Complex Environments
+metaDescription: 'The Cynefin framework helps you read any situation correctly, from routine to chaotic, and choose the right decision-making approach for each context.'
 tags:
   - decision-making
 links: []

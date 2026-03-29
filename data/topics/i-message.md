@@ -4,6 +4,7 @@ title: I-messages
 description: |-
   Communicate concerns, feelings, and needs without
   blaming others or sounding threatening
+metaDescription: 'Learn to use I-messages to express frustration without accusations, keeping conversations productive and reducing the chance of conflict escalating.'
 topicType: Tool
 tags:
   - communication

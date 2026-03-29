@@ -2,6 +2,7 @@
 id: trust-triangle
 title: The Triangle of Trust
 description: Build trusting relationships with people
+metaDescription: 'The Triangle of Trust shows how authenticity, logic, and empathy work together to earn trust, and which driver is most likely causing it to break down.'
 tags:
   - self-awareness
 links:

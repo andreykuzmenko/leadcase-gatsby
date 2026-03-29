@@ -2,6 +2,7 @@
 id: decision-making-matrix
 title: Decision-making matrix
 description: Choose the best option by considering multiple factors
+metaDescription: 'A decision-making matrix helps your team weigh multiple criteria objectively and pick the best option with numbers instead of gut feelings.'
 topicType: Tool
 tags:
   - decision-making

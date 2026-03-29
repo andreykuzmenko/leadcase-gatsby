@@ -2,6 +2,7 @@
 id: leadership-uncertainty-matrix
 title: Leadership Uncertainty Matrix
 description: Match your mindset to the situation. Optimism or discipline, depending on clarity.
+metaDescription: 'The Leadership Uncertainty Matrix helps leaders stop confusing their feelings with reality and choose the right mindset for clear versus uncertain situations.'
 tags:
   - decision-making
 related:

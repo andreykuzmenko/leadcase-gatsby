@@ -4,6 +4,7 @@ title: Consent Decision-Making
 description: >-
   Make "good enough" decisions when speed is needed, proposals are clearly
   defined, and the impact of decisions is limited and reversible.
+metaDescription: 'Consent Decision-Making replaces the search for perfect consensus with a structured process for reaching fast, good-enough decisions without endless debate.'
 tags:
   - team-activation
 links:

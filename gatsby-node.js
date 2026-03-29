@@ -73,6 +73,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest, reporter })
     createNode({
       title: (fm.title || '').trim(),
       description: fm.description || '',
+      metaDescription: fm.metaDescription || fm.description || '',
       slug: fm.id,
       orderRank: orderMap[fm.id],
       topicType: fm.topicType || null,

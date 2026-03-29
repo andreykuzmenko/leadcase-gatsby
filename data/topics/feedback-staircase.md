@@ -2,6 +2,7 @@
 id: feedback-staircase
 title: Feedback Staircase
 description: Navigate emotions to transform feedback into growth
+metaDescription: 'The Feedback Staircase shows the six emotional stages people go through after receiving feedback, from denial to conscious change, and how to move through them.'
 tags:
   - team-activation
   - self-awareness

@@ -2,6 +2,7 @@
 id: intrinsic-motivation
 title: Intrinsic motivation
 description: Boost engagement and performance by focusing on inner motivational factors
+metaDescription: 'Intrinsic motivation based on autonomy, mastery, and purpose outperforms carrot-and-stick rewards for knowledge work. Learn how to apply it with your team.'
 tags:
   - self-awareness
   - people-development

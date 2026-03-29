@@ -2,6 +2,7 @@
 id: coin-feedback-model
 title: COIN feedback model
 description: 'Correct behavior by giving clear, structured, and actionable feedback'
+metaDescription: 'The COIN feedback model guides you through Context, Observation, Impact, and Next Steps so feedback lands clearly and leads to real change.'
 tags:
   - team-activation
 links: []

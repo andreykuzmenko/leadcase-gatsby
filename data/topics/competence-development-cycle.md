@@ -2,6 +2,7 @@
 id: competence-development-cycle
 title: Competence Development Cycle
 description: Master new abilities from unconscious incompetence to competence
+metaDescription: 'The Competence Development Cycle maps the four stages every learner passes through, helping coaches set realistic expectations and keep people motivated.'
 tags:
   - team-activation
 links:

@@ -2,6 +2,7 @@
 id: inversion-thinking
 title: Inversion thinking
 description: Flip your perspective to solve problems creatively
+metaDescription: 'Inversion thinking asks what would cause you to fail instead of what would make you succeed, turning potential failures into a practical action plan.'
 tags:
   - decision-making
   - problem-solving

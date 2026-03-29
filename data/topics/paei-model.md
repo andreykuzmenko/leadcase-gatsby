@@ -2,6 +2,7 @@
 id: paei-model
 title: PAEI Model (Management roles)
 description: Balance team roles for optimal efficiency and results.
+metaDescription: 'The PAEI Model identifies four management roles: Producer, Administrator, Entrepreneur, and Integrator, and shows how balancing them lifts team performance.'
 tags:
   - team-activation
 links: []

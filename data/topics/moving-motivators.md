@@ -2,6 +2,7 @@
 id: moving-motivators
 title: Moving Motivators
 description: Work with motivators of your team members to keep them engaged
+metaDescription: 'Moving Motivators surfaces each person''s top intrinsic drivers and shows how an upcoming change will affect them, before the friction starts.'
 tags:
   - team-activation
   - people-development

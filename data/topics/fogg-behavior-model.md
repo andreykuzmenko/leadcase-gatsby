@@ -2,6 +2,7 @@
 id: fogg-behavior-model
 title: Fogg Behavior Model
 description: 'Align motivation, ability, and cues to trigger desired behaviors'
+metaDescription: 'The Fogg Behavior Model explains why habits form or fail by breaking behavior down into motivation, ability, and the right prompt at the right moment.'
 tags:
   - self-awareness
   - change-management

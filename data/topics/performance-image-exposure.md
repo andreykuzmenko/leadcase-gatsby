@@ -2,6 +2,7 @@
 id: performance-image-exposure
 title: 'Performance, Image, Exposure'
 description: 'Grow your career through performance, perception, and strategic visibility'
+metaDescription: 'The PIE model reveals that performance is only 10% of career growth. Learn how image and exposure drive the other 90% and what to do about it.'
 tags:
   - self-awareness
 links: []

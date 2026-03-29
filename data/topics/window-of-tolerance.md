@@ -2,6 +2,7 @@
 id: window-of-tolerance
 title: The Window of Tolerance
 description: Monitor your level of emotional state
+metaDescription: 'The Window of Tolerance explains why stress pushes us into fight-or-flight or shutdown, and gives practical techniques to expand your emotional range over time.'
 tags:
   - self-awareness
 links:

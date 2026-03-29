@@ -4,6 +4,7 @@ title: 'IDOARRT: Meeting Design'
 description: >-
   Lead an effective meeting or group process by thinking through the meeting
   structure
+metaDescription: 'IDOARRT gives you a six-element checklist for meeting design, covering intention, outcomes, agenda, rules, roles, and time, so nothing important gets skipped.'
 topicType: Tool
 tags:
   - facilitation

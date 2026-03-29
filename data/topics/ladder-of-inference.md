@@ -2,6 +2,7 @@
 id: ladder-of-inference
 title: The ladder of inference
 description: Avoid jumping to conclusions too fast. Make decisions based on real data
+metaDescription: 'The Ladder of Inference shows how we jump from raw data to firm beliefs in seconds, and how to slow that process down to make better decisions.'
 tags:
   - communication
 links:

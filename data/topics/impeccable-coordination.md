@@ -2,6 +2,7 @@
 id: impeccable-coordination
 title: Impeccable Coordination
 description: Coordinate agreements and actions through commitments
+metaDescription: 'Impeccable Coordination replaces vague promises with clear requests, explicit commitments, and structured responses that teams can actually rely on.'
 topicType: Tool
 tags:
   - communication

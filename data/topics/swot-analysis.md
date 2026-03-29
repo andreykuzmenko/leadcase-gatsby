@@ -2,6 +2,7 @@
 id: swot-analysis
 title: SWOT analysis
 description: Assess internal and external factors to guide decision-making
+metaDescription: 'SWOT Analysis maps your strengths, weaknesses, opportunities, and threats in one view, giving you a solid foundation for smarter strategic decisions.'
 tags:
   - decision-making
 links: []

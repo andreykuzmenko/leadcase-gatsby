@@ -2,6 +2,7 @@
 id: conflict-escalation-model
 title: Conflict Escalation Model
 description: Understanding the dynamics of conflict for effective resolution
+metaDescription: 'Glasl''s Conflict Escalation Model outlines nine stages from minor tension to full breakdown, so you can spot the right moment to step in and de-escalate.'
 tags:
   - communication
 links: []

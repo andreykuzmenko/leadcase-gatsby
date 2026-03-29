@@ -2,6 +2,7 @@
 id: scarf
 title: SCARF
 description: Communicate with people in a way that makes them feel safe
+metaDescription: 'The SCARF model explains how Status, Certainty, Autonomy, Relatedness, and Fairness shape how people respond to you, and how to use that knowledge as a leader.'
 tags:
   - communication
 links:

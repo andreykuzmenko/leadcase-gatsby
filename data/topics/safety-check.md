@@ -2,6 +2,7 @@
 id: safety-check
 title: Safety check
 description: Keep track of your team's security level
+metaDescription: 'A Safety Check gives your team an anonymous, one-minute way to signal how safe they feel speaking up, so you can adjust the meeting before it starts.'
 tags:
   - team-activation
 links:

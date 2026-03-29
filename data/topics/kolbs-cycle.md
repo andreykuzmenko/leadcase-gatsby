@@ -2,6 +2,7 @@
 id: kolbs-cycle
 title: Kolb's Learning Cycle
 description: 'Transform experiences into continuous, impactful learning journeys'
+metaDescription: 'Kolb''s Learning Cycle turns any experience into a structured lesson by moving through doing, reflecting, conceptualizing, and experimenting in sequence.'
 tags:
   - coaching
 links: []

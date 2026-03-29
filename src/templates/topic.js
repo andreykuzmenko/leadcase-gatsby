@@ -161,6 +161,7 @@ export const query = graphql`
     topic: topic(slug: { eq: $slug }) {
       title
       description
+      metaDescription
       slug
       topicType
       tagTitles
@@ -193,18 +194,19 @@ export const query = graphql`
 export default TopicTemplate
 
 export const Head = ({ data }) => {
-  const { title, description, slug } = data.topic
+  const { title, description, metaDescription, slug } = data.topic
   const siteUrl = data.site.siteMetadata.siteUrl
   const pageUrl = `${siteUrl}/topics/${slug}/`
   const imageUrl = `${siteUrl}/images/topics/${slug}.png`
+  const seoDescription = metaDescription || description
   return (
     <>
       <title>{title} | Leadcase</title>
-      <meta name="description" content={description} />
+      <meta name="description" content={seoDescription} />
       <meta property="og:type" content="article" />
       <meta property="og:url" content={pageUrl} />
       <meta property="og:title" content={title} />
-      <meta property="og:description" content={description} />
+      <meta property="og:description" content={seoDescription} />
       <meta property="og:image" content={imageUrl} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title} />

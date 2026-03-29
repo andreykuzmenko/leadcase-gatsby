@@ -2,6 +2,7 @@
 id: personal-maps
 title: Personal maps
 description: Increase trust in the team through personal stories
+metaDescription: 'Personal Maps is a Management 3.0 practice that helps teammates get to know each other as whole people, building empathy and trust across the team.'
 tags:
   - team-activation
 links:

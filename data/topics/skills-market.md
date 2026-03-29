@@ -2,6 +2,7 @@
 id: skills-market
 title: Skills Market
 description: Learn more about the skills of your team members
+metaDescription: 'The Skills Market workshop makes hidden talents visible by asking everyone to map current, hidden, and desired skills, then share what they can offer or learn from others.'
 topicType: Workshop
 tags:
   - team-activation

@@ -2,6 +2,7 @@
 id: iceberg
 title: Iceberg model
 description: Uncover the root causes of events by looking at hidden levels of abstractions
+metaDescription: 'The Iceberg model reveals how events are just the visible tip; real change happens when you address the patterns, structures, and mental models underneath.'
 topicType: Tool
 tags:
   - change-management

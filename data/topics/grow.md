@@ -2,6 +2,7 @@
 id: grow
 title: GROW
 description: Coaching model for goal setting and problem solving
+metaDescription: 'Apply the GROW coaching model to guide any one-on-one conversation from defining a goal through exploring reality and options to committing to next steps.'
 topicType: Tool
 tags:
   - coaching

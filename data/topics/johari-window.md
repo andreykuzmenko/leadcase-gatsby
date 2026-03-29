@@ -4,6 +4,7 @@ title: The Johari Window
 description: >-
   Analyze the relationship between your personal qualities and how they are
   perceived by others
+metaDescription: 'Use the Johari Window to map blind spots, build self-awareness, and improve how your team gives and receives honest feedback.'
 tags:
   - self-awareness
   - coaching

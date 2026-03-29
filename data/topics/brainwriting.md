@@ -2,6 +2,7 @@
 id: brainwriting
 title: Brainwriting
 description: Involve all team members in generating ideas during brainstorming sessions
+metaDescription: 'Brainwriting gives quieter team members an equal voice by having everyone write ideas in silence and build on each other''s thinking round by round.'
 tags:
   - facilitation
 links:

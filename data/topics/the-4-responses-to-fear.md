@@ -2,6 +2,7 @@
 id: the-4-responses-to-fear
 title: The 4 Responses to Fear
 description: Identifying and managing fear for effective workplace leadership
+metaDescription: 'The 4 Responses to Fear framework helps you recognize whether you are fighting, fleeing, freezing, or facing a threat, and choose a more effective response.'
 tags:
   - self-awareness
   - decision-making

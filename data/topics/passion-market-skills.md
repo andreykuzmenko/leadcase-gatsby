@@ -2,6 +2,7 @@
 id: passion-market-skills
 title: 'Passion, Market, and Skills'
 description: 'Align interests, market demand, and personal expertise for career success'
+metaDescription: 'The Passion, Market, and Skills framework helps you find work that sits at the intersection of what you love, what you are good at, and what pays.'
 tags:
   - coaching
 links: []

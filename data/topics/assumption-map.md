@@ -2,6 +2,7 @@
 id: assumption-map
 title: Assumption map
 description: Reduce dependence on mere guesswork when considering new ideas
+metaDescription: 'Use an Assumption Map to sort your riskiest beliefs by certainty and impact before you invest time and money in a new idea or product.'
 tags:
   - decision-making
 links:

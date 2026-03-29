@@ -2,6 +2,7 @@
 id: minto-pyramid
 title: The Minto Pyramid
 description: Communicate complex information in a way that is easy to understand
+metaDescription: 'The Minto Pyramid teaches you to lead with your conclusion, then support it with key arguments and data, so your audience grasps the point immediately.'
 tags:
   - communication
 links:

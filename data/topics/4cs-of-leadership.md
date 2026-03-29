@@ -2,6 +2,7 @@
 id: 4cs-of-leadership
 title: 4 Cs of Leadership
 description: Build lasting leadership on competency, commitment, courage, and candor
+metaDescription: 'The 4 Cs of Leadership shows how competency, commitment, courage, and candor determine whether people choose to follow you or just comply.'
 tags:
   - coaching
   - people-development
