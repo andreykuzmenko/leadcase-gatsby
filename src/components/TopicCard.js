@@ -8,7 +8,7 @@ const TopicCard = ({ slug, title, description, image, topicType, tagTitles = [] 
     <Link to={`/topics/${slug}`} className={styles.card}>
       <div className={styles.imageWrap}>
         {image ? (
-          <GatsbyImage image={image} alt="" className={styles.image} />
+          <GatsbyImage image={image} alt={title} className={styles.image} />
         ) : (
           <div className={styles.imagePlaceholder}>
             {title.charAt(0)}
