@@ -202,6 +202,7 @@ export const Head = ({ data }) => {
   return (
     <>
       <title>{title} | Leadcase</title>
+      <link rel="canonical" href={pageUrl} />
       <meta name="description" content={seoDescription} />
       <meta property="og:type" content="article" />
       <meta property="og:url" content={pageUrl} />

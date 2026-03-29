@@ -165,5 +165,6 @@ export const Head = () => (
   <>
     <title>Leader's toolbox | Leadcase</title>
     <meta name="description" content="Collection of tools, frameworks, models, and ideas to grow people and improve teamwork." />
+    <link rel="canonical" href="https://leadcase.net/" />
   </>
 )
