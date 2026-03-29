@@ -120,7 +120,17 @@
       "Bash(node -e \"let d='''''''';process.stdin.on\\(''''data'''',c=>d+=c\\);process.stdin.on\\(''''end'''',\\(\\)=>{const f=JSON.parse\\(d\\).tool_input.file_path||'''''''';process.exit\\(/[/\\\\]\\(src|data\\)[/\\\\]/.test\\(f\\)?0:1\\)}\\)\")",
       "Bash(node -e \"let d='''''''';process.stdin.on\\(''''data'''',c=>d+=c\\);process.stdin.on\\(''''end'''',\\(\\)=>{const f=JSON.parse\\(d\\).tool_input.file_path||'''''''';const ok=f.includes\\(''''/src/''''\\)||f.includes\\(''''\\\\src\\\\''''\\)||f.includes\\(''''/data/''''\\)||f.includes\\(''''\\\\data\\\\''''\\);process.exit\\(ok?0:1\\)}\\)\")",
       "Bash(node \"D:/Development/Test/leadcase-gatsby/.claude/run-tests-on-change.js\")",
-      "Bash(git fetch:*)"
+      "Bash(git fetch:*)",
+      "Bash(brew install:*)",
+      "Read(//Users/Andrii/Documents/Development/Claude/**)",
+      "Bash(create-dmg --volname \"Reel Transcriber\" --window-pos 200 120 --window-size 540 380 --icon-size 128 --icon \"Reel Transcriber.app\" 140 190 --hide-extension \"Reel Transcriber.app\" --app-drop-link 400 190 \"dist/Reel Transcriber.dmg\" \"dist/Reel Transcriber.app\")",
+      "Bash(grep -l \"metaDescription\" /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
+      "Bash(grep -c \"metaDescription\" /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
+      "Bash(grep -rL \"metaDescription\" /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
+      "Bash(grep -l \"Producer, Administrator, Entre\" /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
+      "Bash(grep -n \"^metaDescription:\" /Users/Andrii/Documents/Development/Leadcase/data/topics/*.md)",
+      "Bash(grep -v \"metaDescription: $\")",
+      "Bash(find /Users/Andrii/Documents/Development/Leadcase/public -path */johari-window* -name *.html)"
     ]
   },
   "hooks": {
