@@ -2,7 +2,7 @@
 id: situational-leadership
 title: Situational Leadership
 description: Choose a leadership style depending on the level of team members
-metaDescription: 'Situational Leadership by Hersey and Blanchard shows why the same style applied to all employees backfires and how to match your approach to each person''s development level.'
+metaDescription: Situational Leadership shows why the same style applied to all employees backfires and how to match your approach to each person's level.
 tags:
   - team-activation
 links:

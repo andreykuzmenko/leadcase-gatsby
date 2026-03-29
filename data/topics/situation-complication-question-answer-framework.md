@@ -4,7 +4,7 @@ title: SCQA Framework
 description: >-
   Structure information from context to solution for clear, engaging
   communication
-metaDescription: 'The SCQA Framework gives any message a narrative spine, moving from situation to complication to question to answer so your audience stays engaged throughout.'
+metaDescription: 'The SCQA Framework gives any message a narrative spine: situation, complication, question, answer, so your audience stays engaged throughout.'
 tags:
   - communication
 links: []

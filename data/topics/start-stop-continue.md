@@ -2,7 +2,7 @@
 id: start-stop-continue
 title: 'Start, Stop, Continue'
 description: Analyze your experience and find practical ideas for continuous improvement
-metaDescription: 'Start, Stop, Continue is a simple retrospective format that helps any team surface what is working, what is not, and what to try next, with clear action items.'
+metaDescription: 'Start, Stop, Continue is a simple retrospective format to surface what is working, what is not, and what to try next as a team.'
 topicType: Workshop
 tags:
   - team-activation

@@ -4,7 +4,7 @@ title: Roles and responsibilities
 description: >-
   Define roles and expectations from them for coordinated and effective team
   work
-metaDescription: 'Run a Roles and Responsibilities workshop to surface mismatched expectations, clarify who owns what, and reduce the conflict that comes from unclear boundaries.'
+metaDescription: A Roles and Responsibilities workshop surfaces mismatched expectations, clarifies who owns what, and reduces conflict from unclear boundaries.
 topicType: Workshop
 tags:
   - team-activation

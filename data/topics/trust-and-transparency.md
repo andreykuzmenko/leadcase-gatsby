@@ -4,7 +4,7 @@ title: Matrix of trust and transparency
 description: >-
   Build relationships with people through transparency to have a high level of
   trust
-metaDescription: 'The Matrix of Trust and Transparency shows how visibility into your work builds credibility over time, and what happens when transparency drops on long projects.'
+metaDescription: The Matrix of Trust and Transparency shows how visibility builds credibility and what happens when transparency drops on long projects.
 tags:
   - communication
 links: []

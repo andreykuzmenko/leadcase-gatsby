@@ -2,7 +2,7 @@
 id: feedback-wrap
 title: Feedback Wrap
 description: Provide constructive feedback in a structured and effective manner
-metaDescription: 'Feedback Wrap from Management 3.0 gives you a five-step structure to share honest feedback without blame, using context, observations, feelings, needs, and a suggestion.'
+metaDescription: 'Feedback Wrap gives you a five-step structure to share honest feedback without blame: context, observations, feelings, needs, and a suggestion.'
 tags:
   - team-activation
 links:

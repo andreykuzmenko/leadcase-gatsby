@@ -2,7 +2,7 @@
 id: trust-model
 title: ABCD Trust Model
 description: Build trust with people supported by actions and behavior
-metaDescription: 'The ABCD Trust Model by Ken Blanchard breaks trust into four behaviors: being Able, Believable, Connected, and Dependable, showing exactly where to focus to rebuild it.'
+metaDescription: 'The ABCD Trust Model breaks trust into four behaviors: Able, Believable, Connected, and Dependable, showing exactly where to focus to rebuild it.'
 tags:
   - self-awareness
 links: []

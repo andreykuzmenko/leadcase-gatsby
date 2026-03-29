@@ -2,7 +2,7 @@
 id: hackman
 title: Hackman's model
 description: Six necessary conditions for creating an effective team
-metaDescription: 'Hackman''s model identifies the six conditions that make teams genuinely effective, showing why 60% of team success is determined before the work even begins.'
+metaDescription: 'Hackman''s model identifies six conditions that make teams effective, and shows why 60% of team success is determined before the work begins.'
 tags:
   - team-activation
 links:

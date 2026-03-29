@@ -2,7 +2,7 @@
 id: team-canvas
 title: Team Canvas
 description: Align team members on project objectives and common ways of working
-metaDescription: 'Team Canvas aligns a new or existing team on shared goals, values, roles, and working rules in one focused session, preventing the confusion that slows teams down.'
+metaDescription: Team Canvas aligns a team on shared goals, values, roles, and working rules in one focused session, preventing the confusion that slows teams.
 topicType: Workshop
 tags:
   - team-activation

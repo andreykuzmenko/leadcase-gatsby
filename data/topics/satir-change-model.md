@@ -2,7 +2,7 @@
 id: satir-change-model
 title: The Satir Change Model
 description: Navigate and manage change through emotional and psychological stages
-metaDescription: 'The Satir Change Model traces the emotional journey from the old status quo through resistance and chaos to integration, giving leaders a roadmap to support their team.'
+metaDescription: The Satir Change Model traces the emotional journey from old status quo through chaos to integration, giving leaders a roadmap to support change.
 tags:
   - change-management
 links: []

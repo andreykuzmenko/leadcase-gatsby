@@ -2,7 +2,7 @@
 id: zone-of-genius
 title: Zone of Genius
 description: Align work with natural talents and passions for maximum fulfillment
-metaDescription: 'The Zone of Genius framework helps you map where your skills and passion overlap so you can spend more time on work that energizes you and less on what drains you.'
+metaDescription: The Zone of Genius helps you map where your skills and passion overlap so you spend more time on energizing work and less on what drains you.
 topicType: Tool
 tags:
   - self-awareness
