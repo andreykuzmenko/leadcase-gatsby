@@ -34,7 +34,7 @@ const TopicTemplate = ({ data }) => {
             <div style={{ display: 'flex', alignItems: 'flex-start', gap: 24 }}>
               {image && (
                 <div style={{ flexShrink: 0 }}>
-                  <GatsbyImage image={image} alt="" style={{ width: 90, height: 90, display: 'block' }} />
+                  <GatsbyImage image={image} alt={topic.title} style={{ width: 90, height: 90, display: 'block' }} />
                 </div>
               )}
               <div style={{ flex: 1 }}>
@@ -77,7 +77,7 @@ const TopicTemplate = ({ data }) => {
               {(c.image?.localUrl || c.image?.url) && (
                 <img
                   src={c.image.localUrl ? withPrefix(c.image.localUrl) : c.image.url}
-                  alt=""
+                  alt={c.title || ''}
                   style={{
                     display: 'block',
                     width: '100%',
