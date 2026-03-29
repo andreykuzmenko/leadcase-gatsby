@@ -196,7 +196,7 @@ export default TopicTemplate
 export const Head = ({ data }) => {
   const { title, description, metaDescription, slug } = data.topic
   const siteUrl = data.site.siteMetadata.siteUrl
-  const pageUrl = `${siteUrl}/topics/${slug}`
+  const pageUrl = `${siteUrl}/topics/${slug}/`
   const imageUrl = `${siteUrl}/images/topics/${slug}.png`
   const seoDescription = metaDescription || description
   return (
